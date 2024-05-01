@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://ca7qq5vcjsgs7"]
+
+[ext_resource type="Script" path="res://scripts/asteroid.gd" id="1_2qtu7"]
+[ext_resource type="ArrayMesh" uid="uid://nwf170ta6rg5" path="res://assets/asteroids/20_Massalia.obj" id="2_3cvd2"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_4o1gy"]
+radius = 0.7
+
+[node name="Asteroid" type="RigidBody3D"]
+script = ExtResource("1_2qtu7")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 130.509)
+mesh = ExtResource("2_3cvd2")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 130.509)
+shape = SubResource("SphereShape3D_4o1gy")

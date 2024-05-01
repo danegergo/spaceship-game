@@ -17,9 +17,9 @@ sky = SubResource("Sky_7p2qo")
 
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_iqhj3")
-asteroid_per_frame = 6
-asteroid_spawn_dist_z = 10000
-max_asteroid_spawn_dist_xy = 2265
+asteroid_spawn_rate = 500
+asteroid_spawn_dist_z = 5005
+max_asteroid_spawn_dist_xy = 1690
 
 [node name="Sketchfab_Scene" parent="." instance=ExtResource("1_c8rd4")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 27.222, 7.68295, 548.811)

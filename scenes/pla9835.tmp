@@ -5,17 +5,17 @@
 
 [sub_resource type="GDScript" id="GDScript_kk7qu"]
 resource_name = "ShipController"
-script/source = "class_name Player
-extends CharacterBody3D
+script/source = "extends CharacterBody3D
 
-const XY_SPEED = 1000
+const XY_SPEED = 200
 
 var forward_speed = 100.0
-
-@export_range(0.0, 3.0) var forward_speed_increment := 0.5
-@export var max_speed := 600
+@onready var camera = $ThirdPersonCamera
 
 func _physics_process(delta):
+	camera.z_speed_offset = forward_speed / 10;
+	print()
+	
 	var input_dir = Input.get_vector(\"move_right\", \"move_left\", \"move_down\", \"move_up\")
 	var direction = (transform.basis * Vector3(input_dir.x, input_dir.y, 1)).normalized()
 	
@@ -28,15 +28,12 @@ func _physics_process(delta):
 		velocity.y = move_toward(velocity.y, 0, XY_SPEED)
 		velocity.z = move_toward(velocity.z, 0, forward_speed)
 
-	if forward_speed < max_speed:
-		forward_speed += forward_speed_increment
-	
 	move_and_slide()
 "
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_s1eij"]
-radius = 9.42555
-height = 29.4809
+radius = 11.774
+height = 31.96
 
 [node name="Player" type="CharacterBody3D"]
 motion_mode = 1
@@ -51,7 +48,7 @@ shape = SubResource("CapsuleShape3D_s1eij")
 [node name="ThirdPersonCamera" parent="." instance=ExtResource("2_c2sj5")]
 transform = Transform3D(-0.999998, 0, -8.74226e-08, 0, 1, 0, 8.74226e-08, 0, -0.999998, 0, 20.515, -33.4469)
 distance_from_pivot = 8.0
-z_camera_speed = 0.13
+camera_speed = 0.116
+z_speed_offset = 76
 current = true
 spring_arm_collision_mask = 277
-far = 20000.0

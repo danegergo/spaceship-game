@@ -38,7 +38,15 @@ class_name ThirdPersonCamera extends Node3D
 @export_range(1.0, 1000.0) var horizontal_rotation_sensitiveness := 10.0
 
 ##
-@export_range(0.1, 1) var camera_speed := 0.1
+@export_range(0.1, 1) var z_camera_speed := 0.1
+
+##
+@export_range(0.1, 1) var xy_camera_speed := .5
+
+##
+@export_range(0.01, 1) var xy_camera_reset_speed := .02
+
+##
 
 ##
 @export var current : bool = false :
@@ -87,10 +95,10 @@ class_name ThirdPersonCamera extends Node3D
 @export var near := 0.05
 @export var far := 4000.0
 
-
-
 var camera_tilt_deg := 0.
 var camera_horizontal_rotation_deg := 0.
+var camera_height_offset := 10
+var player
 
 func _set_when_ready(node_path : NodePath, property_name : StringName, value : Variant) :
 	if not is_node_ready() :
@@ -102,15 +110,18 @@ func _set_when_ready(node_path : NodePath, property_name : StringName, value : V
 
 func _ready():
 	_camera.top_level = true
+	player = get_parent()
 
 
 func _physics_process(_delta):
-
+	if Engine.is_editor_hint():
+		return
+	
 	_update_camera_properties()
 	if Engine.is_editor_hint() :
 		_camera_marker.global_position = Vector3(0., 0., 1.).rotated(Vector3(1., 0., 0.), deg_to_rad(initial_dive_angle_deg)).rotated(Vector3(0., 1., 0.), deg_to_rad(-camera_horizontal_rotation_deg)) * _camera_spring_arm.spring_length + _camera_spring_arm.global_position
 		pass
-	#_camera.global_position = _camera_marker.global_position
+
 	tweenCameraToMarker()
 	_camera_offset_pivot.global_position = _camera_offset_pivot.get_parent().to_global(Vector3(pivot_offset.x, pivot_offset.y, 0.0))
 	_camera_rotation_pivot.global_rotation_degrees.x = initial_dive_angle_deg
@@ -122,7 +133,17 @@ func _physics_process(_delta):
 
 
 func tweenCameraToMarker() :
-	_camera.global_position = lerp(_camera.global_position, _camera_marker.global_position, camera_speed)
+	var input_dir = Input.get_vector("move_right", "move_left", "move_down", "move_up")
+	var xy_weight
+	if input_dir == Vector2.ZERO:
+		xy_weight = xy_camera_reset_speed
+	else:
+		xy_weight = xy_camera_speed
+		
+	var xy_lerp = lerp(_camera.global_position, player.global_position + Vector3(0, 10, 0), xy_weight) 
+	var z_lerp = lerp(_camera.global_position, player.global_position, z_camera_speed)
+	_camera.global_position = Vector3(xy_lerp.x, xy_lerp.y, z_lerp.z)
+	
 
 func _process_horizontal_rotation_input() :
 	if InputMap.has_action("tp_camera_right") and InputMap.has_action("tp_camera_left") :

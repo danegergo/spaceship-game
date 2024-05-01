@@ -9,11 +9,11 @@ script/source = "class_name Player
 extends CharacterBody3D
 
 const XY_SPEED = 1000
+const MAX_SPEED = 600
+
+@onready var camera = $ThirdPersonCamera
 
 var forward_speed = 100.0
-
-@export_range(0.0, 3.0) var forward_speed_increment := 0.5
-@export var max_speed := 600
 
 func _physics_process(delta):
 	var input_dir = Input.get_vector(\"move_right\", \"move_left\", \"move_down\", \"move_up\")
@@ -28,8 +28,8 @@ func _physics_process(delta):
 		velocity.y = move_toward(velocity.y, 0, XY_SPEED)
 		velocity.z = move_toward(velocity.z, 0, forward_speed)
 
-	if forward_speed < max_speed:
-		forward_speed += forward_speed_increment
+	if forward_speed < MAX_SPEED:
+		forward_speed += 1
 	
 	move_and_slide()
 "
@@ -51,7 +51,8 @@ shape = SubResource("CapsuleShape3D_s1eij")
 [node name="ThirdPersonCamera" parent="." instance=ExtResource("2_c2sj5")]
 transform = Transform3D(-0.999998, 0, -8.74226e-08, 0, 1, 0, 8.74226e-08, 0, -0.999998, 0, 20.515, -33.4469)
 distance_from_pivot = 8.0
-z_camera_speed = 0.13
+z_camera_speed = null
+xy_camera_speed = 0.53
 current = true
 spring_arm_collision_mask = 277
 far = 20000.0
