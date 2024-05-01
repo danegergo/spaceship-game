@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dl431knk05840"
+path="res://.godot/imported/5418_Joyce.obj-d97b0c6bdc3b8bae987e540747850c72.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5418_Joyce.obj-d97b0c6bdc3b8bae987e540747850c72.mesh"]
+
+source_file="res://assets/asteroids/5418_Joyce.obj"
+dest_files=["res://.godot/imported/5418_Joyce.obj-d97b0c6bdc3b8bae987e540747850c72.mesh", "res://.godot/imported/5418_Joyce.obj-d97b0c6bdc3b8bae987e540747850c72.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

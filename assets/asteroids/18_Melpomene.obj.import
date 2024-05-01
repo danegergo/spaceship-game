@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vdfwohl0hnji"
+path="res://.godot/imported/18_Melpomene.obj-36e1bef88a929a28a0ac176111ee2202.mesh"
+
+[deps]
+
+files=["res://.godot/imported/18_Melpomene.obj-36e1bef88a929a28a0ac176111ee2202.mesh"]
+
+source_file="res://assets/asteroids/18_Melpomene.obj"
+dest_files=["res://.godot/imported/18_Melpomene.obj-36e1bef88a929a28a0ac176111ee2202.mesh", "res://.godot/imported/18_Melpomene.obj-36e1bef88a929a28a0ac176111ee2202.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

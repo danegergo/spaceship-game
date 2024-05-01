@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drwpn35ejpu6a"
+path="res://.godot/imported/12279_Laon.obj-ca0cea68f99e7ed2c42cda003891100c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/12279_Laon.obj-ca0cea68f99e7ed2c42cda003891100c.mesh"]
+
+source_file="res://assets/asteroids/12279_Laon.obj"
+dest_files=["res://.godot/imported/12279_Laon.obj-ca0cea68f99e7ed2c42cda003891100c.mesh", "res://.godot/imported/12279_Laon.obj-ca0cea68f99e7ed2c42cda003891100c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

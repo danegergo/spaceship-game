@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://44b5woxlbk4l"
+path="res://.godot/imported/171_Ophelia.obj-5aa3d3c51fb7bef6424fd9a4189d7d06.mesh"
+
+[deps]
+
+files=["res://.godot/imported/171_Ophelia.obj-5aa3d3c51fb7bef6424fd9a4189d7d06.mesh"]
+
+source_file="res://assets/asteroids/171_Ophelia.obj"
+dest_files=["res://.godot/imported/171_Ophelia.obj-5aa3d3c51fb7bef6424fd9a4189d7d06.mesh", "res://.godot/imported/171_Ophelia.obj-5aa3d3c51fb7bef6424fd9a4189d7d06.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

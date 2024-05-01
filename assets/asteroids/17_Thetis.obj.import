@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxhjeiglg8rel"
+path="res://.godot/imported/17_Thetis.obj-430f2c84356dcece376992d2a3c1fb1f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/17_Thetis.obj-430f2c84356dcece376992d2a3c1fb1f.mesh"]
+
+source_file="res://assets/asteroids/17_Thetis.obj"
+dest_files=["res://.godot/imported/17_Thetis.obj-430f2c84356dcece376992d2a3c1fb1f.mesh", "res://.godot/imported/17_Thetis.obj-430f2c84356dcece376992d2a3c1fb1f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

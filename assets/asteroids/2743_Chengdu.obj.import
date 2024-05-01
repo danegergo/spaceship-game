@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2oitaxwtnubd"
+path="res://.godot/imported/2743_Chengdu.obj-931c50619691f573cf19e1e2b44cc68e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2743_Chengdu.obj-931c50619691f573cf19e1e2b44cc68e.mesh"]
+
+source_file="res://assets/asteroids/2743_Chengdu.obj"
+dest_files=["res://.godot/imported/2743_Chengdu.obj-931c50619691f573cf19e1e2b44cc68e.mesh", "res://.godot/imported/2743_Chengdu.obj-931c50619691f573cf19e1e2b44cc68e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

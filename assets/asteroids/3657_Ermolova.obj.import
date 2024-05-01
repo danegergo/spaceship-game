@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://3xaj1lwx2hat"
+path="res://.godot/imported/3657_Ermolova.obj-d5f4ee8d90bee788289ada705680ce34.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3657_Ermolova.obj-d5f4ee8d90bee788289ada705680ce34.mesh"]
+
+source_file="res://assets/asteroids/3657_Ermolova.obj"
+dest_files=["res://.godot/imported/3657_Ermolova.obj-d5f4ee8d90bee788289ada705680ce34.mesh", "res://.godot/imported/3657_Ermolova.obj-d5f4ee8d90bee788289ada705680ce34.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

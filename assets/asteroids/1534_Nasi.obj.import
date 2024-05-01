@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dagf42ba8k14l"
+path="res://.godot/imported/1534_Nasi.obj-323d0ff8d3a43889f3aa2bc1890d452c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1534_Nasi.obj-323d0ff8d3a43889f3aa2bc1890d452c.mesh"]
+
+source_file="res://assets/asteroids/1534_Nasi.obj"
+dest_files=["res://.godot/imported/1534_Nasi.obj-323d0ff8d3a43889f3aa2bc1890d452c.mesh", "res://.godot/imported/1534_Nasi.obj-323d0ff8d3a43889f3aa2bc1890d452c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

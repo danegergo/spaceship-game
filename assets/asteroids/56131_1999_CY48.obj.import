@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dcttkeqf7xsxy"
+path="res://.godot/imported/56131_1999_CY48.obj-85fa2d507e128fb5df75272bafc1b0cc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/56131_1999_CY48.obj-85fa2d507e128fb5df75272bafc1b0cc.mesh"]
+
+source_file="res://assets/asteroids/56131_1999_CY48.obj"
+dest_files=["res://.godot/imported/56131_1999_CY48.obj-85fa2d507e128fb5df75272bafc1b0cc.mesh", "res://.godot/imported/56131_1999_CY48.obj-85fa2d507e128fb5df75272bafc1b0cc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

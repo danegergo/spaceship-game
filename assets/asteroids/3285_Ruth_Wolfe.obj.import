@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dapbauqh4wyi"
+path="res://.godot/imported/3285_Ruth_Wolfe.obj-710382a4fda8ee5c08d1abaf3cfaddcd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3285_Ruth_Wolfe.obj-710382a4fda8ee5c08d1abaf3cfaddcd.mesh"]
+
+source_file="res://assets/asteroids/3285_Ruth_Wolfe.obj"
+dest_files=["res://.godot/imported/3285_Ruth_Wolfe.obj-710382a4fda8ee5c08d1abaf3cfaddcd.mesh", "res://.godot/imported/3285_Ruth_Wolfe.obj-710382a4fda8ee5c08d1abaf3cfaddcd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

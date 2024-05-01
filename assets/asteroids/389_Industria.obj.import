@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ia8cbvmxgxkl"
+path="res://.godot/imported/389_Industria.obj-16a8ca9d1bdbb4e92c624a43e3f5f86b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/389_Industria.obj-16a8ca9d1bdbb4e92c624a43e3f5f86b.mesh"]
+
+source_file="res://assets/asteroids/389_Industria.obj"
+dest_files=["res://.godot/imported/389_Industria.obj-16a8ca9d1bdbb4e92c624a43e3f5f86b.mesh", "res://.godot/imported/389_Industria.obj-16a8ca9d1bdbb4e92c624a43e3f5f86b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

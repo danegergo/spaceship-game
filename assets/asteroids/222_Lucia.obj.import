@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ce5j7a10ayc1l"
+path="res://.godot/imported/222_Lucia.obj-425fef4dac809cf2ff1b103a109ee696.mesh"
+
+[deps]
+
+files=["res://.godot/imported/222_Lucia.obj-425fef4dac809cf2ff1b103a109ee696.mesh"]
+
+source_file="res://assets/asteroids/222_Lucia.obj"
+dest_files=["res://.godot/imported/222_Lucia.obj-425fef4dac809cf2ff1b103a109ee696.mesh", "res://.godot/imported/222_Lucia.obj-425fef4dac809cf2ff1b103a109ee696.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dtr5cojo1ik5p"
+path="res://.godot/imported/746_Marlu.obj-e44e578bd51a1a5b7c5b1a1b8943af66.mesh"
+
+[deps]
+
+files=["res://.godot/imported/746_Marlu.obj-e44e578bd51a1a5b7c5b1a1b8943af66.mesh"]
+
+source_file="res://assets/asteroids/746_Marlu.obj"
+dest_files=["res://.godot/imported/746_Marlu.obj-e44e578bd51a1a5b7c5b1a1b8943af66.mesh", "res://.godot/imported/746_Marlu.obj-e44e578bd51a1a5b7c5b1a1b8943af66.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dayaj8lh5fgeu"
+path="res://.godot/imported/52421_Daihoji.obj-54f1ec9fd3afa3b70acf32855c33da46.mesh"
+
+[deps]
+
+files=["res://.godot/imported/52421_Daihoji.obj-54f1ec9fd3afa3b70acf32855c33da46.mesh"]
+
+source_file="res://assets/asteroids/52421_Daihoji.obj"
+dest_files=["res://.godot/imported/52421_Daihoji.obj-54f1ec9fd3afa3b70acf32855c33da46.mesh", "res://.godot/imported/52421_Daihoji.obj-54f1ec9fd3afa3b70acf32855c33da46.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

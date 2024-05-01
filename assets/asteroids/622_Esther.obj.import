@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://btrw7ibs5vu3a"
+path="res://.godot/imported/622_Esther.obj-f3e82571cd2a8e9ce9bd08df1e873aec.mesh"
+
+[deps]
+
+files=["res://.godot/imported/622_Esther.obj-f3e82571cd2a8e9ce9bd08df1e873aec.mesh"]
+
+source_file="res://assets/asteroids/622_Esther.obj"
+dest_files=["res://.godot/imported/622_Esther.obj-f3e82571cd2a8e9ce9bd08df1e873aec.mesh", "res://.godot/imported/622_Esther.obj-f3e82571cd2a8e9ce9bd08df1e873aec.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

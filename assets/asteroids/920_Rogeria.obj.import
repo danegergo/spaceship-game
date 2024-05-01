@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://crlc6yjg5gj7p"
+path="res://.godot/imported/920_Rogeria.obj-b25ba21416cb4f0ec8e1e0b8d2e6b540.mesh"
+
+[deps]
+
+files=["res://.godot/imported/920_Rogeria.obj-b25ba21416cb4f0ec8e1e0b8d2e6b540.mesh"]
+
+source_file="res://assets/asteroids/920_Rogeria.obj"
+dest_files=["res://.godot/imported/920_Rogeria.obj-b25ba21416cb4f0ec8e1e0b8d2e6b540.mesh", "res://.godot/imported/920_Rogeria.obj-b25ba21416cb4f0ec8e1e0b8d2e6b540.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

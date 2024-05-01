@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c31y0yl8x00j2"
+path="res://.godot/imported/360_Carlova.obj-fb9e1a1f14f05b9eea1de363a18bf374.mesh"
+
+[deps]
+
+files=["res://.godot/imported/360_Carlova.obj-fb9e1a1f14f05b9eea1de363a18bf374.mesh"]
+
+source_file="res://assets/asteroids/360_Carlova.obj"
+dest_files=["res://.godot/imported/360_Carlova.obj-fb9e1a1f14f05b9eea1de363a18bf374.mesh", "res://.godot/imported/360_Carlova.obj-fb9e1a1f14f05b9eea1de363a18bf374.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

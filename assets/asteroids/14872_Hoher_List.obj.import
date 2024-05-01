@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dbq21nqbvvpew"
+path="res://.godot/imported/14872_Hoher_List.obj-d4d257ac0bac8ea379ef80517bffa28c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/14872_Hoher_List.obj-d4d257ac0bac8ea379ef80517bffa28c.mesh"]
+
+source_file="res://assets/asteroids/14872_Hoher_List.obj"
+dest_files=["res://.godot/imported/14872_Hoher_List.obj-d4d257ac0bac8ea379ef80517bffa28c.mesh", "res://.godot/imported/14872_Hoher_List.obj-d4d257ac0bac8ea379ef80517bffa28c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

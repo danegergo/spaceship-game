@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d3oybmvnryclv"
+path="res://.godot/imported/7043_Godart.obj-f6a621d56e716d94d367dc1d9de4572a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/7043_Godart.obj-f6a621d56e716d94d367dc1d9de4572a.mesh"]
+
+source_file="res://assets/asteroids/7043_Godart.obj"
+dest_files=["res://.godot/imported/7043_Godart.obj-f6a621d56e716d94d367dc1d9de4572a.mesh", "res://.godot/imported/7043_Godart.obj-f6a621d56e716d94d367dc1d9de4572a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

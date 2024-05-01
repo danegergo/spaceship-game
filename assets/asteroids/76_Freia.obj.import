@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://citsu085rs6pm"
+path="res://.godot/imported/76_Freia.obj-f47a652c81ba12aa1f54d796d07f828c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/76_Freia.obj-f47a652c81ba12aa1f54d796d07f828c.mesh"]
+
+source_file="res://assets/asteroids/76_Freia.obj"
+dest_files=["res://.godot/imported/76_Freia.obj-f47a652c81ba12aa1f54d796d07f828c.mesh", "res://.godot/imported/76_Freia.obj-f47a652c81ba12aa1f54d796d07f828c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

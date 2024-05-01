@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b80qm63fvu33o"
+path="res://.godot/imported/564_Dudu.obj-63c786f189773b7e0a0ea4e52b78303b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/564_Dudu.obj-63c786f189773b7e0a0ea4e52b78303b.mesh"]
+
+source_file="res://assets/asteroids/564_Dudu.obj"
+dest_files=["res://.godot/imported/564_Dudu.obj-63c786f189773b7e0a0ea4e52b78303b.mesh", "res://.godot/imported/564_Dudu.obj-63c786f189773b7e0a0ea4e52b78303b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

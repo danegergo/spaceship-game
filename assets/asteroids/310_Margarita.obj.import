@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cok2uja47paac"
+path="res://.godot/imported/310_Margarita.obj-bc62fc485f0ae41cf0e686ff1dbbcd90.mesh"
+
+[deps]
+
+files=["res://.godot/imported/310_Margarita.obj-bc62fc485f0ae41cf0e686ff1dbbcd90.mesh"]
+
+source_file="res://assets/asteroids/310_Margarita.obj"
+dest_files=["res://.godot/imported/310_Margarita.obj-bc62fc485f0ae41cf0e686ff1dbbcd90.mesh", "res://.godot/imported/310_Margarita.obj-bc62fc485f0ae41cf0e686ff1dbbcd90.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

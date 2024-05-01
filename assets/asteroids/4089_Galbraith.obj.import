@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://gq6nabnnd3x6"
+path="res://.godot/imported/4089_Galbraith.obj-596d52c0cb0b74087d41f54b5b905e60.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4089_Galbraith.obj-596d52c0cb0b74087d41f54b5b905e60.mesh"]
+
+source_file="res://assets/asteroids/4089_Galbraith.obj"
+dest_files=["res://.godot/imported/4089_Galbraith.obj-596d52c0cb0b74087d41f54b5b905e60.mesh", "res://.godot/imported/4089_Galbraith.obj-596d52c0cb0b74087d41f54b5b905e60.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

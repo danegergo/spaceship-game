@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccbw3t8qgm2xu"
+path="res://.godot/imported/11900_Spinoy.obj-ebbdf6aa329404b8621950767ea5daad.mesh"
+
+[deps]
+
+files=["res://.godot/imported/11900_Spinoy.obj-ebbdf6aa329404b8621950767ea5daad.mesh"]
+
+source_file="res://assets/asteroids/11900_Spinoy.obj"
+dest_files=["res://.godot/imported/11900_Spinoy.obj-ebbdf6aa329404b8621950767ea5daad.mesh", "res://.godot/imported/11900_Spinoy.obj-ebbdf6aa329404b8621950767ea5daad.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

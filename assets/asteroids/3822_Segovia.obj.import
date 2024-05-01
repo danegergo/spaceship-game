@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drd0k40odaiwv"
+path="res://.godot/imported/3822_Segovia.obj-37df8b76678329b20fcba8b69d6cf65e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3822_Segovia.obj-37df8b76678329b20fcba8b69d6cf65e.mesh"]
+
+source_file="res://assets/asteroids/3822_Segovia.obj"
+dest_files=["res://.godot/imported/3822_Segovia.obj-37df8b76678329b20fcba8b69d6cf65e.mesh", "res://.godot/imported/3822_Segovia.obj-37df8b76678329b20fcba8b69d6cf65e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

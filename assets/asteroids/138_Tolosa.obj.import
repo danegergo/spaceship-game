@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bbt1pjppra3e0"
+path="res://.godot/imported/138_Tolosa.obj-84a6f49a9c878f528e5ef92758e4f70a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/138_Tolosa.obj-84a6f49a9c878f528e5ef92758e4f70a.mesh"]
+
+source_file="res://assets/asteroids/138_Tolosa.obj"
+dest_files=["res://.godot/imported/138_Tolosa.obj-84a6f49a9c878f528e5ef92758e4f70a.mesh", "res://.godot/imported/138_Tolosa.obj-84a6f49a9c878f528e5ef92758e4f70a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

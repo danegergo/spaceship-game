@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cufmt24th4trr"
+path="res://.godot/imported/116_Sirona.obj-ecb85d202273e16a921b5be92cf897a0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/116_Sirona.obj-ecb85d202273e16a921b5be92cf897a0.mesh"]
+
+source_file="res://assets/asteroids/116_Sirona.obj"
+dest_files=["res://.godot/imported/116_Sirona.obj-ecb85d202273e16a921b5be92cf897a0.mesh", "res://.godot/imported/116_Sirona.obj-ecb85d202273e16a921b5be92cf897a0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

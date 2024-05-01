@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://rkd0lk0rf6i"
+path="res://.godot/imported/353_Ruperto-Carola.obj-d3b7e63c839b81a9bc3af49fdeab6a72.mesh"
+
+[deps]
+
+files=["res://.godot/imported/353_Ruperto-Carola.obj-d3b7e63c839b81a9bc3af49fdeab6a72.mesh"]
+
+source_file="res://assets/asteroids/353_Ruperto-Carola.obj"
+dest_files=["res://.godot/imported/353_Ruperto-Carola.obj-d3b7e63c839b81a9bc3af49fdeab6a72.mesh", "res://.godot/imported/353_Ruperto-Carola.obj-d3b7e63c839b81a9bc3af49fdeab6a72.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

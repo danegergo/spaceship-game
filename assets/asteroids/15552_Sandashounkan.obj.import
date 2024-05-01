@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dbsdcnhqppmcv"
+path="res://.godot/imported/15552_Sandashounkan.obj-97e99272e7095dd3c5ee94fc4a44164e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/15552_Sandashounkan.obj-97e99272e7095dd3c5ee94fc4a44164e.mesh"]
+
+source_file="res://assets/asteroids/15552_Sandashounkan.obj"
+dest_files=["res://.godot/imported/15552_Sandashounkan.obj-97e99272e7095dd3c5ee94fc4a44164e.mesh", "res://.godot/imported/15552_Sandashounkan.obj-97e99272e7095dd3c5ee94fc4a44164e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

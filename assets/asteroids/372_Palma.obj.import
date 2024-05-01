@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dy5ji0ot4jjhm"
+path="res://.godot/imported/372_Palma.obj-17c9d114d2ac93146495f4115bd12c79.mesh"
+
+[deps]
+
+files=["res://.godot/imported/372_Palma.obj-17c9d114d2ac93146495f4115bd12c79.mesh"]
+
+source_file="res://assets/asteroids/372_Palma.obj"
+dest_files=["res://.godot/imported/372_Palma.obj-17c9d114d2ac93146495f4115bd12c79.mesh", "res://.godot/imported/372_Palma.obj-17c9d114d2ac93146495f4115bd12c79.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

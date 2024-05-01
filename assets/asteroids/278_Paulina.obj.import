@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://wq0umxt0xo03"
+path="res://.godot/imported/278_Paulina.obj-077aa011d00496e5d5cd746ea155ee5c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/278_Paulina.obj-077aa011d00496e5d5cd746ea155ee5c.mesh"]
+
+source_file="res://assets/asteroids/278_Paulina.obj"
+dest_files=["res://.godot/imported/278_Paulina.obj-077aa011d00496e5d5cd746ea155ee5c.mesh", "res://.godot/imported/278_Paulina.obj-077aa011d00496e5d5cd746ea155ee5c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

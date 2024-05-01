@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://40piwly4vs2a"
+path="res://.godot/imported/1571_Cesco.obj-6e0409f9290cafa7717e7b40c743a36d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1571_Cesco.obj-6e0409f9290cafa7717e7b40c743a36d.mesh"]
+
+source_file="res://assets/asteroids/1571_Cesco.obj"
+dest_files=["res://.godot/imported/1571_Cesco.obj-6e0409f9290cafa7717e7b40c743a36d.mesh", "res://.godot/imported/1571_Cesco.obj-6e0409f9290cafa7717e7b40c743a36d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

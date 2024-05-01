@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqhd7osvgxfbe"
+path="res://.godot/imported/1889_Pakhmutova.obj-d3d8b5be6ea4513ba2e33d59b569af1f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1889_Pakhmutova.obj-d3d8b5be6ea4513ba2e33d59b569af1f.mesh"]
+
+source_file="res://assets/asteroids/1889_Pakhmutova.obj"
+dest_files=["res://.godot/imported/1889_Pakhmutova.obj-d3d8b5be6ea4513ba2e33d59b569af1f.mesh", "res://.godot/imported/1889_Pakhmutova.obj-d3d8b5be6ea4513ba2e33d59b569af1f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

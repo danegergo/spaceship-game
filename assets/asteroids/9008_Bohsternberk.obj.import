@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bntp4sclujq3g"
+path="res://.godot/imported/9008_Bohsternberk.obj-adc80db2579b857059ecb0b25764b1aa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/9008_Bohsternberk.obj-adc80db2579b857059ecb0b25764b1aa.mesh"]
+
+source_file="res://assets/asteroids/9008_Bohsternberk.obj"
+dest_files=["res://.godot/imported/9008_Bohsternberk.obj-adc80db2579b857059ecb0b25764b1aa.mesh", "res://.godot/imported/9008_Bohsternberk.obj-adc80db2579b857059ecb0b25764b1aa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

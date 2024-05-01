@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://iufencu8wfaa"
+path="res://.godot/imported/8713_Azusa.obj-1849e2b62a3e021f35503fffcb8773ed.mesh"
+
+[deps]
+
+files=["res://.godot/imported/8713_Azusa.obj-1849e2b62a3e021f35503fffcb8773ed.mesh"]
+
+source_file="res://assets/asteroids/8713_Azusa.obj"
+dest_files=["res://.godot/imported/8713_Azusa.obj-1849e2b62a3e021f35503fffcb8773ed.mesh", "res://.godot/imported/8713_Azusa.obj-1849e2b62a3e021f35503fffcb8773ed.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

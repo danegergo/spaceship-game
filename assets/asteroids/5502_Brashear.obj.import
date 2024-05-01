@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ct4xexowdoos0"
+path="res://.godot/imported/5502_Brashear.obj-b709c148dcc0635b6caff38f01c19a9b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5502_Brashear.obj-b709c148dcc0635b6caff38f01c19a9b.mesh"]
+
+source_file="res://assets/asteroids/5502_Brashear.obj"
+dest_files=["res://.godot/imported/5502_Brashear.obj-b709c148dcc0635b6caff38f01c19a9b.mesh", "res://.godot/imported/5502_Brashear.obj-b709c148dcc0635b6caff38f01c19a9b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

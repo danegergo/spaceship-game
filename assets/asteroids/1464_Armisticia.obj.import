@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvx14o64upy2"
+path="res://.godot/imported/1464_Armisticia.obj-7a2196cef6072d52c9e43f40c16c4a1a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1464_Armisticia.obj-7a2196cef6072d52c9e43f40c16c4a1a.mesh"]
+
+source_file="res://assets/asteroids/1464_Armisticia.obj"
+dest_files=["res://.godot/imported/1464_Armisticia.obj-7a2196cef6072d52c9e43f40c16c4a1a.mesh", "res://.godot/imported/1464_Armisticia.obj-7a2196cef6072d52c9e43f40c16c4a1a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

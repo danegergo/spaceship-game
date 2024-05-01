@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://k8oqbcqdxd48"
+path="res://.godot/imported/283_Emma.obj-57da69b6810480c846e55cfd417d9a58.mesh"
+
+[deps]
+
+files=["res://.godot/imported/283_Emma.obj-57da69b6810480c846e55cfd417d9a58.mesh"]
+
+source_file="res://assets/asteroids/283_Emma.obj"
+dest_files=["res://.godot/imported/283_Emma.obj-57da69b6810480c846e55cfd417d9a58.mesh", "res://.godot/imported/283_Emma.obj-57da69b6810480c846e55cfd417d9a58.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

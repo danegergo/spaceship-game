@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bw6aqm5j28kwb"
+path="res://.godot/imported/2358_Bahner.obj-4a005cd927fed8ed0d2a29b87f3187be.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2358_Bahner.obj-4a005cd927fed8ed0d2a29b87f3187be.mesh"]
+
+source_file="res://assets/asteroids/2358_Bahner.obj"
+dest_files=["res://.godot/imported/2358_Bahner.obj-4a005cd927fed8ed0d2a29b87f3187be.mesh", "res://.godot/imported/2358_Bahner.obj-4a005cd927fed8ed0d2a29b87f3187be.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

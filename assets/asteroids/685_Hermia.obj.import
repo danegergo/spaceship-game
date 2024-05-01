@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cmxwp65f2pc60"
+path="res://.godot/imported/685_Hermia.obj-3d260150b9720fd74b504fca957c50fe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/685_Hermia.obj-3d260150b9720fd74b504fca957c50fe.mesh"]
+
+source_file="res://assets/asteroids/685_Hermia.obj"
+dest_files=["res://.godot/imported/685_Hermia.obj-3d260150b9720fd74b504fca957c50fe.mesh", "res://.godot/imported/685_Hermia.obj-3d260150b9720fd74b504fca957c50fe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

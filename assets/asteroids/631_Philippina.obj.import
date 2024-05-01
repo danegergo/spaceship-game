@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d35v012xe8x71"
+path="res://.godot/imported/631_Philippina.obj-a4c04ece265dc8a11c88f59546dc221e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/631_Philippina.obj-a4c04ece265dc8a11c88f59546dc221e.mesh"]
+
+source_file="res://assets/asteroids/631_Philippina.obj"
+dest_files=["res://.godot/imported/631_Philippina.obj-a4c04ece265dc8a11c88f59546dc221e.mesh", "res://.godot/imported/631_Philippina.obj-a4c04ece265dc8a11c88f59546dc221e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cvrjhs0kn7usc"
+path="res://.godot/imported/1391_Carelia.obj-fafe6862d525b0905bc145f15c10f39d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1391_Carelia.obj-fafe6862d525b0905bc145f15c10f39d.mesh"]
+
+source_file="res://assets/asteroids/1391_Carelia.obj"
+dest_files=["res://.godot/imported/1391_Carelia.obj-fafe6862d525b0905bc145f15c10f39d.mesh", "res://.godot/imported/1391_Carelia.obj-fafe6862d525b0905bc145f15c10f39d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c3nwvn3pr1cvj"
+path="res://.godot/imported/5354_Hisayo.obj-8c57f9abe4d75686e6ebf66f4a00c52d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5354_Hisayo.obj-8c57f9abe4d75686e6ebf66f4a00c52d.mesh"]
+
+source_file="res://assets/asteroids/5354_Hisayo.obj"
+dest_files=["res://.godot/imported/5354_Hisayo.obj-8c57f9abe4d75686e6ebf66f4a00c52d.mesh", "res://.godot/imported/5354_Hisayo.obj-8c57f9abe4d75686e6ebf66f4a00c52d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

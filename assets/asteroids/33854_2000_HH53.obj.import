@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b50m5ntlsp2kr"
+path="res://.godot/imported/33854_2000_HH53.obj-ca6de8da6c137edc715889f5ff79377d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/33854_2000_HH53.obj-ca6de8da6c137edc715889f5ff79377d.mesh"]
+
+source_file="res://assets/asteroids/33854_2000_HH53.obj"
+dest_files=["res://.godot/imported/33854_2000_HH53.obj-ca6de8da6c137edc715889f5ff79377d.mesh", "res://.godot/imported/33854_2000_HH53.obj-ca6de8da6c137edc715889f5ff79377d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

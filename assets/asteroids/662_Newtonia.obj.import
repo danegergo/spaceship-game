@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://clpxqhx7ydq0a"
+path="res://.godot/imported/662_Newtonia.obj-d45adc8836dae37d15cf278c43c3fce3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/662_Newtonia.obj-d45adc8836dae37d15cf278c43c3fce3.mesh"]
+
+source_file="res://assets/asteroids/662_Newtonia.obj"
+dest_files=["res://.godot/imported/662_Newtonia.obj-d45adc8836dae37d15cf278c43c3fce3.mesh", "res://.godot/imported/662_Newtonia.obj-d45adc8836dae37d15cf278c43c3fce3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

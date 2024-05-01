@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b8vhn0nckh4yr"
+path="res://.godot/imported/4813_Terebizh.obj-bf6d83cdc907137bb1e6f77dfa33d66b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4813_Terebizh.obj-bf6d83cdc907137bb1e6f77dfa33d66b.mesh"]
+
+source_file="res://assets/asteroids/4813_Terebizh.obj"
+dest_files=["res://.godot/imported/4813_Terebizh.obj-bf6d83cdc907137bb1e6f77dfa33d66b.mesh", "res://.godot/imported/4813_Terebizh.obj-bf6d83cdc907137bb1e6f77dfa33d66b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

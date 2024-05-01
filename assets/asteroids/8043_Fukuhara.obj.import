@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vyjtoykjqc6n"
+path="res://.godot/imported/8043_Fukuhara.obj-04215c28f04ede88d9a98598dc9b7662.mesh"
+
+[deps]
+
+files=["res://.godot/imported/8043_Fukuhara.obj-04215c28f04ede88d9a98598dc9b7662.mesh"]
+
+source_file="res://assets/asteroids/8043_Fukuhara.obj"
+dest_files=["res://.godot/imported/8043_Fukuhara.obj-04215c28f04ede88d9a98598dc9b7662.mesh", "res://.godot/imported/8043_Fukuhara.obj-04215c28f04ede88d9a98598dc9b7662.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

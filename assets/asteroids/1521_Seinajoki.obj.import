@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dfttw6hlmo8aa"
+path="res://.godot/imported/1521_Seinajoki.obj-584129c8ce25b41c2718c7c04a154983.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1521_Seinajoki.obj-584129c8ce25b41c2718c7c04a154983.mesh"]
+
+source_file="res://assets/asteroids/1521_Seinajoki.obj"
+dest_files=["res://.godot/imported/1521_Seinajoki.obj-584129c8ce25b41c2718c7c04a154983.mesh", "res://.godot/imported/1521_Seinajoki.obj-584129c8ce25b41c2718c7c04a154983.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

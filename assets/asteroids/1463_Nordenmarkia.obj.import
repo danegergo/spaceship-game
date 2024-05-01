@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://f31bfyuw5mvy"
+path="res://.godot/imported/1463_Nordenmarkia.obj-0fcfb8a8941c9ed87abe2554f127ea83.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1463_Nordenmarkia.obj-0fcfb8a8941c9ed87abe2554f127ea83.mesh"]
+
+source_file="res://assets/asteroids/1463_Nordenmarkia.obj"
+dest_files=["res://.godot/imported/1463_Nordenmarkia.obj-0fcfb8a8941c9ed87abe2554f127ea83.mesh", "res://.godot/imported/1463_Nordenmarkia.obj-0fcfb8a8941c9ed87abe2554f127ea83.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

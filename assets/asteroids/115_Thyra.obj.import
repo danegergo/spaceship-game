@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://diyyf4pr2xl0a"
+path="res://.godot/imported/115_Thyra.obj-a46b7d547595dd99c191e0a2dfc7228d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/115_Thyra.obj-a46b7d547595dd99c191e0a2dfc7228d.mesh"]
+
+source_file="res://assets/asteroids/115_Thyra.obj"
+dest_files=["res://.godot/imported/115_Thyra.obj-a46b7d547595dd99c191e0a2dfc7228d.mesh", "res://.godot/imported/115_Thyra.obj-a46b7d547595dd99c191e0a2dfc7228d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

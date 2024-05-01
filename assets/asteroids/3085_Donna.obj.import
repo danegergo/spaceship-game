@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://gneo4ee2f7cn"
+path="res://.godot/imported/3085_Donna.obj-702f21412c2310b53afea8da1eacef8b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3085_Donna.obj-702f21412c2310b53afea8da1eacef8b.mesh"]
+
+source_file="res://assets/asteroids/3085_Donna.obj"
+dest_files=["res://.godot/imported/3085_Donna.obj-702f21412c2310b53afea8da1eacef8b.mesh", "res://.godot/imported/3085_Donna.obj-702f21412c2310b53afea8da1eacef8b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

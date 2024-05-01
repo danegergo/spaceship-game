@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://byyk13t3km0g1"
+path="res://.godot/imported/107_Camilla.obj-0877c377246906c6a27b35dff98dd44e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/107_Camilla.obj-0877c377246906c6a27b35dff98dd44e.mesh"]
+
+source_file="res://assets/asteroids/107_Camilla.obj"
+dest_files=["res://.godot/imported/107_Camilla.obj-0877c377246906c6a27b35dff98dd44e.mesh", "res://.godot/imported/107_Camilla.obj-0877c377246906c6a27b35dff98dd44e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

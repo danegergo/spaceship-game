@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bic03iud27pg1"
+path="res://.godot/imported/10477_Lacumparsita.obj-9f1bd5f08f3ec734ed03f9a9685f840a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/10477_Lacumparsita.obj-9f1bd5f08f3ec734ed03f9a9685f840a.mesh"]
+
+source_file="res://assets/asteroids/10477_Lacumparsita.obj"
+dest_files=["res://.godot/imported/10477_Lacumparsita.obj-9f1bd5f08f3ec734ed03f9a9685f840a.mesh", "res://.godot/imported/10477_Lacumparsita.obj-9f1bd5f08f3ec734ed03f9a9685f840a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

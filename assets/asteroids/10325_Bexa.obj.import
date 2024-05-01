@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2ol73hiiaian"
+path="res://.godot/imported/10325_Bexa.obj-3ed63ebfbd0ccf242fe53f0e56149d6e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/10325_Bexa.obj-3ed63ebfbd0ccf242fe53f0e56149d6e.mesh"]
+
+source_file="res://assets/asteroids/10325_Bexa.obj"
+dest_files=["res://.godot/imported/10325_Bexa.obj-3ed63ebfbd0ccf242fe53f0e56149d6e.mesh", "res://.godot/imported/10325_Bexa.obj-3ed63ebfbd0ccf242fe53f0e56149d6e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

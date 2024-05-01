@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://x0gwjip8b6el"
+path="res://.godot/imported/312_Pierretta.obj-0d31799ca75d2c66e6224a5aa4f558be.mesh"
+
+[deps]
+
+files=["res://.godot/imported/312_Pierretta.obj-0d31799ca75d2c66e6224a5aa4f558be.mesh"]
+
+source_file="res://assets/asteroids/312_Pierretta.obj"
+dest_files=["res://.godot/imported/312_Pierretta.obj-0d31799ca75d2c66e6224a5aa4f558be.mesh", "res://.godot/imported/312_Pierretta.obj-0d31799ca75d2c66e6224a5aa4f558be.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

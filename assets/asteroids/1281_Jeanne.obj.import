@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c5uygfeqkd8yt"
+path="res://.godot/imported/1281_Jeanne.obj-e7249eb1f0c3c20fb55d8db6c6d467eb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1281_Jeanne.obj-e7249eb1f0c3c20fb55d8db6c6d467eb.mesh"]
+
+source_file="res://assets/asteroids/1281_Jeanne.obj"
+dest_files=["res://.godot/imported/1281_Jeanne.obj-e7249eb1f0c3c20fb55d8db6c6d467eb.mesh", "res://.godot/imported/1281_Jeanne.obj-e7249eb1f0c3c20fb55d8db6c6d467eb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

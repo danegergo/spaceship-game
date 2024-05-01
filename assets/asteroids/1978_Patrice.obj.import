@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6yfmylc68dut"
+path="res://.godot/imported/1978_Patrice.obj-e20336bc5f0c1a1c7fd8881fab403c5b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1978_Patrice.obj-e20336bc5f0c1a1c7fd8881fab403c5b.mesh"]
+
+source_file="res://assets/asteroids/1978_Patrice.obj"
+dest_files=["res://.godot/imported/1978_Patrice.obj-e20336bc5f0c1a1c7fd8881fab403c5b.mesh", "res://.godot/imported/1978_Patrice.obj-e20336bc5f0c1a1c7fd8881fab403c5b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

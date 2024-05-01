@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ki308wr3sa8p"
+path="res://.godot/imported/28699_2000_GN89.obj-05ccc0af4615a15809bc1d7e4df9b4ef.mesh"
+
+[deps]
+
+files=["res://.godot/imported/28699_2000_GN89.obj-05ccc0af4615a15809bc1d7e4df9b4ef.mesh"]
+
+source_file="res://assets/asteroids/28699_2000_GN89.obj"
+dest_files=["res://.godot/imported/28699_2000_GN89.obj-05ccc0af4615a15809bc1d7e4df9b4ef.mesh", "res://.godot/imported/28699_2000_GN89.obj-05ccc0af4615a15809bc1d7e4df9b4ef.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

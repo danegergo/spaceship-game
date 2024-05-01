@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2lcjpoyssai"
+path="res://.godot/imported/99667_2002_JO1.obj-e40ca0635f7094f30e5a0ec2ac185a89.mesh"
+
+[deps]
+
+files=["res://.godot/imported/99667_2002_JO1.obj-e40ca0635f7094f30e5a0ec2ac185a89.mesh"]
+
+source_file="res://assets/asteroids/99667_2002_JO1.obj"
+dest_files=["res://.godot/imported/99667_2002_JO1.obj-e40ca0635f7094f30e5a0ec2ac185a89.mesh", "res://.godot/imported/99667_2002_JO1.obj-e40ca0635f7094f30e5a0ec2ac185a89.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

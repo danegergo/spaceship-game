@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hag3ei1moxfc"
+path="res://.godot/imported/792_Metcalfia.obj-0b3e85f76fd9d04f7f790ba5063b00cb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/792_Metcalfia.obj-0b3e85f76fd9d04f7f790ba5063b00cb.mesh"]
+
+source_file="res://assets/asteroids/792_Metcalfia.obj"
+dest_files=["res://.godot/imported/792_Metcalfia.obj-0b3e85f76fd9d04f7f790ba5063b00cb.mesh", "res://.godot/imported/792_Metcalfia.obj-0b3e85f76fd9d04f7f790ba5063b00cb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6e3cxcxkbbtj"
+path="res://.godot/imported/1335_Demoulina.obj-b654dd8eb378e948b950b104b978887d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1335_Demoulina.obj-b654dd8eb378e948b950b104b978887d.mesh"]
+
+source_file="res://assets/asteroids/1335_Demoulina.obj"
+dest_files=["res://.godot/imported/1335_Demoulina.obj-b654dd8eb378e948b950b104b978887d.mesh", "res://.godot/imported/1335_Demoulina.obj-b654dd8eb378e948b950b104b978887d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

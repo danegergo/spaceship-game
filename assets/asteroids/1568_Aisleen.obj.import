@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7r05kplr46ht"
+path="res://.godot/imported/1568_Aisleen.obj-9484d38bc38d44af6e65a5f00e5b7cb1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1568_Aisleen.obj-9484d38bc38d44af6e65a5f00e5b7cb1.mesh"]
+
+source_file="res://assets/asteroids/1568_Aisleen.obj"
+dest_files=["res://.godot/imported/1568_Aisleen.obj-9484d38bc38d44af6e65a5f00e5b7cb1.mesh", "res://.godot/imported/1568_Aisleen.obj-9484d38bc38d44af6e65a5f00e5b7cb1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

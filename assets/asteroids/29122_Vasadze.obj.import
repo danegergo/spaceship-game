@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://2851yiodcs30"
+path="res://.godot/imported/29122_Vasadze.obj-a31c713e0d93566b6c262f17e0b2af6a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/29122_Vasadze.obj-a31c713e0d93566b6c262f17e0b2af6a.mesh"]
+
+source_file="res://assets/asteroids/29122_Vasadze.obj"
+dest_files=["res://.godot/imported/29122_Vasadze.obj-a31c713e0d93566b6c262f17e0b2af6a.mesh", "res://.godot/imported/29122_Vasadze.obj-a31c713e0d93566b6c262f17e0b2af6a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c68iyq26ot0w4"
+path="res://.godot/imported/2802_Weisell.obj-def3622f5b34c51ce1435e40fae33352.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2802_Weisell.obj-def3622f5b34c51ce1435e40fae33352.mesh"]
+
+source_file="res://assets/asteroids/2802_Weisell.obj"
+dest_files=["res://.godot/imported/2802_Weisell.obj-def3622f5b34c51ce1435e40fae33352.mesh", "res://.godot/imported/2802_Weisell.obj-def3622f5b34c51ce1435e40fae33352.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cuaw8g06s8t7t"
+path="res://.godot/imported/1838_Ursa.obj-d1153638bb824afa96c210003a9aea70.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1838_Ursa.obj-d1153638bb824afa96c210003a9aea70.mesh"]
+
+source_file="res://assets/asteroids/1838_Ursa.obj"
+dest_files=["res://.godot/imported/1838_Ursa.obj-d1153638bb824afa96c210003a9aea70.mesh", "res://.godot/imported/1838_Ursa.obj-d1153638bb824afa96c210003a9aea70.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

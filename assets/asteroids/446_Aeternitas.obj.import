@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bcdkhm1xnd3n0"
+path="res://.godot/imported/446_Aeternitas.obj-0626ba3a09486a12d2cec9f2c569cb83.mesh"
+
+[deps]
+
+files=["res://.godot/imported/446_Aeternitas.obj-0626ba3a09486a12d2cec9f2c569cb83.mesh"]
+
+source_file="res://assets/asteroids/446_Aeternitas.obj"
+dest_files=["res://.godot/imported/446_Aeternitas.obj-0626ba3a09486a12d2cec9f2c569cb83.mesh", "res://.godot/imported/446_Aeternitas.obj-0626ba3a09486a12d2cec9f2c569cb83.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

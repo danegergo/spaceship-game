@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vnq58jqg7d1n"
+path="res://.godot/imported/29521_1997_YK14.obj-632fa5eed3a3a05aa27a876fcf665bbf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/29521_1997_YK14.obj-632fa5eed3a3a05aa27a876fcf665bbf.mesh"]
+
+source_file="res://assets/asteroids/29521_1997_YK14.obj"
+dest_files=["res://.godot/imported/29521_1997_YK14.obj-632fa5eed3a3a05aa27a876fcf665bbf.mesh", "res://.godot/imported/29521_1997_YK14.obj-632fa5eed3a3a05aa27a876fcf665bbf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

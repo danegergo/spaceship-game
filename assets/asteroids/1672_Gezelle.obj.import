@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://mnkixdn0prp2"
+path="res://.godot/imported/1672_Gezelle.obj-ddb3046657a63fb4a69a23b065540d0f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1672_Gezelle.obj-ddb3046657a63fb4a69a23b065540d0f.mesh"]
+
+source_file="res://assets/asteroids/1672_Gezelle.obj"
+dest_files=["res://.godot/imported/1672_Gezelle.obj-ddb3046657a63fb4a69a23b065540d0f.mesh", "res://.godot/imported/1672_Gezelle.obj-ddb3046657a63fb4a69a23b065540d0f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

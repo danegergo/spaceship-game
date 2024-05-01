@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bsf22tvp1nif2"
+path="res://.godot/imported/32575_2001_QY78.obj-4ddd61bb4cb14e473f637d3d31117d75.mesh"
+
+[deps]
+
+files=["res://.godot/imported/32575_2001_QY78.obj-4ddd61bb4cb14e473f637d3d31117d75.mesh"]
+
+source_file="res://assets/asteroids/32575_2001_QY78.obj"
+dest_files=["res://.godot/imported/32575_2001_QY78.obj-4ddd61bb4cb14e473f637d3d31117d75.mesh", "res://.godot/imported/32575_2001_QY78.obj-4ddd61bb4cb14e473f637d3d31117d75.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

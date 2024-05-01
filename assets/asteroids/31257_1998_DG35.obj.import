@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://diao5u6cfr58n"
+path="res://.godot/imported/31257_1998_DG35.obj-036456c3ddc374d2f9ba46179820f7ea.mesh"
+
+[deps]
+
+files=["res://.godot/imported/31257_1998_DG35.obj-036456c3ddc374d2f9ba46179820f7ea.mesh"]
+
+source_file="res://assets/asteroids/31257_1998_DG35.obj"
+dest_files=["res://.godot/imported/31257_1998_DG35.obj-036456c3ddc374d2f9ba46179820f7ea.mesh", "res://.godot/imported/31257_1998_DG35.obj-036456c3ddc374d2f9ba46179820f7ea.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

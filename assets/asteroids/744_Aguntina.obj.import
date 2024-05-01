@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dovdwavtku21e"
+path="res://.godot/imported/744_Aguntina.obj-f6645d9b80993b39407d2a779ae69002.mesh"
+
+[deps]
+
+files=["res://.godot/imported/744_Aguntina.obj-f6645d9b80993b39407d2a779ae69002.mesh"]
+
+source_file="res://assets/asteroids/744_Aguntina.obj"
+dest_files=["res://.godot/imported/744_Aguntina.obj-f6645d9b80993b39407d2a779ae69002.mesh", "res://.godot/imported/744_Aguntina.obj-f6645d9b80993b39407d2a779ae69002.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

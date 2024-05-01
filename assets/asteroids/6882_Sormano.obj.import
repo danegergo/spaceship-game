@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvivabwpmlcfm"
+path="res://.godot/imported/6882_Sormano.obj-b405ae6f670b27f1261c4e41ccac0dbc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6882_Sormano.obj-b405ae6f670b27f1261c4e41ccac0dbc.mesh"]
+
+source_file="res://assets/asteroids/6882_Sormano.obj"
+dest_files=["res://.godot/imported/6882_Sormano.obj-b405ae6f670b27f1261c4e41ccac0dbc.mesh", "res://.godot/imported/6882_Sormano.obj-b405ae6f670b27f1261c4e41ccac0dbc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

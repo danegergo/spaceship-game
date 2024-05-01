@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqrd5lx5cyug4"
+path="res://.godot/imported/1278_Kenya.obj-50d1839a08c86745160f9267d7f7a731.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1278_Kenya.obj-50d1839a08c86745160f9267d7f7a731.mesh"]
+
+source_file="res://assets/asteroids/1278_Kenya.obj"
+dest_files=["res://.godot/imported/1278_Kenya.obj-50d1839a08c86745160f9267d7f7a731.mesh", "res://.godot/imported/1278_Kenya.obj-50d1839a08c86745160f9267d7f7a731.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

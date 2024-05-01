@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d12hvd0utnh3o"
+path="res://.godot/imported/1125_China.obj-25f29232f00e3a23183a8a3ed59ceefd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1125_China.obj-25f29232f00e3a23183a8a3ed59ceefd.mesh"]
+
+source_file="res://assets/asteroids/1125_China.obj"
+dest_files=["res://.godot/imported/1125_China.obj-25f29232f00e3a23183a8a3ed59ceefd.mesh", "res://.godot/imported/1125_China.obj-25f29232f00e3a23183a8a3ed59ceefd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

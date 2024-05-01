@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://gdlubcxncuhw"
+path="res://.godot/imported/62468_2000_SA214.obj-6f56018b137feb6f85887a26357f079f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/62468_2000_SA214.obj-6f56018b137feb6f85887a26357f079f.mesh"]
+
+source_file="res://assets/asteroids/62468_2000_SA214.obj"
+dest_files=["res://.godot/imported/62468_2000_SA214.obj-6f56018b137feb6f85887a26357f079f.mesh", "res://.godot/imported/62468_2000_SA214.obj-6f56018b137feb6f85887a26357f079f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

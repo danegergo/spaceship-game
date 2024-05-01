@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://q04ga7rlb5h1"
+path="res://.godot/imported/1105_Fragaria.obj-29c06386b1cfb4f382f127eadcf62c5f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1105_Fragaria.obj-29c06386b1cfb4f382f127eadcf62c5f.mesh"]
+
+source_file="res://assets/asteroids/1105_Fragaria.obj"
+dest_files=["res://.godot/imported/1105_Fragaria.obj-29c06386b1cfb4f382f127eadcf62c5f.mesh", "res://.godot/imported/1105_Fragaria.obj-29c06386b1cfb4f382f127eadcf62c5f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

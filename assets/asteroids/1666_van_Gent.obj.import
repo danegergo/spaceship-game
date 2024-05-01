@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cipsbowxk0qg3"
+path="res://.godot/imported/1666_van_Gent.obj-509bb647d42293244b380a86d14d15eb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1666_van_Gent.obj-509bb647d42293244b380a86d14d15eb.mesh"]
+
+source_file="res://assets/asteroids/1666_van_Gent.obj"
+dest_files=["res://.godot/imported/1666_van_Gent.obj-509bb647d42293244b380a86d14d15eb.mesh", "res://.godot/imported/1666_van_Gent.obj-509bb647d42293244b380a86d14d15eb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

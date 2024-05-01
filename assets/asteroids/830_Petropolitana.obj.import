@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fouad74qneag"
+path="res://.godot/imported/830_Petropolitana.obj-db4d607d1bdf3a8051cf2000cb5230c9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/830_Petropolitana.obj-db4d607d1bdf3a8051cf2000cb5230c9.mesh"]
+
+source_file="res://assets/asteroids/830_Petropolitana.obj"
+dest_files=["res://.godot/imported/830_Petropolitana.obj-db4d607d1bdf3a8051cf2000cb5230c9.mesh", "res://.godot/imported/830_Petropolitana.obj-db4d607d1bdf3a8051cf2000cb5230c9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

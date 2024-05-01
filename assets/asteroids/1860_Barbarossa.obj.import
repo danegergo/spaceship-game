@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c5rfaqul3u8h2"
+path="res://.godot/imported/1860_Barbarossa.obj-e924cc9b3df0f83c0e410630f8da831b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1860_Barbarossa.obj-e924cc9b3df0f83c0e410630f8da831b.mesh"]
+
+source_file="res://assets/asteroids/1860_Barbarossa.obj"
+dest_files=["res://.godot/imported/1860_Barbarossa.obj-e924cc9b3df0f83c0e410630f8da831b.mesh", "res://.godot/imported/1860_Barbarossa.obj-e924cc9b3df0f83c0e410630f8da831b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://qnesu2r451ls"
+path="res://.godot/imported/2467_Kollontai.obj-a8ba899aab6989c6caf8c1ada2ab4dbb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2467_Kollontai.obj-a8ba899aab6989c6caf8c1ada2ab4dbb.mesh"]
+
+source_file="res://assets/asteroids/2467_Kollontai.obj"
+dest_files=["res://.godot/imported/2467_Kollontai.obj-a8ba899aab6989c6caf8c1ada2ab4dbb.mesh", "res://.godot/imported/2467_Kollontai.obj-a8ba899aab6989c6caf8c1ada2ab4dbb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

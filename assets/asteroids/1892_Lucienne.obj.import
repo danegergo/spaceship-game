@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://4iir42blupht"
+path="res://.godot/imported/1892_Lucienne.obj-6acef1ffdf695b836d486a6d98267ecb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1892_Lucienne.obj-6acef1ffdf695b836d486a6d98267ecb.mesh"]
+
+source_file="res://assets/asteroids/1892_Lucienne.obj"
+dest_files=["res://.godot/imported/1892_Lucienne.obj-6acef1ffdf695b836d486a6d98267ecb.mesh", "res://.godot/imported/1892_Lucienne.obj-6acef1ffdf695b836d486a6d98267ecb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

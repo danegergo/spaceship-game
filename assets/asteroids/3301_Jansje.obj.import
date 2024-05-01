@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d1bk3pj0fhss4"
+path="res://.godot/imported/3301_Jansje.obj-47d610733e04854f939a06fc92625126.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3301_Jansje.obj-47d610733e04854f939a06fc92625126.mesh"]
+
+source_file="res://assets/asteroids/3301_Jansje.obj"
+dest_files=["res://.godot/imported/3301_Jansje.obj-47d610733e04854f939a06fc92625126.mesh", "res://.godot/imported/3301_Jansje.obj-47d610733e04854f939a06fc92625126.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

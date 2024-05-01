@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dfkpjgh8bttt4"
+path="res://.godot/imported/4995_Griffin.obj-a2beb9dd88f0a09362eb16f50c1b1cfe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4995_Griffin.obj-a2beb9dd88f0a09362eb16f50c1b1cfe.mesh"]
+
+source_file="res://assets/asteroids/4995_Griffin.obj"
+dest_files=["res://.godot/imported/4995_Griffin.obj-a2beb9dd88f0a09362eb16f50c1b1cfe.mesh", "res://.godot/imported/4995_Griffin.obj-a2beb9dd88f0a09362eb16f50c1b1cfe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

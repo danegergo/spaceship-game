@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bx6pkh7egyst6"
+path="res://.godot/imported/78505_2002_RS84.obj-8ffa7fa56d3a1608797aa46030fad011.mesh"
+
+[deps]
+
+files=["res://.godot/imported/78505_2002_RS84.obj-8ffa7fa56d3a1608797aa46030fad011.mesh"]
+
+source_file="res://assets/asteroids/78505_2002_RS84.obj"
+dest_files=["res://.godot/imported/78505_2002_RS84.obj-8ffa7fa56d3a1608797aa46030fad011.mesh", "res://.godot/imported/78505_2002_RS84.obj-8ffa7fa56d3a1608797aa46030fad011.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cp2q4kcs57xm"
+path="res://.godot/imported/406_Erna.obj-c9ad095e6f1c8396b65e26fa71b23146.mesh"
+
+[deps]
+
+files=["res://.godot/imported/406_Erna.obj-c9ad095e6f1c8396b65e26fa71b23146.mesh"]
+
+source_file="res://assets/asteroids/406_Erna.obj"
+dest_files=["res://.godot/imported/406_Erna.obj-c9ad095e6f1c8396b65e26fa71b23146.mesh", "res://.godot/imported/406_Erna.obj-c9ad095e6f1c8396b65e26fa71b23146.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

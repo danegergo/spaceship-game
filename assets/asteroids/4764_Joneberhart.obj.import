@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c3gtbo7y0568x"
+path="res://.godot/imported/4764_Joneberhart.obj-bc8af2ad1b236b67c0354503f1c0a028.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4764_Joneberhart.obj-bc8af2ad1b236b67c0354503f1c0a028.mesh"]
+
+source_file="res://assets/asteroids/4764_Joneberhart.obj"
+dest_files=["res://.godot/imported/4764_Joneberhart.obj-bc8af2ad1b236b67c0354503f1c0a028.mesh", "res://.godot/imported/4764_Joneberhart.obj-bc8af2ad1b236b67c0354503f1c0a028.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

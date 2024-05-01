@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cgj5pgcij0h5t"
+path="res://.godot/imported/511_Davida.obj-0ee39a6ee1c76643fdabad8e1113f72e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/511_Davida.obj-0ee39a6ee1c76643fdabad8e1113f72e.mesh"]
+
+source_file="res://assets/asteroids/511_Davida.obj"
+dest_files=["res://.godot/imported/511_Davida.obj-0ee39a6ee1c76643fdabad8e1113f72e.mesh", "res://.godot/imported/511_Davida.obj-0ee39a6ee1c76643fdabad8e1113f72e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

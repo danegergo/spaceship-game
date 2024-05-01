@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://0lgsc7y3ajw8"
+path="res://.godot/imported/689_Zita.obj-05eaee1ff366398b1f8dcb7eac33b146.mesh"
+
+[deps]
+
+files=["res://.godot/imported/689_Zita.obj-05eaee1ff366398b1f8dcb7eac33b146.mesh"]
+
+source_file="res://assets/asteroids/689_Zita.obj"
+dest_files=["res://.godot/imported/689_Zita.obj-05eaee1ff366398b1f8dcb7eac33b146.mesh", "res://.godot/imported/689_Zita.obj-05eaee1ff366398b1f8dcb7eac33b146.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

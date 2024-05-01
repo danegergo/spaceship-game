@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cg5oqa638s2w0"
+path="res://.godot/imported/1366_Piccolo.obj-047ec5443a570e35e76da63650b7eaef.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1366_Piccolo.obj-047ec5443a570e35e76da63650b7eaef.mesh"]
+
+source_file="res://assets/asteroids/1366_Piccolo.obj"
+dest_files=["res://.godot/imported/1366_Piccolo.obj-047ec5443a570e35e76da63650b7eaef.mesh", "res://.godot/imported/1366_Piccolo.obj-047ec5443a570e35e76da63650b7eaef.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

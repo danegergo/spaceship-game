@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://wbl5eou5wobs"
+path="res://.godot/imported/3755_Lecointe.obj-bb65527701b470d3dd3eb462a170a383.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3755_Lecointe.obj-bb65527701b470d3dd3eb462a170a383.mesh"]
+
+source_file="res://assets/asteroids/3755_Lecointe.obj"
+dest_files=["res://.godot/imported/3755_Lecointe.obj-bb65527701b470d3dd3eb462a170a383.mesh", "res://.godot/imported/3755_Lecointe.obj-bb65527701b470d3dd3eb462a170a383.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

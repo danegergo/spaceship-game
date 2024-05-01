@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqq31mt5vu5ne"
+path="res://.godot/imported/18159_Andrewcook.obj-3e151bbe5bc3f99714dac4a9ff7133fa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/18159_Andrewcook.obj-3e151bbe5bc3f99714dac4a9ff7133fa.mesh"]
+
+source_file="res://assets/asteroids/18159_Andrewcook.obj"
+dest_files=["res://.godot/imported/18159_Andrewcook.obj-3e151bbe5bc3f99714dac4a9ff7133fa.mesh", "res://.godot/imported/18159_Andrewcook.obj-3e151bbe5bc3f99714dac4a9ff7133fa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

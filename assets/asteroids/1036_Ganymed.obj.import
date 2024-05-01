@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhac1jy57giq1"
+path="res://.godot/imported/1036_Ganymed.obj-179c27859d9b1da6dca5b2673ab10b54.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1036_Ganymed.obj-179c27859d9b1da6dca5b2673ab10b54.mesh"]
+
+source_file="res://assets/asteroids/1036_Ganymed.obj"
+dest_files=["res://.godot/imported/1036_Ganymed.obj-179c27859d9b1da6dca5b2673ab10b54.mesh", "res://.godot/imported/1036_Ganymed.obj-179c27859d9b1da6dca5b2673ab10b54.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

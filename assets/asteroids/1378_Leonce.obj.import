@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://da30t50x3svq1"
+path="res://.godot/imported/1378_Leonce.obj-06711eb2ee288ad30e923f7bf4cfd8fb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1378_Leonce.obj-06711eb2ee288ad30e923f7bf4cfd8fb.mesh"]
+
+source_file="res://assets/asteroids/1378_Leonce.obj"
+dest_files=["res://.godot/imported/1378_Leonce.obj-06711eb2ee288ad30e923f7bf4cfd8fb.mesh", "res://.godot/imported/1378_Leonce.obj-06711eb2ee288ad30e923f7bf4cfd8fb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

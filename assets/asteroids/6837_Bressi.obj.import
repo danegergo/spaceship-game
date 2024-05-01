@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://786ijbb44jrm"
+path="res://.godot/imported/6837_Bressi.obj-a57f81a4a4c57f5eec98e913dbc870fa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6837_Bressi.obj-a57f81a4a4c57f5eec98e913dbc870fa.mesh"]
+
+source_file="res://assets/asteroids/6837_Bressi.obj"
+dest_files=["res://.godot/imported/6837_Bressi.obj-a57f81a4a4c57f5eec98e913dbc870fa.mesh", "res://.godot/imported/6837_Bressi.obj-a57f81a4a4c57f5eec98e913dbc870fa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

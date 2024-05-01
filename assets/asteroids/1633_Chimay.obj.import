@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4seb50v0ps01"
+path="res://.godot/imported/1633_Chimay.obj-1a3c4742b9baf1ef0d6cfbfa1d0bd41b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1633_Chimay.obj-1a3c4742b9baf1ef0d6cfbfa1d0bd41b.mesh"]
+
+source_file="res://assets/asteroids/1633_Chimay.obj"
+dest_files=["res://.godot/imported/1633_Chimay.obj-1a3c4742b9baf1ef0d6cfbfa1d0bd41b.mesh", "res://.godot/imported/1633_Chimay.obj-1a3c4742b9baf1ef0d6cfbfa1d0bd41b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

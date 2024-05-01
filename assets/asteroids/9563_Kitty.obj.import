@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://t6nbcl27epi3"
+path="res://.godot/imported/9563_Kitty.obj-36620c4e988f753222c4bf4487fc6058.mesh"
+
+[deps]
+
+files=["res://.godot/imported/9563_Kitty.obj-36620c4e988f753222c4bf4487fc6058.mesh"]
+
+source_file="res://assets/asteroids/9563_Kitty.obj"
+dest_files=["res://.godot/imported/9563_Kitty.obj-36620c4e988f753222c4bf4487fc6058.mesh", "res://.godot/imported/9563_Kitty.obj-36620c4e988f753222c4bf4487fc6058.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

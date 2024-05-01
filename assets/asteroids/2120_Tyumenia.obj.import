@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvn6pgioxv5go"
+path="res://.godot/imported/2120_Tyumenia.obj-5d77b339e4e196144e630ed051932061.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2120_Tyumenia.obj-5d77b339e4e196144e630ed051932061.mesh"]
+
+source_file="res://assets/asteroids/2120_Tyumenia.obj"
+dest_files=["res://.godot/imported/2120_Tyumenia.obj-5d77b339e4e196144e630ed051932061.mesh", "res://.godot/imported/2120_Tyumenia.obj-5d77b339e4e196144e630ed051932061.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

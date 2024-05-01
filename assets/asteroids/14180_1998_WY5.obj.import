@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cguk3svadpnxi"
+path="res://.godot/imported/14180_1998_WY5.obj-68d3e2e528d5ff11af707a77ec049ef6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/14180_1998_WY5.obj-68d3e2e528d5ff11af707a77ec049ef6.mesh"]
+
+source_file="res://assets/asteroids/14180_1998_WY5.obj"
+dest_files=["res://.godot/imported/14180_1998_WY5.obj-68d3e2e528d5ff11af707a77ec049ef6.mesh", "res://.godot/imported/14180_1998_WY5.obj-68d3e2e528d5ff11af707a77ec049ef6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

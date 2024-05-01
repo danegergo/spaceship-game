@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://mui1yk88t5hc"
+path="res://.godot/imported/129_Antigone.obj-90c2e752f3e9812f683e6c125d9df520.mesh"
+
+[deps]
+
+files=["res://.godot/imported/129_Antigone.obj-90c2e752f3e9812f683e6c125d9df520.mesh"]
+
+source_file="res://assets/asteroids/129_Antigone.obj"
+dest_files=["res://.godot/imported/129_Antigone.obj-90c2e752f3e9812f683e6c125d9df520.mesh", "res://.godot/imported/129_Antigone.obj-90c2e752f3e9812f683e6c125d9df520.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

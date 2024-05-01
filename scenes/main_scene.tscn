@@ -1,0 +1,29 @@
+[gd_scene load_steps=7 format=3 uid="uid://cdqrvyax3d1mr"]
+
+[ext_resource type="PackedScene" uid="uid://0k8gadwxcbtv" path="res://assets/spaceship/space_fighter.glb" id="1_tpn7v"]
+[ext_resource type="PackedScene" uid="uid://bgthjj5j82xsc" path="res://scenes/player.tscn" id="2_yp40u"]
+[ext_resource type="Texture2D" uid="uid://06b1r3bxgvll" path="res://assets/skybox/panorama_image.png" id="3_ju2a4"]
+
+[sub_resource type="PanoramaSkyMaterial" id="PanoramaSkyMaterial_8jqb6"]
+panorama = ExtResource("3_ju2a4")
+
+[sub_resource type="Sky" id="Sky_7p2qo"]
+sky_material = SubResource("PanoramaSkyMaterial_8jqb6")
+
+[sub_resource type="Environment" id="Environment_mv8gi"]
+background_mode = 2
+sky = SubResource("Sky_7p2qo")
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Sketchfab_Scene" parent="." instance=ExtResource("1_tpn7v")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 27.222, 7.68295, 548.811)
+
+[node name="Player" parent="." instance=ExtResource("2_yp40u")]
+
+[node name="Skybox" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_mv8gi")
+
+[node name="DirectionalLight3D (Sun)" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.752271, -0.33418, -0.567814, 0.0185778, -0.850719, 0.525293, -0.658592, -0.405711, -0.633762, -2997.23, 2273.27, -3108.46)
+shadow_enabled = true

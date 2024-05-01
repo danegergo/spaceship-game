@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccxrtujx3cl42"
+path="res://.godot/imported/5231_Verne.obj-b8f9dd4ec60638987c44c61f01d99ae7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5231_Verne.obj-b8f9dd4ec60638987c44c61f01d99ae7.mesh"]
+
+source_file="res://assets/asteroids/5231_Verne.obj"
+dest_files=["res://.godot/imported/5231_Verne.obj-b8f9dd4ec60638987c44c61f01d99ae7.mesh", "res://.godot/imported/5231_Verne.obj-b8f9dd4ec60638987c44c61f01d99ae7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

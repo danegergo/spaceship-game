@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dp2kodp2b0ysj"
+path="res://.godot/imported/12383_Eboshi.obj-625387366caf0782352cf9756c34ac62.mesh"
+
+[deps]
+
+files=["res://.godot/imported/12383_Eboshi.obj-625387366caf0782352cf9756c34ac62.mesh"]
+
+source_file="res://assets/asteroids/12383_Eboshi.obj"
+dest_files=["res://.godot/imported/12383_Eboshi.obj-625387366caf0782352cf9756c34ac62.mesh", "res://.godot/imported/12383_Eboshi.obj-625387366caf0782352cf9756c34ac62.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

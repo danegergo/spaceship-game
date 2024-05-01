@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://key86xw368sk"
+path="res://.godot/imported/1685_Toro.obj-2538daaeef1681df942a6960f22f9a1c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1685_Toro.obj-2538daaeef1681df942a6960f22f9a1c.mesh"]
+
+source_file="res://assets/asteroids/1685_Toro.obj"
+dest_files=["res://.godot/imported/1685_Toro.obj-2538daaeef1681df942a6960f22f9a1c.mesh", "res://.godot/imported/1685_Toro.obj-2538daaeef1681df942a6960f22f9a1c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

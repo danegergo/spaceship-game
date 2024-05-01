@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://br2e4close3j7"
+path="res://.godot/imported/2709_Sagan.obj-55af4a8bbcceb8095e41171e6619a5f8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2709_Sagan.obj-55af4a8bbcceb8095e41171e6619a5f8.mesh"]
+
+source_file="res://assets/asteroids/2709_Sagan.obj"
+dest_files=["res://.godot/imported/2709_Sagan.obj-55af4a8bbcceb8095e41171e6619a5f8.mesh", "res://.godot/imported/2709_Sagan.obj-55af4a8bbcceb8095e41171e6619a5f8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

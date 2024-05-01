@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ce2guq361ox7t"
+path="res://.godot/imported/1204_Renzia.obj-b0d6ae940da9e4a8282043f5868c2029.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1204_Renzia.obj-b0d6ae940da9e4a8282043f5868c2029.mesh"]
+
+source_file="res://assets/asteroids/1204_Renzia.obj"
+dest_files=["res://.godot/imported/1204_Renzia.obj-b0d6ae940da9e4a8282043f5868c2029.mesh", "res://.godot/imported/1204_Renzia.obj-b0d6ae940da9e4a8282043f5868c2029.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

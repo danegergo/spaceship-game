@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c12p0tedk3mw8"
+path="res://.godot/imported/28_Bellona.obj-9588abe743f8f33c00a504a9bddf1b93.mesh"
+
+[deps]
+
+files=["res://.godot/imported/28_Bellona.obj-9588abe743f8f33c00a504a9bddf1b93.mesh"]
+
+source_file="res://assets/asteroids/28_Bellona.obj"
+dest_files=["res://.godot/imported/28_Bellona.obj-9588abe743f8f33c00a504a9bddf1b93.mesh", "res://.godot/imported/28_Bellona.obj-9588abe743f8f33c00a504a9bddf1b93.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

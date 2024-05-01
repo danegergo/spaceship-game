@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://gfrehkvrmctd"
+path="res://.godot/imported/99_Dike.obj-9c9e0217b411dc30d879fa3244671fdc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/99_Dike.obj-9c9e0217b411dc30d879fa3244671fdc.mesh"]
+
+source_file="res://assets/asteroids/99_Dike.obj"
+dest_files=["res://.godot/imported/99_Dike.obj-9c9e0217b411dc30d879fa3244671fdc.mesh", "res://.godot/imported/99_Dike.obj-9c9e0217b411dc30d879fa3244671fdc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cukiddjbrgyft"
+path="res://.godot/imported/2112_Ulyanov.obj-d0cbe4d83693be0e79f5b93397a0b92b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2112_Ulyanov.obj-d0cbe4d83693be0e79f5b93397a0b92b.mesh"]
+
+source_file="res://assets/asteroids/2112_Ulyanov.obj"
+dest_files=["res://.godot/imported/2112_Ulyanov.obj-d0cbe4d83693be0e79f5b93397a0b92b.mesh", "res://.godot/imported/2112_Ulyanov.obj-d0cbe4d83693be0e79f5b93397a0b92b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

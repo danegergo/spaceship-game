@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b8jiqm8ydh4dp"
+path="res://.godot/imported/1559_Kustaanheimo.obj-64bc7f92f7a6d5bf4f8568bb46f6f954.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1559_Kustaanheimo.obj-64bc7f92f7a6d5bf4f8568bb46f6f954.mesh"]
+
+source_file="res://assets/asteroids/1559_Kustaanheimo.obj"
+dest_files=["res://.godot/imported/1559_Kustaanheimo.obj-64bc7f92f7a6d5bf4f8568bb46f6f954.mesh", "res://.godot/imported/1559_Kustaanheimo.obj-64bc7f92f7a6d5bf4f8568bb46f6f954.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

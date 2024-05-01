@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c3mtuhabnieb"
+path="res://.godot/imported/3097_Tacitus.obj-8cce614a2bf2d546f5f140bd39a9f58e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3097_Tacitus.obj-8cce614a2bf2d546f5f140bd39a9f58e.mesh"]
+
+source_file="res://assets/asteroids/3097_Tacitus.obj"
+dest_files=["res://.godot/imported/3097_Tacitus.obj-8cce614a2bf2d546f5f140bd39a9f58e.mesh", "res://.godot/imported/3097_Tacitus.obj-8cce614a2bf2d546f5f140bd39a9f58e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://lm5q8svyj4s7"
+path="res://.godot/imported/4810_Ruslanova.obj-cd546e2676321e29b8daa7acddeb7fd4.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4810_Ruslanova.obj-cd546e2676321e29b8daa7acddeb7fd4.mesh"]
+
+source_file="res://assets/asteroids/4810_Ruslanova.obj"
+dest_files=["res://.godot/imported/4810_Ruslanova.obj-cd546e2676321e29b8daa7acddeb7fd4.mesh", "res://.godot/imported/4810_Ruslanova.obj-cd546e2676321e29b8daa7acddeb7fd4.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

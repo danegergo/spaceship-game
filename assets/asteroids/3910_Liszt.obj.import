@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cm1xvyhsonkbe"
+path="res://.godot/imported/3910_Liszt.obj-42b1176074b2006c63336aede64a7392.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3910_Liszt.obj-42b1176074b2006c63336aede64a7392.mesh"]
+
+source_file="res://assets/asteroids/3910_Liszt.obj"
+dest_files=["res://.godot/imported/3910_Liszt.obj-42b1176074b2006c63336aede64a7392.mesh", "res://.godot/imported/3910_Liszt.obj-42b1176074b2006c63336aede64a7392.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

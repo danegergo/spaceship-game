@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dql3rk5y58ckj"
+path="res://.godot/imported/1400_Tirela.obj-bb3958e423aa3fab474c019b9552431d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1400_Tirela.obj-bb3958e423aa3fab474c019b9552431d.mesh"]
+
+source_file="res://assets/asteroids/1400_Tirela.obj"
+dest_files=["res://.godot/imported/1400_Tirela.obj-bb3958e423aa3fab474c019b9552431d.mesh", "res://.godot/imported/1400_Tirela.obj-bb3958e423aa3fab474c019b9552431d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

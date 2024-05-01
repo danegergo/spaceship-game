@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://g52lj2s0kxio"
+path="res://.godot/imported/584_Semiramis.obj-0812630dad419ff52738aa1752be46ca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/584_Semiramis.obj-0812630dad419ff52738aa1752be46ca.mesh"]
+
+source_file="res://assets/asteroids/584_Semiramis.obj"
+dest_files=["res://.godot/imported/584_Semiramis.obj-0812630dad419ff52738aa1752be46ca.mesh", "res://.godot/imported/584_Semiramis.obj-0812630dad419ff52738aa1752be46ca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

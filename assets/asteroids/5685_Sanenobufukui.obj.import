@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dmxjd73arpkui"
+path="res://.godot/imported/5685_Sanenobufukui.obj-902dcef294504a2f8cc01925fd3cc16c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5685_Sanenobufukui.obj-902dcef294504a2f8cc01925fd3cc16c.mesh"]
+
+source_file="res://assets/asteroids/5685_Sanenobufukui.obj"
+dest_files=["res://.godot/imported/5685_Sanenobufukui.obj-902dcef294504a2f8cc01925fd3cc16c.mesh", "res://.godot/imported/5685_Sanenobufukui.obj-902dcef294504a2f8cc01925fd3cc16c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://df4mpjvgytu2s"
+path="res://.godot/imported/1996_Adams.obj-d9e1edce941128be135a337d0672045c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1996_Adams.obj-d9e1edce941128be135a337d0672045c.mesh"]
+
+source_file="res://assets/asteroids/1996_Adams.obj"
+dest_files=["res://.godot/imported/1996_Adams.obj-d9e1edce941128be135a337d0672045c.mesh", "res://.godot/imported/1996_Adams.obj-d9e1edce941128be135a337d0672045c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

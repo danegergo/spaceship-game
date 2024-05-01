@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d62hpnmqqhin"
+path="res://.godot/imported/1963_Bezovec.obj-536283d2d605c64eb0d225b41ac88f7e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1963_Bezovec.obj-536283d2d605c64eb0d225b41ac88f7e.mesh"]
+
+source_file="res://assets/asteroids/1963_Bezovec.obj"
+dest_files=["res://.godot/imported/1963_Bezovec.obj-536283d2d605c64eb0d225b41ac88f7e.mesh", "res://.godot/imported/1963_Bezovec.obj-536283d2d605c64eb0d225b41ac88f7e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

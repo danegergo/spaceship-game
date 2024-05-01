@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6txfq7g5clds"
+path="res://.godot/imported/2094_Magnitka.obj-7665a504ee516d181b75dbb841848dd8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2094_Magnitka.obj-7665a504ee516d181b75dbb841848dd8.mesh"]
+
+source_file="res://assets/asteroids/2094_Magnitka.obj"
+dest_files=["res://.godot/imported/2094_Magnitka.obj-7665a504ee516d181b75dbb841848dd8.mesh", "res://.godot/imported/2094_Magnitka.obj-7665a504ee516d181b75dbb841848dd8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

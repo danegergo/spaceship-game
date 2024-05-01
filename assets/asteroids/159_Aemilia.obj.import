@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cptaub6qc0nf4"
+path="res://.godot/imported/159_Aemilia.obj-dfd68ddece9b6210629dbe5e3267b03d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/159_Aemilia.obj-dfd68ddece9b6210629dbe5e3267b03d.mesh"]
+
+source_file="res://assets/asteroids/159_Aemilia.obj"
+dest_files=["res://.godot/imported/159_Aemilia.obj-dfd68ddece9b6210629dbe5e3267b03d.mesh", "res://.godot/imported/159_Aemilia.obj-dfd68ddece9b6210629dbe5e3267b03d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

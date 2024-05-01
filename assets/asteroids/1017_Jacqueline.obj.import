@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cn2roytji4rw4"
+path="res://.godot/imported/1017_Jacqueline.obj-928c87d4eaf95270356362bfbb9ed3fb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1017_Jacqueline.obj-928c87d4eaf95270356362bfbb9ed3fb.mesh"]
+
+source_file="res://assets/asteroids/1017_Jacqueline.obj"
+dest_files=["res://.godot/imported/1017_Jacqueline.obj-928c87d4eaf95270356362bfbb9ed3fb.mesh", "res://.godot/imported/1017_Jacqueline.obj-928c87d4eaf95270356362bfbb9ed3fb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

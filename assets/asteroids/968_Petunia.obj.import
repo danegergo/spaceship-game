@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://rgcah1uvrjxy"
+path="res://.godot/imported/968_Petunia.obj-1149dd774e0f2799c1b62cc0bebad36d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/968_Petunia.obj-1149dd774e0f2799c1b62cc0bebad36d.mesh"]
+
+source_file="res://assets/asteroids/968_Petunia.obj"
+dest_files=["res://.godot/imported/968_Petunia.obj-1149dd774e0f2799c1b62cc0bebad36d.mesh", "res://.godot/imported/968_Petunia.obj-1149dd774e0f2799c1b62cc0bebad36d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bp3obh704t8wu"
+path="res://.godot/imported/12774_Pfund.obj-12451c57c61478b58fb51aefb45a10b3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/12774_Pfund.obj-12451c57c61478b58fb51aefb45a10b3.mesh"]
+
+source_file="res://assets/asteroids/12774_Pfund.obj"
+dest_files=["res://.godot/imported/12774_Pfund.obj-12451c57c61478b58fb51aefb45a10b3.mesh", "res://.godot/imported/12774_Pfund.obj-12451c57c61478b58fb51aefb45a10b3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

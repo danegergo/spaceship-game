@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drqgmxmo4d671"
+path="res://.godot/imported/4179_Toutatis.obj-940bff25f224694ed79d144646346a8b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4179_Toutatis.obj-940bff25f224694ed79d144646346a8b.mesh"]
+
+source_file="res://assets/asteroids/4179_Toutatis.obj"
+dest_files=["res://.godot/imported/4179_Toutatis.obj-940bff25f224694ed79d144646346a8b.mesh", "res://.godot/imported/4179_Toutatis.obj-940bff25f224694ed79d144646346a8b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

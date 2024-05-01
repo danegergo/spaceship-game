@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bj8hjeensdnix"
+path="res://.godot/imported/1801_Titicaca.obj-996d67ee4367ddf221cea7876fcf7990.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1801_Titicaca.obj-996d67ee4367ddf221cea7876fcf7990.mesh"]
+
+source_file="res://assets/asteroids/1801_Titicaca.obj"
+dest_files=["res://.godot/imported/1801_Titicaca.obj-996d67ee4367ddf221cea7876fcf7990.mesh", "res://.godot/imported/1801_Titicaca.obj-996d67ee4367ddf221cea7876fcf7990.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

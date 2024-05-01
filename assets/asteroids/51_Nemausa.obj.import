@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cm73na60fa5qt"
+path="res://.godot/imported/51_Nemausa.obj-cd53ad1ba7a0f72e96bb3de4a3a9d42c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/51_Nemausa.obj-cd53ad1ba7a0f72e96bb3de4a3a9d42c.mesh"]
+
+source_file="res://assets/asteroids/51_Nemausa.obj"
+dest_files=["res://.godot/imported/51_Nemausa.obj-cd53ad1ba7a0f72e96bb3de4a3a9d42c.mesh", "res://.godot/imported/51_Nemausa.obj-cd53ad1ba7a0f72e96bb3de4a3a9d42c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tp0dlc8a10hv"
+path="res://.godot/imported/5723_Hudson.obj-4129fa3c0d948136970e6ad9509a47ca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5723_Hudson.obj-4129fa3c0d948136970e6ad9509a47ca.mesh"]
+
+source_file="res://assets/asteroids/5723_Hudson.obj"
+dest_files=["res://.godot/imported/5723_Hudson.obj-4129fa3c0d948136970e6ad9509a47ca.mesh", "res://.godot/imported/5723_Hudson.obj-4129fa3c0d948136970e6ad9509a47ca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

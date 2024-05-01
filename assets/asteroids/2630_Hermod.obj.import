@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cupldrb80qn6k"
+path="res://.godot/imported/2630_Hermod.obj-bd01a4efe76b6a2b3270636783bb154f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2630_Hermod.obj-bd01a4efe76b6a2b3270636783bb154f.mesh"]
+
+source_file="res://assets/asteroids/2630_Hermod.obj"
+dest_files=["res://.godot/imported/2630_Hermod.obj-bd01a4efe76b6a2b3270636783bb154f.mesh", "res://.godot/imported/2630_Hermod.obj-bd01a4efe76b6a2b3270636783bb154f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

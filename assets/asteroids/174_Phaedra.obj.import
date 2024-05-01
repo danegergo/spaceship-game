@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://din0esyjjfckc"
+path="res://.godot/imported/174_Phaedra.obj-7a1b5c3c91216d382256cfc3af8646f7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/174_Phaedra.obj-7a1b5c3c91216d382256cfc3af8646f7.mesh"]
+
+source_file="res://assets/asteroids/174_Phaedra.obj"
+dest_files=["res://.godot/imported/174_Phaedra.obj-7a1b5c3c91216d382256cfc3af8646f7.mesh", "res://.godot/imported/174_Phaedra.obj-7a1b5c3c91216d382256cfc3af8646f7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6eg71xgwk2lu"
+path="res://.godot/imported/2511_Patterson.obj-27daa37338212e08bd3d355da73b484e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2511_Patterson.obj-27daa37338212e08bd3d355da73b484e.mesh"]
+
+source_file="res://assets/asteroids/2511_Patterson.obj"
+dest_files=["res://.godot/imported/2511_Patterson.obj-27daa37338212e08bd3d355da73b484e.mesh", "res://.godot/imported/2511_Patterson.obj-27daa37338212e08bd3d355da73b484e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

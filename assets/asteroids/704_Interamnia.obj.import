@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cpe6jg5ofk0ig"
+path="res://.godot/imported/704_Interamnia.obj-bc3481dbdc46b0f90d4ed5faa7d54456.mesh"
+
+[deps]
+
+files=["res://.godot/imported/704_Interamnia.obj-bc3481dbdc46b0f90d4ed5faa7d54456.mesh"]
+
+source_file="res://assets/asteroids/704_Interamnia.obj"
+dest_files=["res://.godot/imported/704_Interamnia.obj-bc3481dbdc46b0f90d4ed5faa7d54456.mesh", "res://.godot/imported/704_Interamnia.obj-bc3481dbdc46b0f90d4ed5faa7d54456.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

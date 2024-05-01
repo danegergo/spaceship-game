@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://decalcej8q4f6"
+path="res://.godot/imported/1294_Antwerpia.obj-5088f5ab14367a7b1cd2cde1cf5f10e1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1294_Antwerpia.obj-5088f5ab14367a7b1cd2cde1cf5f10e1.mesh"]
+
+source_file="res://assets/asteroids/1294_Antwerpia.obj"
+dest_files=["res://.godot/imported/1294_Antwerpia.obj-5088f5ab14367a7b1cd2cde1cf5f10e1.mesh", "res://.godot/imported/1294_Antwerpia.obj-5088f5ab14367a7b1cd2cde1cf5f10e1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

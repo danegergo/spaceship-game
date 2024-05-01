@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dycn05b2f8lm7"
+path="res://.godot/imported/25427_Kratchmarov.obj-a4ed149ef15ec6feabfc108afc7ed7bc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/25427_Kratchmarov.obj-a4ed149ef15ec6feabfc108afc7ed7bc.mesh"]
+
+source_file="res://assets/asteroids/25427_Kratchmarov.obj"
+dest_files=["res://.godot/imported/25427_Kratchmarov.obj-a4ed149ef15ec6feabfc108afc7ed7bc.mesh", "res://.godot/imported/25427_Kratchmarov.obj-a4ed149ef15ec6feabfc108afc7ed7bc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

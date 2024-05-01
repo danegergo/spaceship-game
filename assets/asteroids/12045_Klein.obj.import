@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tiovqmrtyat6"
+path="res://.godot/imported/12045_Klein.obj-778c05bde3bf23d826d2d952ec3b888d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/12045_Klein.obj-778c05bde3bf23d826d2d952ec3b888d.mesh"]
+
+source_file="res://assets/asteroids/12045_Klein.obj"
+dest_files=["res://.godot/imported/12045_Klein.obj-778c05bde3bf23d826d2d952ec3b888d.mesh", "res://.godot/imported/12045_Klein.obj-778c05bde3bf23d826d2d952ec3b888d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

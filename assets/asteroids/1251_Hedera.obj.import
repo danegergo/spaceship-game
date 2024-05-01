@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tai7yxmix0g3"
+path="res://.godot/imported/1251_Hedera.obj-7b7d1b24d7df9c2c8fd8e2114c725e0b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1251_Hedera.obj-7b7d1b24d7df9c2c8fd8e2114c725e0b.mesh"]
+
+source_file="res://assets/asteroids/1251_Hedera.obj"
+dest_files=["res://.godot/imported/1251_Hedera.obj-7b7d1b24d7df9c2c8fd8e2114c725e0b.mesh", "res://.godot/imported/1251_Hedera.obj-7b7d1b24d7df9c2c8fd8e2114c725e0b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

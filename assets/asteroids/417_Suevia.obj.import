@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cdi264xgwnf5"
+path="res://.godot/imported/417_Suevia.obj-f6e0d7faf834a870c1b44b69b122e111.mesh"
+
+[deps]
+
+files=["res://.godot/imported/417_Suevia.obj-f6e0d7faf834a870c1b44b69b122e111.mesh"]
+
+source_file="res://assets/asteroids/417_Suevia.obj"
+dest_files=["res://.godot/imported/417_Suevia.obj-f6e0d7faf834a870c1b44b69b122e111.mesh", "res://.godot/imported/417_Suevia.obj-f6e0d7faf834a870c1b44b69b122e111.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

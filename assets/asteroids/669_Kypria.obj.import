@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b0d5y8x8xs86c"
+path="res://.godot/imported/669_Kypria.obj-07282686ea27896ca164c0652c8e1b9e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/669_Kypria.obj-07282686ea27896ca164c0652c8e1b9e.mesh"]
+
+source_file="res://assets/asteroids/669_Kypria.obj"
+dest_files=["res://.godot/imported/669_Kypria.obj-07282686ea27896ca164c0652c8e1b9e.mesh", "res://.godot/imported/669_Kypria.obj-07282686ea27896ca164c0652c8e1b9e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

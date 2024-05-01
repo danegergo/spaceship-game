@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cpvxafhxwo3ft"
+path="res://.godot/imported/11785_Migaic.obj-598ad8fed63e60bf94c9224feaaa1614.mesh"
+
+[deps]
+
+files=["res://.godot/imported/11785_Migaic.obj-598ad8fed63e60bf94c9224feaaa1614.mesh"]
+
+source_file="res://assets/asteroids/11785_Migaic.obj"
+dest_files=["res://.godot/imported/11785_Migaic.obj-598ad8fed63e60bf94c9224feaaa1614.mesh", "res://.godot/imported/11785_Migaic.obj-598ad8fed63e60bf94c9224feaaa1614.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://wpwk0ibu4iub"
+path="res://.godot/imported/5325_Silver.obj-5ab4203d73f9f685393b0eb02b0c495c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5325_Silver.obj-5ab4203d73f9f685393b0eb02b0c495c.mesh"]
+
+source_file="res://assets/asteroids/5325_Silver.obj"
+dest_files=["res://.godot/imported/5325_Silver.obj-5ab4203d73f9f685393b0eb02b0c495c.mesh", "res://.godot/imported/5325_Silver.obj-5ab4203d73f9f685393b0eb02b0c495c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

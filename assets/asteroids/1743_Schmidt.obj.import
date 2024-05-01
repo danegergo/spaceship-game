@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b44tgxjycexs"
+path="res://.godot/imported/1743_Schmidt.obj-ea3e2d74f0ae1dfbdb360ed3a9ead9b1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1743_Schmidt.obj-ea3e2d74f0ae1dfbdb360ed3a9ead9b1.mesh"]
+
+source_file="res://assets/asteroids/1743_Schmidt.obj"
+dest_files=["res://.godot/imported/1743_Schmidt.obj-ea3e2d74f0ae1dfbdb360ed3a9ead9b1.mesh", "res://.godot/imported/1743_Schmidt.obj-ea3e2d74f0ae1dfbdb360ed3a9ead9b1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

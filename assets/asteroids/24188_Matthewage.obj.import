@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cjvd3hly0o26g"
+path="res://.godot/imported/24188_Matthewage.obj-d97a30496df31a6be8b71d4f4df77aca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/24188_Matthewage.obj-d97a30496df31a6be8b71d4f4df77aca.mesh"]
+
+source_file="res://assets/asteroids/24188_Matthewage.obj"
+dest_files=["res://.godot/imported/24188_Matthewage.obj-d97a30496df31a6be8b71d4f4df77aca.mesh", "res://.godot/imported/24188_Matthewage.obj-d97a30496df31a6be8b71d4f4df77aca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://day7usa863kw0"
+path="res://.godot/imported/10570_Shibayasuo.obj-605d15e80823032c9c48fe2b73a1d248.mesh"
+
+[deps]
+
+files=["res://.godot/imported/10570_Shibayasuo.obj-605d15e80823032c9c48fe2b73a1d248.mesh"]
+
+source_file="res://assets/asteroids/10570_Shibayasuo.obj"
+dest_files=["res://.godot/imported/10570_Shibayasuo.obj-605d15e80823032c9c48fe2b73a1d248.mesh", "res://.godot/imported/10570_Shibayasuo.obj-605d15e80823032c9c48fe2b73a1d248.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

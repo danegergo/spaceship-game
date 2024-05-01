@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://boea7t6mbts17"
+path="res://.godot/imported/29919_1999_JD23.obj-e0553c6c4138a7af504cb50ee41d248b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/29919_1999_JD23.obj-e0553c6c4138a7af504cb50ee41d248b.mesh"]
+
+source_file="res://assets/asteroids/29919_1999_JD23.obj"
+dest_files=["res://.godot/imported/29919_1999_JD23.obj-e0553c6c4138a7af504cb50ee41d248b.mesh", "res://.godot/imported/29919_1999_JD23.obj-e0553c6c4138a7af504cb50ee41d248b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6xd7pqxmsryd"
+path="res://.godot/imported/1446_Sillanpaa.obj-5d20437396ecf396546f6b860abd47cc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1446_Sillanpaa.obj-5d20437396ecf396546f6b860abd47cc.mesh"]
+
+source_file="res://assets/asteroids/1446_Sillanpaa.obj"
+dest_files=["res://.godot/imported/1446_Sillanpaa.obj-5d20437396ecf396546f6b860abd47cc.mesh", "res://.godot/imported/1446_Sillanpaa.obj-5d20437396ecf396546f6b860abd47cc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

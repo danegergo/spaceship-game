@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tps3e5pirp0a"
+path="res://.godot/imported/520_Franziska.obj-fea26660f9bdd309cb6d41209d4c0cbc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/520_Franziska.obj-fea26660f9bdd309cb6d41209d4c0cbc.mesh"]
+
+source_file="res://assets/asteroids/520_Franziska.obj"
+dest_files=["res://.godot/imported/520_Franziska.obj-fea26660f9bdd309cb6d41209d4c0cbc.mesh", "res://.godot/imported/520_Franziska.obj-fea26660f9bdd309cb6d41209d4c0cbc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

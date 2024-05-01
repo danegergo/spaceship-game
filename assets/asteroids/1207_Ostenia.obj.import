@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d0usnul6yc18f"
+path="res://.godot/imported/1207_Ostenia.obj-7d32127008d5f735b2f2930987b3d988.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1207_Ostenia.obj-7d32127008d5f735b2f2930987b3d988.mesh"]
+
+source_file="res://assets/asteroids/1207_Ostenia.obj"
+dest_files=["res://.godot/imported/1207_Ostenia.obj-7d32127008d5f735b2f2930987b3d988.mesh", "res://.godot/imported/1207_Ostenia.obj-7d32127008d5f735b2f2930987b3d988.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

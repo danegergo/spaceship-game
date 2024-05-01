@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b47tpmocjq87s"
+path="res://.godot/imported/4483_Petofi.obj-ee42dc506177adeac51e2e2aeec7e7d1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4483_Petofi.obj-ee42dc506177adeac51e2e2aeec7e7d1.mesh"]
+
+source_file="res://assets/asteroids/4483_Petofi.obj"
+dest_files=["res://.godot/imported/4483_Petofi.obj-ee42dc506177adeac51e2e2aeec7e7d1.mesh", "res://.godot/imported/4483_Petofi.obj-ee42dc506177adeac51e2e2aeec7e7d1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

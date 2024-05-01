@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c01a1wax8bqsc"
+path="res://.godot/imported/1013_Tombecka.obj-9800e17faed1e41b8ff3a1a2edaa7dca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1013_Tombecka.obj-9800e17faed1e41b8ff3a1a2edaa7dca.mesh"]
+
+source_file="res://assets/asteroids/1013_Tombecka.obj"
+dest_files=["res://.godot/imported/1013_Tombecka.obj-9800e17faed1e41b8ff3a1a2edaa7dca.mesh", "res://.godot/imported/1013_Tombecka.obj-9800e17faed1e41b8ff3a1a2edaa7dca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

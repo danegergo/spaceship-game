@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ba11f1yn04vtb"
+path="res://.godot/imported/6159_Andreseloy.obj-49e097868e0420da02f6aad160c77041.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6159_Andreseloy.obj-49e097868e0420da02f6aad160c77041.mesh"]
+
+source_file="res://assets/asteroids/6159_Andreseloy.obj"
+dest_files=["res://.godot/imported/6159_Andreseloy.obj-49e097868e0420da02f6aad160c77041.mesh", "res://.godot/imported/6159_Andreseloy.obj-49e097868e0420da02f6aad160c77041.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://caks2mxg64ypm"
+path="res://.godot/imported/2064_Thomsen.obj-7c467faca40cade80ec5ed48c53d2bef.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2064_Thomsen.obj-7c467faca40cade80ec5ed48c53d2bef.mesh"]
+
+source_file="res://assets/asteroids/2064_Thomsen.obj"
+dest_files=["res://.godot/imported/2064_Thomsen.obj-7c467faca40cade80ec5ed48c53d2bef.mesh", "res://.godot/imported/2064_Thomsen.obj-7c467faca40cade80ec5ed48c53d2bef.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

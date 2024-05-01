@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://o8jwp08d2l42"
+path="res://.godot/imported/7292_Prosperin.obj-38e29a37bd76bf785237dbed4476e8bf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/7292_Prosperin.obj-38e29a37bd76bf785237dbed4476e8bf.mesh"]
+
+source_file="res://assets/asteroids/7292_Prosperin.obj"
+dest_files=["res://.godot/imported/7292_Prosperin.obj-38e29a37bd76bf785237dbed4476e8bf.mesh", "res://.godot/imported/7292_Prosperin.obj-38e29a37bd76bf785237dbed4476e8bf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

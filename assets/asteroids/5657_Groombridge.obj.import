@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bracjk6xskolh"
+path="res://.godot/imported/5657_Groombridge.obj-28ae9b8ddf183e5fc0598202cea37609.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5657_Groombridge.obj-28ae9b8ddf183e5fc0598202cea37609.mesh"]
+
+source_file="res://assets/asteroids/5657_Groombridge.obj"
+dest_files=["res://.godot/imported/5657_Groombridge.obj-28ae9b8ddf183e5fc0598202cea37609.mesh", "res://.godot/imported/5657_Groombridge.obj-28ae9b8ddf183e5fc0598202cea37609.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

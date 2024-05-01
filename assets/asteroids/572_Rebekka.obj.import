@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://clyg208fmrnjd"
+path="res://.godot/imported/572_Rebekka.obj-3d23005f5af95c2f6103c1f99d209033.mesh"
+
+[deps]
+
+files=["res://.godot/imported/572_Rebekka.obj-3d23005f5af95c2f6103c1f99d209033.mesh"]
+
+source_file="res://assets/asteroids/572_Rebekka.obj"
+dest_files=["res://.godot/imported/572_Rebekka.obj-3d23005f5af95c2f6103c1f99d209033.mesh", "res://.godot/imported/572_Rebekka.obj-3d23005f5af95c2f6103c1f99d209033.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

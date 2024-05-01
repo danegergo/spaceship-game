@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fsom5i7003jm"
+path="res://.godot/imported/183_Istria.obj-b0970cb6ef66b46c1d2d4538c5af6f0f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/183_Istria.obj-b0970cb6ef66b46c1d2d4538c5af6f0f.mesh"]
+
+source_file="res://assets/asteroids/183_Istria.obj"
+dest_files=["res://.godot/imported/183_Istria.obj-b0970cb6ef66b46c1d2d4538c5af6f0f.mesh", "res://.godot/imported/183_Istria.obj-b0970cb6ef66b46c1d2d4538c5af6f0f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

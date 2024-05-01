@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dwqsmig2v4xiq"
+path="res://.godot/imported/101955_Bennu.obj-3d4e861c9b94b69dfda75c6a8beef17d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/101955_Bennu.obj-3d4e861c9b94b69dfda75c6a8beef17d.mesh"]
+
+source_file="res://assets/asteroids/101955_Bennu.obj"
+dest_files=["res://.godot/imported/101955_Bennu.obj-3d4e861c9b94b69dfda75c6a8beef17d.mesh", "res://.godot/imported/101955_Bennu.obj-3d4e861c9b94b69dfda75c6a8beef17d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

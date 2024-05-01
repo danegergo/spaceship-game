@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cggiu1e3ul5tg"
+path="res://.godot/imported/5047_Zanda.obj-685e53f9ae11ab4a3b6f673402f6fcbe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5047_Zanda.obj-685e53f9ae11ab4a3b6f673402f6fcbe.mesh"]
+
+source_file="res://assets/asteroids/5047_Zanda.obj"
+dest_files=["res://.godot/imported/5047_Zanda.obj-685e53f9ae11ab4a3b6f673402f6fcbe.mesh", "res://.godot/imported/5047_Zanda.obj-685e53f9ae11ab4a3b6f673402f6fcbe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

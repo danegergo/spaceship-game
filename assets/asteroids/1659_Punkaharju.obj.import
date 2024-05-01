@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2d1yllp2x6wr"
+path="res://.godot/imported/1659_Punkaharju.obj-c607c182fb7b67c7e57a020593e0f6e5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1659_Punkaharju.obj-c607c182fb7b67c7e57a020593e0f6e5.mesh"]
+
+source_file="res://assets/asteroids/1659_Punkaharju.obj"
+dest_files=["res://.godot/imported/1659_Punkaharju.obj-c607c182fb7b67c7e57a020593e0f6e5.mesh", "res://.godot/imported/1659_Punkaharju.obj-c607c182fb7b67c7e57a020593e0f6e5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

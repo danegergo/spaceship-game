@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cant8s64fvkov"
+path="res://.godot/imported/6590_Barolo.obj-e1e953a20f8d3c3ca712884a0b0c381f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6590_Barolo.obj-e1e953a20f8d3c3ca712884a0b0c381f.mesh"]
+
+source_file="res://assets/asteroids/6590_Barolo.obj"
+dest_files=["res://.godot/imported/6590_Barolo.obj-e1e953a20f8d3c3ca712884a0b0c381f.mesh", "res://.godot/imported/6590_Barolo.obj-e1e953a20f8d3c3ca712884a0b0c381f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

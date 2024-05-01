@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://duy200x13aeyc"
+path="res://.godot/imported/1548_Palomaa.obj-34c0a9b44b3c189b8b23270e29d320e1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1548_Palomaa.obj-34c0a9b44b3c189b8b23270e29d320e1.mesh"]
+
+source_file="res://assets/asteroids/1548_Palomaa.obj"
+dest_files=["res://.godot/imported/1548_Palomaa.obj-34c0a9b44b3c189b8b23270e29d320e1.mesh", "res://.godot/imported/1548_Palomaa.obj-34c0a9b44b3c189b8b23270e29d320e1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

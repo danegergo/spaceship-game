@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ddycyey7x15dw"
+path="res://.godot/imported/958_Asplinda.obj-53c80152ff65da2b6d858a79399fb95f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/958_Asplinda.obj-53c80152ff65da2b6d858a79399fb95f.mesh"]
+
+source_file="res://assets/asteroids/958_Asplinda.obj"
+dest_files=["res://.godot/imported/958_Asplinda.obj-53c80152ff65da2b6d858a79399fb95f.mesh", "res://.godot/imported/958_Asplinda.obj-53c80152ff65da2b6d858a79399fb95f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

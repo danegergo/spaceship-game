@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://buemkicv0qn1f"
+path="res://.godot/imported/13643_Takushi.obj-cc29384c7f2af9d42821a4417d592656.mesh"
+
+[deps]
+
+files=["res://.godot/imported/13643_Takushi.obj-cc29384c7f2af9d42821a4417d592656.mesh"]
+
+source_file="res://assets/asteroids/13643_Takushi.obj"
+dest_files=["res://.godot/imported/13643_Takushi.obj-cc29384c7f2af9d42821a4417d592656.mesh", "res://.godot/imported/13643_Takushi.obj-cc29384c7f2af9d42821a4417d592656.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

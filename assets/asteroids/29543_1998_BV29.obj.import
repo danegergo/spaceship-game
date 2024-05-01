@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bnwyai4pakdgs"
+path="res://.godot/imported/29543_1998_BV29.obj-3d98de1c227a8f3cdd9e6bc5b235b975.mesh"
+
+[deps]
+
+files=["res://.godot/imported/29543_1998_BV29.obj-3d98de1c227a8f3cdd9e6bc5b235b975.mesh"]
+
+source_file="res://assets/asteroids/29543_1998_BV29.obj"
+dest_files=["res://.godot/imported/29543_1998_BV29.obj-3d98de1c227a8f3cdd9e6bc5b235b975.mesh", "res://.godot/imported/29543_1998_BV29.obj-3d98de1c227a8f3cdd9e6bc5b235b975.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

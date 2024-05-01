@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cxjv14h1vhy5b"
+path="res://.godot/imported/8380_Tooting.obj-8488a8325eda1876e714ea60556346df.mesh"
+
+[deps]
+
+files=["res://.godot/imported/8380_Tooting.obj-8488a8325eda1876e714ea60556346df.mesh"]
+
+source_file="res://assets/asteroids/8380_Tooting.obj"
+dest_files=["res://.godot/imported/8380_Tooting.obj-8488a8325eda1876e714ea60556346df.mesh", "res://.godot/imported/8380_Tooting.obj-8488a8325eda1876e714ea60556346df.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ma65o2s7spdt"
+path="res://.godot/imported/9898_Yoshiro.obj-b4800acb9e34902a7d93673d09bce47a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/9898_Yoshiro.obj-b4800acb9e34902a7d93673d09bce47a.mesh"]
+
+source_file="res://assets/asteroids/9898_Yoshiro.obj"
+dest_files=["res://.godot/imported/9898_Yoshiro.obj-b4800acb9e34902a7d93673d09bce47a.mesh", "res://.godot/imported/9898_Yoshiro.obj-b4800acb9e34902a7d93673d09bce47a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

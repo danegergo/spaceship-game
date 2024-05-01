@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bv6nljv6pswmy"
+path="res://.godot/imported/1528_Conrada.obj-996fa06948f8c624e04b12ddb7c0843b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1528_Conrada.obj-996fa06948f8c624e04b12ddb7c0843b.mesh"]
+
+source_file="res://assets/asteroids/1528_Conrada.obj"
+dest_files=["res://.godot/imported/1528_Conrada.obj-996fa06948f8c624e04b12ddb7c0843b.mesh", "res://.godot/imported/1528_Conrada.obj-996fa06948f8c624e04b12ddb7c0843b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

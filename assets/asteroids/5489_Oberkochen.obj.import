@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cvsjef3lm4mr4"
+path="res://.godot/imported/5489_Oberkochen.obj-31786f489d5b282716f44caf2e2cd08e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5489_Oberkochen.obj-31786f489d5b282716f44caf2e2cd08e.mesh"]
+
+source_file="res://assets/asteroids/5489_Oberkochen.obj"
+dest_files=["res://.godot/imported/5489_Oberkochen.obj-31786f489d5b282716f44caf2e2cd08e.mesh", "res://.godot/imported/5489_Oberkochen.obj-31786f489d5b282716f44caf2e2cd08e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

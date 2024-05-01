@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ch03fo3hbqx1"
+path="res://.godot/imported/725_Amanda.obj-e8a635e66836cc06f70ffa23840dfc72.mesh"
+
+[deps]
+
+files=["res://.godot/imported/725_Amanda.obj-e8a635e66836cc06f70ffa23840dfc72.mesh"]
+
+source_file="res://assets/asteroids/725_Amanda.obj"
+dest_files=["res://.godot/imported/725_Amanda.obj-e8a635e66836cc06f70ffa23840dfc72.mesh", "res://.godot/imported/725_Amanda.obj-e8a635e66836cc06f70ffa23840dfc72.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

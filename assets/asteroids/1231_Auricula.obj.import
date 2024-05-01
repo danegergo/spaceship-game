@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://h5bjwec20uf8"
+path="res://.godot/imported/1231_Auricula.obj-57d30091f5b86f54077f09a0199ed21e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1231_Auricula.obj-57d30091f5b86f54077f09a0199ed21e.mesh"]
+
+source_file="res://assets/asteroids/1231_Auricula.obj"
+dest_files=["res://.godot/imported/1231_Auricula.obj-57d30091f5b86f54077f09a0199ed21e.mesh", "res://.godot/imported/1231_Auricula.obj-57d30091f5b86f54077f09a0199ed21e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

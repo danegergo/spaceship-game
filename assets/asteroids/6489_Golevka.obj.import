@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ce4lw6ia7124l"
+path="res://.godot/imported/6489_Golevka.obj-0099c632a37f39246edf7fadcaae8b84.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6489_Golevka.obj-0099c632a37f39246edf7fadcaae8b84.mesh"]
+
+source_file="res://assets/asteroids/6489_Golevka.obj"
+dest_files=["res://.godot/imported/6489_Golevka.obj-0099c632a37f39246edf7fadcaae8b84.mesh", "res://.godot/imported/6489_Golevka.obj-0099c632a37f39246edf7fadcaae8b84.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

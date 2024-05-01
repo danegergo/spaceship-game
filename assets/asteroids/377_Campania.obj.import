@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://llpgustveu72"
+path="res://.godot/imported/377_Campania.obj-458b5b1ff504090e53dead783d1cfa86.mesh"
+
+[deps]
+
+files=["res://.godot/imported/377_Campania.obj-458b5b1ff504090e53dead783d1cfa86.mesh"]
+
+source_file="res://assets/asteroids/377_Campania.obj"
+dest_files=["res://.godot/imported/377_Campania.obj-458b5b1ff504090e53dead783d1cfa86.mesh", "res://.godot/imported/377_Campania.obj-458b5b1ff504090e53dead783d1cfa86.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

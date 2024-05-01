@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://de2cbr8r0j2s4"
+path="res://.godot/imported/20524_Bustersikes.obj-0ae11d4fbb0948551aca70c4befd455b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/20524_Bustersikes.obj-0ae11d4fbb0948551aca70c4befd455b.mesh"]
+
+source_file="res://assets/asteroids/20524_Bustersikes.obj"
+dest_files=["res://.godot/imported/20524_Bustersikes.obj-0ae11d4fbb0948551aca70c4befd455b.mesh", "res://.godot/imported/20524_Bustersikes.obj-0ae11d4fbb0948551aca70c4befd455b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

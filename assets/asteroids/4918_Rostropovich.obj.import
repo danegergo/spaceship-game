@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://btbgqhoe3ipmn"
+path="res://.godot/imported/4918_Rostropovich.obj-fbdf1bdbbe73af91f115434126e0b7bb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4918_Rostropovich.obj-fbdf1bdbbe73af91f115434126e0b7bb.mesh"]
+
+source_file="res://assets/asteroids/4918_Rostropovich.obj"
+dest_files=["res://.godot/imported/4918_Rostropovich.obj-fbdf1bdbbe73af91f115434126e0b7bb.mesh", "res://.godot/imported/4918_Rostropovich.obj-fbdf1bdbbe73af91f115434126e0b7bb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

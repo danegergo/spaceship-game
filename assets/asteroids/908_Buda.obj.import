@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bm8ridvwkr2id"
+path="res://.godot/imported/908_Buda.obj-c3c7664a6c94cb6848d22d831f3b9fcd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/908_Buda.obj-c3c7664a6c94cb6848d22d831f3b9fcd.mesh"]
+
+source_file="res://assets/asteroids/908_Buda.obj"
+dest_files=["res://.godot/imported/908_Buda.obj-c3c7664a6c94cb6848d22d831f3b9fcd.mesh", "res://.godot/imported/908_Buda.obj-c3c7664a6c94cb6848d22d831f3b9fcd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

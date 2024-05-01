@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dm4sw1bx76uii"
+path="res://.godot/imported/104792_2000_HJ37.obj-2b2ba70badae0b89bdacc21f839e08e1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/104792_2000_HJ37.obj-2b2ba70badae0b89bdacc21f839e08e1.mesh"]
+
+source_file="res://assets/asteroids/104792_2000_HJ37.obj"
+dest_files=["res://.godot/imported/104792_2000_HJ37.obj-2b2ba70badae0b89bdacc21f839e08e1.mesh", "res://.godot/imported/104792_2000_HJ37.obj-2b2ba70badae0b89bdacc21f839e08e1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

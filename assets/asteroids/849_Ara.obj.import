@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cltscbnq3xnav"
+path="res://.godot/imported/849_Ara.obj-99e88f98b9b7cf8065231af761021849.mesh"
+
+[deps]
+
+files=["res://.godot/imported/849_Ara.obj-99e88f98b9b7cf8065231af761021849.mesh"]
+
+source_file="res://assets/asteroids/849_Ara.obj"
+dest_files=["res://.godot/imported/849_Ara.obj-99e88f98b9b7cf8065231af761021849.mesh", "res://.godot/imported/849_Ara.obj-99e88f98b9b7cf8065231af761021849.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

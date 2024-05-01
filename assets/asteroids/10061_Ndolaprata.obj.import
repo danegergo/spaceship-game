@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://brdiaked28cws"
+path="res://.godot/imported/10061_Ndolaprata.obj-66c6e4b702ab491047b45ff24f747f5a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/10061_Ndolaprata.obj-66c6e4b702ab491047b45ff24f747f5a.mesh"]
+
+source_file="res://assets/asteroids/10061_Ndolaprata.obj"
+dest_files=["res://.godot/imported/10061_Ndolaprata.obj-66c6e4b702ab491047b45ff24f747f5a.mesh", "res://.godot/imported/10061_Ndolaprata.obj-66c6e4b702ab491047b45ff24f747f5a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

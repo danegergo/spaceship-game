@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://g6q7038dyu72"
+path="res://.godot/imported/28575_McQuaid.obj-5ccf1e91695491c29776290a290cf16c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/28575_McQuaid.obj-5ccf1e91695491c29776290a290cf16c.mesh"]
+
+source_file="res://assets/asteroids/28575_McQuaid.obj"
+dest_files=["res://.godot/imported/28575_McQuaid.obj-5ccf1e91695491c29776290a290cf16c.mesh", "res://.godot/imported/28575_McQuaid.obj-5ccf1e91695491c29776290a290cf16c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

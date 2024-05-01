@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://uui8fqte0d2e"
+path="res://.godot/imported/10772_1990_YM.obj-34df1646fdf6eb38a9fe71d467a06301.mesh"
+
+[deps]
+
+files=["res://.godot/imported/10772_1990_YM.obj-34df1646fdf6eb38a9fe71d467a06301.mesh"]
+
+source_file="res://assets/asteroids/10772_1990_YM.obj"
+dest_files=["res://.godot/imported/10772_1990_YM.obj-34df1646fdf6eb38a9fe71d467a06301.mesh", "res://.godot/imported/10772_1990_YM.obj-34df1646fdf6eb38a9fe71d467a06301.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

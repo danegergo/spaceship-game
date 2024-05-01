@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ca20w5nwcon0a"
+path="res://.godot/imported/889_Erynia.obj-6190cd2618f4054c1ecb8934194968c3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/889_Erynia.obj-6190cd2618f4054c1ecb8934194968c3.mesh"]
+
+source_file="res://assets/asteroids/889_Erynia.obj"
+dest_files=["res://.godot/imported/889_Erynia.obj-6190cd2618f4054c1ecb8934194968c3.mesh", "res://.godot/imported/889_Erynia.obj-6190cd2618f4054c1ecb8934194968c3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

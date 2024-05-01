@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://mqh16bh8ajc5"
+path="res://.godot/imported/5993_Tammydickinson.obj-15005005e2acb57d492b4ae0389c90be.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5993_Tammydickinson.obj-15005005e2acb57d492b4ae0389c90be.mesh"]
+
+source_file="res://assets/asteroids/5993_Tammydickinson.obj"
+dest_files=["res://.godot/imported/5993_Tammydickinson.obj-15005005e2acb57d492b4ae0389c90be.mesh", "res://.godot/imported/5993_Tammydickinson.obj-15005005e2acb57d492b4ae0389c90be.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

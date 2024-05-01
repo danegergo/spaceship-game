@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://mxrih1u3d6de"
+path="res://.godot/imported/1630_Milet.obj-03385d0a788e74ab15af6d4eb2d14035.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1630_Milet.obj-03385d0a788e74ab15af6d4eb2d14035.mesh"]
+
+source_file="res://assets/asteroids/1630_Milet.obj"
+dest_files=["res://.godot/imported/1630_Milet.obj-03385d0a788e74ab15af6d4eb2d14035.mesh", "res://.godot/imported/1630_Milet.obj-03385d0a788e74ab15af6d4eb2d14035.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

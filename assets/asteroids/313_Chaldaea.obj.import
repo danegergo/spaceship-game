@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cmrk0atm2ciak"
+path="res://.godot/imported/313_Chaldaea.obj-a774e6cc53a70c0302c6d7335adf37dc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/313_Chaldaea.obj-a774e6cc53a70c0302c6d7335adf37dc.mesh"]
+
+source_file="res://assets/asteroids/313_Chaldaea.obj"
+dest_files=["res://.godot/imported/313_Chaldaea.obj-a774e6cc53a70c0302c6d7335adf37dc.mesh", "res://.godot/imported/313_Chaldaea.obj-a774e6cc53a70c0302c6d7335adf37dc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

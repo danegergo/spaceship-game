@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2lfkjvbt86la"
+path="res://.godot/imported/110_Lydia.obj-058e40e229e5e391fb8055abf7ad9286.mesh"
+
+[deps]
+
+files=["res://.godot/imported/110_Lydia.obj-058e40e229e5e391fb8055abf7ad9286.mesh"]
+
+source_file="res://assets/asteroids/110_Lydia.obj"
+dest_files=["res://.godot/imported/110_Lydia.obj-058e40e229e5e391fb8055abf7ad9286.mesh", "res://.godot/imported/110_Lydia.obj-058e40e229e5e391fb8055abf7ad9286.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

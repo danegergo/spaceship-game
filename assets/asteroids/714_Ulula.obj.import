@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://1tukyal1n57p"
+path="res://.godot/imported/714_Ulula.obj-34de4a8b5c2192f086dce6f7a9394ec5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/714_Ulula.obj-34de4a8b5c2192f086dce6f7a9394ec5.mesh"]
+
+source_file="res://assets/asteroids/714_Ulula.obj"
+dest_files=["res://.godot/imported/714_Ulula.obj-34de4a8b5c2192f086dce6f7a9394ec5.mesh", "res://.godot/imported/714_Ulula.obj-34de4a8b5c2192f086dce6f7a9394ec5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

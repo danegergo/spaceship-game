@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bdashfvih06my"
+path="res://.godot/imported/367_Amicitia.obj-3f9fbcfa861be283a874e7e7a9aed72e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/367_Amicitia.obj-3f9fbcfa861be283a874e7e7a9aed72e.mesh"]
+
+source_file="res://assets/asteroids/367_Amicitia.obj"
+dest_files=["res://.godot/imported/367_Amicitia.obj-3f9fbcfa861be283a874e7e7a9aed72e.mesh", "res://.godot/imported/367_Amicitia.obj-3f9fbcfa861be283a874e7e7a9aed72e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

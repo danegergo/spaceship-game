@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cykbyc8fotmmk"
+path="res://.godot/imported/11796_Nirenberg.obj-d422699d5b019c3eb848d0b51979c296.mesh"
+
+[deps]
+
+files=["res://.godot/imported/11796_Nirenberg.obj-d422699d5b019c3eb848d0b51979c296.mesh"]
+
+source_file="res://assets/asteroids/11796_Nirenberg.obj"
+dest_files=["res://.godot/imported/11796_Nirenberg.obj-d422699d5b019c3eb848d0b51979c296.mesh", "res://.godot/imported/11796_Nirenberg.obj-d422699d5b019c3eb848d0b51979c296.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

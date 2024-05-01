@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cmfngo34plhox"
+path="res://.godot/imported/146_Lucina.obj-26f902fc06a7cbc387db0b5b64d46c21.mesh"
+
+[deps]
+
+files=["res://.godot/imported/146_Lucina.obj-26f902fc06a7cbc387db0b5b64d46c21.mesh"]
+
+source_file="res://assets/asteroids/146_Lucina.obj"
+dest_files=["res://.godot/imported/146_Lucina.obj-26f902fc06a7cbc387db0b5b64d46c21.mesh", "res://.godot/imported/146_Lucina.obj-26f902fc06a7cbc387db0b5b64d46c21.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

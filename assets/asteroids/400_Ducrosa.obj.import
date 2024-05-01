@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://buy7s5ehy2bun"
+path="res://.godot/imported/400_Ducrosa.obj-309bffb045d9a6f74db051988f8e3192.mesh"
+
+[deps]
+
+files=["res://.godot/imported/400_Ducrosa.obj-309bffb045d9a6f74db051988f8e3192.mesh"]
+
+source_file="res://assets/asteroids/400_Ducrosa.obj"
+dest_files=["res://.godot/imported/400_Ducrosa.obj-309bffb045d9a6f74db051988f8e3192.mesh", "res://.godot/imported/400_Ducrosa.obj-309bffb045d9a6f74db051988f8e3192.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

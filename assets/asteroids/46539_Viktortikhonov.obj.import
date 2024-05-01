@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c4veuqcidjsvo"
+path="res://.godot/imported/46539_Viktortikhonov.obj-b75d609e639cd17c7277f12b32f2aa07.mesh"
+
+[deps]
+
+files=["res://.godot/imported/46539_Viktortikhonov.obj-b75d609e639cd17c7277f12b32f2aa07.mesh"]
+
+source_file="res://assets/asteroids/46539_Viktortikhonov.obj"
+dest_files=["res://.godot/imported/46539_Viktortikhonov.obj-b75d609e639cd17c7277f12b32f2aa07.mesh", "res://.godot/imported/46539_Viktortikhonov.obj-b75d609e639cd17c7277f12b32f2aa07.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

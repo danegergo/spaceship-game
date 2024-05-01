@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://24o30n8gcg75"
+path="res://.godot/imported/201_Penelope.obj-22129843e4627ad0dc07978106109373.mesh"
+
+[deps]
+
+files=["res://.godot/imported/201_Penelope.obj-22129843e4627ad0dc07978106109373.mesh"]
+
+source_file="res://assets/asteroids/201_Penelope.obj"
+dest_files=["res://.godot/imported/201_Penelope.obj-22129843e4627ad0dc07978106109373.mesh", "res://.godot/imported/201_Penelope.obj-22129843e4627ad0dc07978106109373.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cd5f6h8y22tjf"
+path="res://.godot/imported/8_Flora.obj-ad4b84113c3e8fe0a4e082f0bf13c843.mesh"
+
+[deps]
+
+files=["res://.godot/imported/8_Flora.obj-ad4b84113c3e8fe0a4e082f0bf13c843.mesh"]
+
+source_file="res://assets/asteroids/8_Flora.obj"
+dest_files=["res://.godot/imported/8_Flora.obj-ad4b84113c3e8fe0a4e082f0bf13c843.mesh", "res://.godot/imported/8_Flora.obj-ad4b84113c3e8fe0a4e082f0bf13c843.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

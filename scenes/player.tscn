@@ -1,0 +1,48 @@
+[gd_scene load_steps=5 format=3 uid="uid://bgthjj5j82xsc"]
+
+[ext_resource type="PackedScene" uid="uid://0k8gadwxcbtv" path="res://assets/spaceship/space_fighter.glb" id="1_usne6"]
+[ext_resource type="PackedScene" uid="uid://wmf2eu0uuhrg" path="res://addons/third-person-camera/third_person_camera/ThirdPersonCamera.tscn" id="2_c2sj5"]
+
+[sub_resource type="GDScript" id="GDScript_kk7qu"]
+resource_name = "ShipController"
+script/source = "extends CharacterBody3D
+
+const FORWARD_SPEED = 500.0
+const XY_SPEED = 200
+
+func _physics_process(delta):
+	var input_dir = Input.get_vector(\"move_right\", \"move_left\", \"move_down\", \"move_up\")
+	var direction = (transform.basis * Vector3(input_dir.x, input_dir.y, 1)).normalized()
+
+	if direction:
+		velocity.x = direction.x * XY_SPEED
+		velocity.y = direction.y * XY_SPEED
+		velocity.z = direction.z * FORWARD_SPEED
+	else:
+		velocity.x = move_toward(velocity.x, 0, XY_SPEED)
+		velocity.y = move_toward(velocity.y, 0, XY_SPEED)
+		velocity.z = move_toward(velocity.z, 0, FORWARD_SPEED)
+
+	move_and_slide()
+"
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_s1eij"]
+radius = 11.774
+height = 31.96
+
+[node name="Player" type="CharacterBody3D"]
+motion_mode = 1
+script = SubResource("GDScript_kk7qu")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(0.999865, -0.0117446, -0.0115794, 0.0117446, 0.0141018, 0.999832, -0.0115794, -0.999832, 0.0142379, 0.0557486, 0, 4.74593)
+shape = SubResource("CapsuleShape3D_s1eij")
+
+[node name="SpaceshipModel" parent="." instance=ExtResource("1_usne6")]
+
+[node name="ThirdPersonCamera" parent="." instance=ExtResource("2_c2sj5")]
+transform = Transform3D(-0.999998, 0, -8.74226e-08, 0, 1, 0, 8.74226e-08, 0, -0.999998, 0, 8.80328, -33.4469)
+distance_from_pivot = 8.0
+camera_speed = 0.2
+current = true
+spring_arm_collision_mask = 277

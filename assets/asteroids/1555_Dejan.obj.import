@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dge1ywbnenok8"
+path="res://.godot/imported/1555_Dejan.obj-be047129a01ebd36897d6b7e832db4a9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1555_Dejan.obj-be047129a01ebd36897d6b7e832db4a9.mesh"]
+
+source_file="res://assets/asteroids/1555_Dejan.obj"
+dest_files=["res://.godot/imported/1555_Dejan.obj-be047129a01ebd36897d6b7e832db4a9.mesh", "res://.godot/imported/1555_Dejan.obj-be047129a01ebd36897d6b7e832db4a9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

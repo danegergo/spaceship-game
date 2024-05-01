@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drib846kdq4n1"
+path="res://.godot/imported/1514_Ricouxa.obj-383326506e64f31436b95629c5c24662.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1514_Ricouxa.obj-383326506e64f31436b95629c5c24662.mesh"]
+
+source_file="res://assets/asteroids/1514_Ricouxa.obj"
+dest_files=["res://.godot/imported/1514_Ricouxa.obj-383326506e64f31436b95629c5c24662.mesh", "res://.godot/imported/1514_Ricouxa.obj-383326506e64f31436b95629c5c24662.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dd6wmh7s0r8g0"
+path="res://.godot/imported/4077_Asuka.obj-a180d0d3bbe796593ddd625325a2c06c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4077_Asuka.obj-a180d0d3bbe796593ddd625325a2c06c.mesh"]
+
+source_file="res://assets/asteroids/4077_Asuka.obj"
+dest_files=["res://.godot/imported/4077_Asuka.obj-a180d0d3bbe796593ddd625325a2c06c.mesh", "res://.godot/imported/4077_Asuka.obj-a180d0d3bbe796593ddd625325a2c06c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cnug6aolbqnpn"
+path="res://.godot/imported/2313_Aruna.obj-20a2758d1f8d841deb3bdc4fa25d528d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2313_Aruna.obj-20a2758d1f8d841deb3bdc4fa25d528d.mesh"]
+
+source_file="res://assets/asteroids/2313_Aruna.obj"
+dest_files=["res://.godot/imported/2313_Aruna.obj-20a2758d1f8d841deb3bdc4fa25d528d.mesh", "res://.godot/imported/2313_Aruna.obj-20a2758d1f8d841deb3bdc4fa25d528d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

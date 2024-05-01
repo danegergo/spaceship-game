@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://jy0iqjl65t0u"
+path="res://.godot/imported/127_Johanna.obj-7adb5e18461dccaaf8477c7c976ab0cc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/127_Johanna.obj-7adb5e18461dccaaf8477c7c976ab0cc.mesh"]
+
+source_file="res://assets/asteroids/127_Johanna.obj"
+dest_files=["res://.godot/imported/127_Johanna.obj-7adb5e18461dccaaf8477c7c976ab0cc.mesh", "res://.godot/imported/127_Johanna.obj-7adb5e18461dccaaf8477c7c976ab0cc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

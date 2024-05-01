@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://csyq1j4dasnkr"
+path="res://.godot/imported/3103_Eger.obj-e3a0f93abd5ba9c5ddff5f498e15f64c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3103_Eger.obj-e3a0f93abd5ba9c5ddff5f498e15f64c.mesh"]
+
+source_file="res://assets/asteroids/3103_Eger.obj"
+dest_files=["res://.godot/imported/3103_Eger.obj-e3a0f93abd5ba9c5ddff5f498e15f64c.mesh", "res://.godot/imported/3103_Eger.obj-e3a0f93abd5ba9c5ddff5f498e15f64c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

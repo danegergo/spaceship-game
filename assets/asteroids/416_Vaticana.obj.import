@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dkfucmrhh85dh"
+path="res://.godot/imported/416_Vaticana.obj-2ecafd78e78656ca8357a9b72f2bc242.mesh"
+
+[deps]
+
+files=["res://.godot/imported/416_Vaticana.obj-2ecafd78e78656ca8357a9b72f2bc242.mesh"]
+
+source_file="res://assets/asteroids/416_Vaticana.obj"
+dest_files=["res://.godot/imported/416_Vaticana.obj-2ecafd78e78656ca8357a9b72f2bc242.mesh", "res://.godot/imported/416_Vaticana.obj-2ecafd78e78656ca8357a9b72f2bc242.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

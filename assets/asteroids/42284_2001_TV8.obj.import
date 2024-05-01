@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://caljdgetg3ygx"
+path="res://.godot/imported/42284_2001_TV8.obj-0a7a2839922f218ff688587d72c551aa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/42284_2001_TV8.obj-0a7a2839922f218ff688587d72c551aa.mesh"]
+
+source_file="res://assets/asteroids/42284_2001_TV8.obj"
+dest_files=["res://.godot/imported/42284_2001_TV8.obj-0a7a2839922f218ff688587d72c551aa.mesh", "res://.godot/imported/42284_2001_TV8.obj-0a7a2839922f218ff688587d72c551aa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

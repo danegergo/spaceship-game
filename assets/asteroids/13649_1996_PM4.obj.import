@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cudtm2h1ffo3k"
+path="res://.godot/imported/13649_1996_PM4.obj-0c49a1d07dc56ce58b8b968e4aac448a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/13649_1996_PM4.obj-0c49a1d07dc56ce58b8b968e4aac448a.mesh"]
+
+source_file="res://assets/asteroids/13649_1996_PM4.obj"
+dest_files=["res://.godot/imported/13649_1996_PM4.obj-0c49a1d07dc56ce58b8b968e4aac448a.mesh", "res://.godot/imported/13649_1996_PM4.obj-0c49a1d07dc56ce58b8b968e4aac448a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

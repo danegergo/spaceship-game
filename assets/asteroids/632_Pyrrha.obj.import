@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b5yh2n3sq82e1"
+path="res://.godot/imported/632_Pyrrha.obj-c307dadc987c4a02653ef72e7939b7d3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/632_Pyrrha.obj-c307dadc987c4a02653ef72e7939b7d3.mesh"]
+
+source_file="res://assets/asteroids/632_Pyrrha.obj"
+dest_files=["res://.godot/imported/632_Pyrrha.obj-c307dadc987c4a02653ef72e7939b7d3.mesh", "res://.godot/imported/632_Pyrrha.obj-c307dadc987c4a02653ef72e7939b7d3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

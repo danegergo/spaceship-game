@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://jyk5wb1mga6j"
+path="res://.godot/imported/606_Brangane.obj-19007947892d69624df00159b3051f02.mesh"
+
+[deps]
+
+files=["res://.godot/imported/606_Brangane.obj-19007947892d69624df00159b3051f02.mesh"]
+
+source_file="res://assets/asteroids/606_Brangane.obj"
+dest_files=["res://.godot/imported/606_Brangane.obj-19007947892d69624df00159b3051f02.mesh", "res://.godot/imported/606_Brangane.obj-19007947892d69624df00159b3051f02.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

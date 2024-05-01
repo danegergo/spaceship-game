@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b1gjp3y6trhx7"
+path="res://.godot/imported/6332_Vorarlberg.obj-d64d8d41c97a56afa545d78e749f9562.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6332_Vorarlberg.obj-d64d8d41c97a56afa545d78e749f9562.mesh"]
+
+source_file="res://assets/asteroids/6332_Vorarlberg.obj"
+dest_files=["res://.godot/imported/6332_Vorarlberg.obj-d64d8d41c97a56afa545d78e749f9562.mesh", "res://.godot/imported/6332_Vorarlberg.obj-d64d8d41c97a56afa545d78e749f9562.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

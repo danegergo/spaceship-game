@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b34bx02yegemi"
+path="res://.godot/imported/6464_Kaburaki.obj-68e7863cf688bfb2dc0aea7b08cb7bef.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6464_Kaburaki.obj-68e7863cf688bfb2dc0aea7b08cb7bef.mesh"]
+
+source_file="res://assets/asteroids/6464_Kaburaki.obj"
+dest_files=["res://.godot/imported/6464_Kaburaki.obj-68e7863cf688bfb2dc0aea7b08cb7bef.mesh", "res://.godot/imported/6464_Kaburaki.obj-68e7863cf688bfb2dc0aea7b08cb7bef.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

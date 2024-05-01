@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cuusxu2ud26iv"
+path="res://.godot/imported/4896_Tomoegozen.obj-5533358b82abe69464741b0fb98a41fb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4896_Tomoegozen.obj-5533358b82abe69464741b0fb98a41fb.mesh"]
+
+source_file="res://assets/asteroids/4896_Tomoegozen.obj"
+dest_files=["res://.godot/imported/4896_Tomoegozen.obj-5533358b82abe69464741b0fb98a41fb.mesh", "res://.godot/imported/4896_Tomoegozen.obj-5533358b82abe69464741b0fb98a41fb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

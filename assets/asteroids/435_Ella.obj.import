@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c77ico807arai"
+path="res://.godot/imported/435_Ella.obj-4cfc80d2e17edd67e2ee521a42d613a1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/435_Ella.obj-4cfc80d2e17edd67e2ee521a42d613a1.mesh"]
+
+source_file="res://assets/asteroids/435_Ella.obj"
+dest_files=["res://.godot/imported/435_Ella.obj-4cfc80d2e17edd67e2ee521a42d613a1.mesh", "res://.godot/imported/435_Ella.obj-4cfc80d2e17edd67e2ee521a42d613a1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

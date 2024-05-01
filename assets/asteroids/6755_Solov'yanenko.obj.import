@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bfu6dpi0v8gkm"
+path="res://.godot/imported/6755_Solov'yanenko.obj-a05e69603c84d38431eab43a124dacbe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6755_Solov'yanenko.obj-a05e69603c84d38431eab43a124dacbe.mesh"]
+
+source_file="res://assets/asteroids/6755_Solov'yanenko.obj"
+dest_files=["res://.godot/imported/6755_Solov'yanenko.obj-a05e69603c84d38431eab43a124dacbe.mesh", "res://.godot/imported/6755_Solov'yanenko.obj-a05e69603c84d38431eab43a124dacbe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

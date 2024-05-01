@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dcfkreit3venf"
+path="res://.godot/imported/512_Taurinensis.obj-b90c29889b8ce678fcdd5be0fd272439.mesh"
+
+[deps]
+
+files=["res://.godot/imported/512_Taurinensis.obj-b90c29889b8ce678fcdd5be0fd272439.mesh"]
+
+source_file="res://assets/asteroids/512_Taurinensis.obj"
+dest_files=["res://.godot/imported/512_Taurinensis.obj-b90c29889b8ce678fcdd5be0fd272439.mesh", "res://.godot/imported/512_Taurinensis.obj-b90c29889b8ce678fcdd5be0fd272439.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

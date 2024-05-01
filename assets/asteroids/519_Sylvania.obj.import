@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://m2mt05ro06h7"
+path="res://.godot/imported/519_Sylvania.obj-e884b4c7474d8694a1c9cdd554b9803f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/519_Sylvania.obj-e884b4c7474d8694a1c9cdd554b9803f.mesh"]
+
+source_file="res://assets/asteroids/519_Sylvania.obj"
+dest_files=["res://.godot/imported/519_Sylvania.obj-e884b4c7474d8694a1c9cdd554b9803f.mesh", "res://.godot/imported/519_Sylvania.obj-e884b4c7474d8694a1c9cdd554b9803f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

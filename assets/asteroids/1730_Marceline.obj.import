@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://nm8l2njrtolx"
+path="res://.godot/imported/1730_Marceline.obj-d51c8289b42205367e6a2f594af56c5f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1730_Marceline.obj-d51c8289b42205367e6a2f594af56c5f.mesh"]
+
+source_file="res://assets/asteroids/1730_Marceline.obj"
+dest_files=["res://.godot/imported/1730_Marceline.obj-d51c8289b42205367e6a2f594af56c5f.mesh", "res://.godot/imported/1730_Marceline.obj-d51c8289b42205367e6a2f594af56c5f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

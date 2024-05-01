@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://crx0hvcrnmbml"
+path="res://.godot/imported/6410_Fujiwara.obj-57c0482c23dc77de30c18c8e2368afeb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6410_Fujiwara.obj-57c0482c23dc77de30c18c8e2368afeb.mesh"]
+
+source_file="res://assets/asteroids/6410_Fujiwara.obj"
+dest_files=["res://.godot/imported/6410_Fujiwara.obj-57c0482c23dc77de30c18c8e2368afeb.mesh", "res://.godot/imported/6410_Fujiwara.obj-57c0482c23dc77de30c18c8e2368afeb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

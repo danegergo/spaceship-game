@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c7v6erjdqxfqa"
+path="res://.godot/imported/803_Picka.obj-8402fbaf44cdd0e0153c88ba1348b9eb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/803_Picka.obj-8402fbaf44cdd0e0153c88ba1348b9eb.mesh"]
+
+source_file="res://assets/asteroids/803_Picka.obj"
+dest_files=["res://.godot/imported/803_Picka.obj-8402fbaf44cdd0e0153c88ba1348b9eb.mesh", "res://.godot/imported/803_Picka.obj-8402fbaf44cdd0e0153c88ba1348b9eb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

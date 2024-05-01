@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://djbb6k01ox12m"
+path="res://.godot/imported/1368_Numidia.obj-48997f7811aa811822d26c67aedc0389.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1368_Numidia.obj-48997f7811aa811822d26c67aedc0389.mesh"]
+
+source_file="res://assets/asteroids/1368_Numidia.obj"
+dest_files=["res://.godot/imported/1368_Numidia.obj-48997f7811aa811822d26c67aedc0389.mesh", "res://.godot/imported/1368_Numidia.obj-48997f7811aa811822d26c67aedc0389.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://oof387y7eju7"
+path="res://.godot/imported/756_Lilliana.obj-bdb5dfd000df884259de5d7917d4078d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/756_Lilliana.obj-bdb5dfd000df884259de5d7917d4078d.mesh"]
+
+source_file="res://assets/asteroids/756_Lilliana.obj"
+dest_files=["res://.godot/imported/756_Lilliana.obj-bdb5dfd000df884259de5d7917d4078d.mesh", "res://.godot/imported/756_Lilliana.obj-bdb5dfd000df884259de5d7917d4078d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

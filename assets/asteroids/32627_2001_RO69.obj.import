@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://qedheny5to63"
+path="res://.godot/imported/32627_2001_RO69.obj-5c5a058fddebb1e0efaa2dd28e5ac5bc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/32627_2001_RO69.obj-5c5a058fddebb1e0efaa2dd28e5ac5bc.mesh"]
+
+source_file="res://assets/asteroids/32627_2001_RO69.obj"
+dest_files=["res://.godot/imported/32627_2001_RO69.obj-5c5a058fddebb1e0efaa2dd28e5ac5bc.mesh", "res://.godot/imported/32627_2001_RO69.obj-5c5a058fddebb1e0efaa2dd28e5ac5bc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

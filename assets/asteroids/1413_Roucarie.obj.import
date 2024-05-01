@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ddoq6f1qw6q05"
+path="res://.godot/imported/1413_Roucarie.obj-2021e1907e3d19e75ef01af2db079339.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1413_Roucarie.obj-2021e1907e3d19e75ef01af2db079339.mesh"]
+
+source_file="res://assets/asteroids/1413_Roucarie.obj"
+dest_files=["res://.godot/imported/1413_Roucarie.obj-2021e1907e3d19e75ef01af2db079339.mesh", "res://.godot/imported/1413_Roucarie.obj-2021e1907e3d19e75ef01af2db079339.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

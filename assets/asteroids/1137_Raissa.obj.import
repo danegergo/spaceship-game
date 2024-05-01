@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bfslbd78rcaml"
+path="res://.godot/imported/1137_Raissa.obj-f8a087162d69b0ceba96941a06574892.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1137_Raissa.obj-f8a087162d69b0ceba96941a06574892.mesh"]
+
+source_file="res://assets/asteroids/1137_Raissa.obj"
+dest_files=["res://.godot/imported/1137_Raissa.obj-f8a087162d69b0ceba96941a06574892.mesh", "res://.godot/imported/1137_Raissa.obj-f8a087162d69b0ceba96941a06574892.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

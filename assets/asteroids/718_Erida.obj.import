@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://g1l7ovemhkqm"
+path="res://.godot/imported/718_Erida.obj-e8383b4ccef714adf6302de73a23921a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/718_Erida.obj-e8383b4ccef714adf6302de73a23921a.mesh"]
+
+source_file="res://assets/asteroids/718_Erida.obj"
+dest_files=["res://.godot/imported/718_Erida.obj-e8383b4ccef714adf6302de73a23921a.mesh", "res://.godot/imported/718_Erida.obj-e8383b4ccef714adf6302de73a23921a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

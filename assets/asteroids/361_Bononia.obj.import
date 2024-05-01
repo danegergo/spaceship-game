@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dj1r3uc7sm7ei"
+path="res://.godot/imported/361_Bononia.obj-e6794e0a5a72a8fa4fd23dd87474e337.mesh"
+
+[deps]
+
+files=["res://.godot/imported/361_Bononia.obj-e6794e0a5a72a8fa4fd23dd87474e337.mesh"]
+
+source_file="res://assets/asteroids/361_Bononia.obj"
+dest_files=["res://.godot/imported/361_Bononia.obj-e6794e0a5a72a8fa4fd23dd87474e337.mesh", "res://.godot/imported/361_Bononia.obj-e6794e0a5a72a8fa4fd23dd87474e337.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

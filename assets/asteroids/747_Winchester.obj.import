@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cqkjvo5g5dxfv"
+path="res://.godot/imported/747_Winchester.obj-4524a2eaf3dd9b986dda122c98e09c7b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/747_Winchester.obj-4524a2eaf3dd9b986dda122c98e09c7b.mesh"]
+
+source_file="res://assets/asteroids/747_Winchester.obj"
+dest_files=["res://.godot/imported/747_Winchester.obj-4524a2eaf3dd9b986dda122c98e09c7b.mesh", "res://.godot/imported/747_Winchester.obj-4524a2eaf3dd9b986dda122c98e09c7b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

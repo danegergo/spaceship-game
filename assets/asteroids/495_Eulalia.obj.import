@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dllkyt81dbne"
+path="res://.godot/imported/495_Eulalia.obj-6d5116ca7dc3964711c6335b1f552bfc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/495_Eulalia.obj-6d5116ca7dc3964711c6335b1f552bfc.mesh"]
+
+source_file="res://assets/asteroids/495_Eulalia.obj"
+dest_files=["res://.godot/imported/495_Eulalia.obj-6d5116ca7dc3964711c6335b1f552bfc.mesh", "res://.godot/imported/495_Eulalia.obj-6d5116ca7dc3964711c6335b1f552bfc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

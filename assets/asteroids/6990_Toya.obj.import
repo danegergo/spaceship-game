@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c3m8l7jo0bpm8"
+path="res://.godot/imported/6990_Toya.obj-9c5acf4b0ae51f053fa748cb4d12fe0c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6990_Toya.obj-9c5acf4b0ae51f053fa748cb4d12fe0c.mesh"]
+
+source_file="res://assets/asteroids/6990_Toya.obj"
+dest_files=["res://.godot/imported/6990_Toya.obj-9c5acf4b0ae51f053fa748cb4d12fe0c.mesh", "res://.godot/imported/6990_Toya.obj-9c5acf4b0ae51f053fa748cb4d12fe0c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dkasvnxwhmduc"
+path="res://.godot/imported/3407_Jimmysimms.obj-d944d6f4e50968325ce34a6429e30e68.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3407_Jimmysimms.obj-d944d6f4e50968325ce34a6429e30e68.mesh"]
+
+source_file="res://assets/asteroids/3407_Jimmysimms.obj"
+dest_files=["res://.godot/imported/3407_Jimmysimms.obj-d944d6f4e50968325ce34a6429e30e68.mesh", "res://.godot/imported/3407_Jimmysimms.obj-d944d6f4e50968325ce34a6429e30e68.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

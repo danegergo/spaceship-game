@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmf1pyhuh2apf"
+path="res://.godot/imported/152_Atala.obj-5346c4325622e59ab58303053a9e2f10.mesh"
+
+[deps]
+
+files=["res://.godot/imported/152_Atala.obj-5346c4325622e59ab58303053a9e2f10.mesh"]
+
+source_file="res://assets/asteroids/152_Atala.obj"
+dest_files=["res://.godot/imported/152_Atala.obj-5346c4325622e59ab58303053a9e2f10.mesh", "res://.godot/imported/152_Atala.obj-5346c4325622e59ab58303053a9e2f10.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

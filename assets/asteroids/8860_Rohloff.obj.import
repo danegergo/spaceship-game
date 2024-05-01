@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cwqwwg1sd7fi7"
+path="res://.godot/imported/8860_Rohloff.obj-e38c0304da74af56b804dadb304c383c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/8860_Rohloff.obj-e38c0304da74af56b804dadb304c383c.mesh"]
+
+source_file="res://assets/asteroids/8860_Rohloff.obj"
+dest_files=["res://.godot/imported/8860_Rohloff.obj-e38c0304da74af56b804dadb304c383c.mesh", "res://.godot/imported/8860_Rohloff.obj-e38c0304da74af56b804dadb304c383c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

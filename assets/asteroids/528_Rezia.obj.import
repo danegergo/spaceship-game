@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cklj8bcy3kdux"
+path="res://.godot/imported/528_Rezia.obj-2118282410bfc9cdfc6fa268ee2e332f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/528_Rezia.obj-2118282410bfc9cdfc6fa268ee2e332f.mesh"]
+
+source_file="res://assets/asteroids/528_Rezia.obj"
+dest_files=["res://.godot/imported/528_Rezia.obj-2118282410bfc9cdfc6fa268ee2e332f.mesh", "res://.godot/imported/528_Rezia.obj-2118282410bfc9cdfc6fa268ee2e332f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

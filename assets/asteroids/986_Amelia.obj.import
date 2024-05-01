@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d8vg64uf41nv"
+path="res://.godot/imported/986_Amelia.obj-307a57bfa1e83760665796a54fff10ea.mesh"
+
+[deps]
+
+files=["res://.godot/imported/986_Amelia.obj-307a57bfa1e83760665796a54fff10ea.mesh"]
+
+source_file="res://assets/asteroids/986_Amelia.obj"
+dest_files=["res://.godot/imported/986_Amelia.obj-307a57bfa1e83760665796a54fff10ea.mesh", "res://.godot/imported/986_Amelia.obj-307a57bfa1e83760665796a54fff10ea.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

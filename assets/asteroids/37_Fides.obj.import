@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c51flxnk5pdvp"
+path="res://.godot/imported/37_Fides.obj-748ac28eb63c68ee714c1a03b39933ff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/37_Fides.obj-748ac28eb63c68ee714c1a03b39933ff.mesh"]
+
+source_file="res://assets/asteroids/37_Fides.obj"
+dest_files=["res://.godot/imported/37_Fides.obj-748ac28eb63c68ee714c1a03b39933ff.mesh", "res://.godot/imported/37_Fides.obj-748ac28eb63c68ee714c1a03b39933ff.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

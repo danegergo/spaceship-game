@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://3exio8f2qbhr"
+path="res://.godot/imported/1746_Brouwer.obj-97aff6b58e24216a10d4394f78221db2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1746_Brouwer.obj-97aff6b58e24216a10d4394f78221db2.mesh"]
+
+source_file="res://assets/asteroids/1746_Brouwer.obj"
+dest_files=["res://.godot/imported/1746_Brouwer.obj-97aff6b58e24216a10d4394f78221db2.mesh", "res://.godot/imported/1746_Brouwer.obj-97aff6b58e24216a10d4394f78221db2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

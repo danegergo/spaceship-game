@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://w8ladp1jun7w"
+path="res://.godot/imported/13585_Justinsmith.obj-eb67a5685e461512177ba976a1c56290.mesh"
+
+[deps]
+
+files=["res://.godot/imported/13585_Justinsmith.obj-eb67a5685e461512177ba976a1c56290.mesh"]
+
+source_file="res://assets/asteroids/13585_Justinsmith.obj"
+dest_files=["res://.godot/imported/13585_Justinsmith.obj-eb67a5685e461512177ba976a1c56290.mesh", "res://.godot/imported/13585_Justinsmith.obj-eb67a5685e461512177ba976a1c56290.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

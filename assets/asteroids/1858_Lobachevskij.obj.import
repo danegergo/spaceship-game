@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmwti0ugjpw4p"
+path="res://.godot/imported/1858_Lobachevskij.obj-b3d351a03c16c6382fedc0ed29a2ec0e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1858_Lobachevskij.obj-b3d351a03c16c6382fedc0ed29a2ec0e.mesh"]
+
+source_file="res://assets/asteroids/1858_Lobachevskij.obj"
+dest_files=["res://.godot/imported/1858_Lobachevskij.obj-b3d351a03c16c6382fedc0ed29a2ec0e.mesh", "res://.godot/imported/1858_Lobachevskij.obj-b3d351a03c16c6382fedc0ed29a2ec0e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

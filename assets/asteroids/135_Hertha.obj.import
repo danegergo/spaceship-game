@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c8gs5ykkt175y"
+path="res://.godot/imported/135_Hertha.obj-166862d4796a3dde33aeb9a0c6bf2d74.mesh"
+
+[deps]
+
+files=["res://.godot/imported/135_Hertha.obj-166862d4796a3dde33aeb9a0c6bf2d74.mesh"]
+
+source_file="res://assets/asteroids/135_Hertha.obj"
+dest_files=["res://.godot/imported/135_Hertha.obj-166862d4796a3dde33aeb9a0c6bf2d74.mesh", "res://.godot/imported/135_Hertha.obj-166862d4796a3dde33aeb9a0c6bf2d74.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

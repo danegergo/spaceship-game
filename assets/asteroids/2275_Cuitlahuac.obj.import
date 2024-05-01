@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dv4tftk25itsm"
+path="res://.godot/imported/2275_Cuitlahuac.obj-9e2e05e044b492279b73b983f74a7111.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2275_Cuitlahuac.obj-9e2e05e044b492279b73b983f74a7111.mesh"]
+
+source_file="res://assets/asteroids/2275_Cuitlahuac.obj"
+dest_files=["res://.godot/imported/2275_Cuitlahuac.obj-9e2e05e044b492279b73b983f74a7111.mesh", "res://.godot/imported/2275_Cuitlahuac.obj-9e2e05e044b492279b73b983f74a7111.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
