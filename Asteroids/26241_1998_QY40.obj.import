@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bl5rxfp4l6skx"
+path="res://.godot/imported/26241_1998_QY40.obj-c1efa862d2d2322bdd40915dfc475e63.mesh"
+
+[deps]
+
+files=["res://.godot/imported/26241_1998_QY40.obj-c1efa862d2d2322bdd40915dfc475e63.mesh"]
+
+source_file="res://Asteroids/26241_1998_QY40.obj"
+dest_files=["res://.godot/imported/26241_1998_QY40.obj-c1efa862d2d2322bdd40915dfc475e63.mesh", "res://.godot/imported/26241_1998_QY40.obj-c1efa862d2d2322bdd40915dfc475e63.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

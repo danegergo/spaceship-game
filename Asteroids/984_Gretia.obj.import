@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bdbdas537qgh7"
+path="res://.godot/imported/984_Gretia.obj-31489c41db3db2b9237515445e7ff169.mesh"
+
+[deps]
+
+files=["res://.godot/imported/984_Gretia.obj-31489c41db3db2b9237515445e7ff169.mesh"]
+
+source_file="res://Asteroids/984_Gretia.obj"
+dest_files=["res://.godot/imported/984_Gretia.obj-31489c41db3db2b9237515445e7ff169.mesh", "res://.godot/imported/984_Gretia.obj-31489c41db3db2b9237515445e7ff169.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

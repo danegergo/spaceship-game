@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dg27pea6gsekl"
+path="res://.godot/imported/77594_2001_KQ21.obj-df5c3e1d1c66a0579b4d3b5c37187889.mesh"
+
+[deps]
+
+files=["res://.godot/imported/77594_2001_KQ21.obj-df5c3e1d1c66a0579b4d3b5c37187889.mesh"]
+
+source_file="res://Asteroids/77594_2001_KQ21.obj"
+dest_files=["res://.godot/imported/77594_2001_KQ21.obj-df5c3e1d1c66a0579b4d3b5c37187889.mesh", "res://.godot/imported/77594_2001_KQ21.obj-df5c3e1d1c66a0579b4d3b5c37187889.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

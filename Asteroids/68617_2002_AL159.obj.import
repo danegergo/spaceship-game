@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ciw874wlmmkwx"
+path="res://.godot/imported/68617_2002_AL159.obj-ac727b90535bfb1d14e79ebf0e2b0ca2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/68617_2002_AL159.obj-ac727b90535bfb1d14e79ebf0e2b0ca2.mesh"]
+
+source_file="res://Asteroids/68617_2002_AL159.obj"
+dest_files=["res://.godot/imported/68617_2002_AL159.obj-ac727b90535bfb1d14e79ebf0e2b0ca2.mesh", "res://.godot/imported/68617_2002_AL159.obj-ac727b90535bfb1d14e79ebf0e2b0ca2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

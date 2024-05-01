@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dw6hbe4q1l0i8"
+path="res://.godot/imported/771_Libera.obj-6be1c91504d927f6849a403d63335680.mesh"
+
+[deps]
+
+files=["res://.godot/imported/771_Libera.obj-6be1c91504d927f6849a403d63335680.mesh"]
+
+source_file="res://Asteroids/771_Libera.obj"
+dest_files=["res://.godot/imported/771_Libera.obj-6be1c91504d927f6849a403d63335680.mesh", "res://.godot/imported/771_Libera.obj-6be1c91504d927f6849a403d63335680.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

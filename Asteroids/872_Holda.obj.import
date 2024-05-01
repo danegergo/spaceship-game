@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2ir57fa0ss1r"
+path="res://.godot/imported/872_Holda.obj-de7b4e7847ba07ed3c7e3d4a33898dbd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/872_Holda.obj-de7b4e7847ba07ed3c7e3d4a33898dbd.mesh"]
+
+source_file="res://Asteroids/872_Holda.obj"
+dest_files=["res://.godot/imported/872_Holda.obj-de7b4e7847ba07ed3c7e3d4a33898dbd.mesh", "res://.godot/imported/872_Holda.obj-de7b4e7847ba07ed3c7e3d4a33898dbd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

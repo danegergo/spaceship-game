@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://g3ufyt0dwy5n"
+path="res://.godot/imported/6087_Lupo.obj-b9fe6e68acb2cd66c4fa5cecb1d33457.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6087_Lupo.obj-b9fe6e68acb2cd66c4fa5cecb1d33457.mesh"]
+
+source_file="res://Asteroids/6087_Lupo.obj"
+dest_files=["res://.godot/imported/6087_Lupo.obj-b9fe6e68acb2cd66c4fa5cecb1d33457.mesh", "res://.godot/imported/6087_Lupo.obj-b9fe6e68acb2cd66c4fa5cecb1d33457.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

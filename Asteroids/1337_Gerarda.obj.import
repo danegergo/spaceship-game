@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://frpfusowexyo"
+path="res://.godot/imported/1337_Gerarda.obj-9dfbe5e787f0d8b0cb306a9de599311b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1337_Gerarda.obj-9dfbe5e787f0d8b0cb306a9de599311b.mesh"]
+
+source_file="res://Asteroids/1337_Gerarda.obj"
+dest_files=["res://.godot/imported/1337_Gerarda.obj-9dfbe5e787f0d8b0cb306a9de599311b.mesh", "res://.godot/imported/1337_Gerarda.obj-9dfbe5e787f0d8b0cb306a9de599311b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

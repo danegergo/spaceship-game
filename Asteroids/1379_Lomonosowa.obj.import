@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dtfixmfx6cm35"
+path="res://.godot/imported/1379_Lomonosowa.obj-dbf00a72bcf449a50dedab8f3a58ae57.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1379_Lomonosowa.obj-dbf00a72bcf449a50dedab8f3a58ae57.mesh"]
+
+source_file="res://Asteroids/1379_Lomonosowa.obj"
+dest_files=["res://.godot/imported/1379_Lomonosowa.obj-dbf00a72bcf449a50dedab8f3a58ae57.mesh", "res://.godot/imported/1379_Lomonosowa.obj-dbf00a72bcf449a50dedab8f3a58ae57.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

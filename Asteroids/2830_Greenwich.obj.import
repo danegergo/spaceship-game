@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://eq8f6274bf3w"
+path="res://.godot/imported/2830_Greenwich.obj-2d23f9c38e29450a25cff24b5736210f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2830_Greenwich.obj-2d23f9c38e29450a25cff24b5736210f.mesh"]
+
+source_file="res://Asteroids/2830_Greenwich.obj"
+dest_files=["res://.godot/imported/2830_Greenwich.obj-2d23f9c38e29450a25cff24b5736210f.mesh", "res://.godot/imported/2830_Greenwich.obj-2d23f9c38e29450a25cff24b5736210f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

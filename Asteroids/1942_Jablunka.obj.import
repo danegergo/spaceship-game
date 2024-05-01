@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4d8y6xfleadd"
+path="res://.godot/imported/1942_Jablunka.obj-1e7387b20d864a549716cc7259190fb6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1942_Jablunka.obj-1e7387b20d864a549716cc7259190fb6.mesh"]
+
+source_file="res://Asteroids/1942_Jablunka.obj"
+dest_files=["res://.godot/imported/1942_Jablunka.obj-1e7387b20d864a549716cc7259190fb6.mesh", "res://.godot/imported/1942_Jablunka.obj-1e7387b20d864a549716cc7259190fb6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

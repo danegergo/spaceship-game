@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://clhdvkrtmctd4"
+path="res://.godot/imported/9326_Ruta.obj-8524707f2b298cac277f30f6622deb79.mesh"
+
+[deps]
+
+files=["res://.godot/imported/9326_Ruta.obj-8524707f2b298cac277f30f6622deb79.mesh"]
+
+source_file="res://Asteroids/9326_Ruta.obj"
+dest_files=["res://.godot/imported/9326_Ruta.obj-8524707f2b298cac277f30f6622deb79.mesh", "res://.godot/imported/9326_Ruta.obj-8524707f2b298cac277f30f6622deb79.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

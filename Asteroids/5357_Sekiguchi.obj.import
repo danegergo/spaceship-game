@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cuup0icvpuk8f"
+path="res://.godot/imported/5357_Sekiguchi.obj-20281d3d18ee791ebb54225bc129029b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5357_Sekiguchi.obj-20281d3d18ee791ebb54225bc129029b.mesh"]
+
+source_file="res://Asteroids/5357_Sekiguchi.obj"
+dest_files=["res://.godot/imported/5357_Sekiguchi.obj-20281d3d18ee791ebb54225bc129029b.mesh", "res://.godot/imported/5357_Sekiguchi.obj-20281d3d18ee791ebb54225bc129029b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

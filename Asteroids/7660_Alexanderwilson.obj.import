@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fesuxpuuovlg"
+path="res://.godot/imported/7660_Alexanderwilson.obj-9772db6130e766903e159700a28132fe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/7660_Alexanderwilson.obj-9772db6130e766903e159700a28132fe.mesh"]
+
+source_file="res://Asteroids/7660_Alexanderwilson.obj"
+dest_files=["res://.godot/imported/7660_Alexanderwilson.obj-9772db6130e766903e159700a28132fe.mesh", "res://.godot/imported/7660_Alexanderwilson.obj-9772db6130e766903e159700a28132fe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

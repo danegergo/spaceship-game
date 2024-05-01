@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://culhiduyfct62"
+path="res://.godot/imported/59880_1999_RS119.obj-fd47efde22df961d6c2156d24415a615.mesh"
+
+[deps]
+
+files=["res://.godot/imported/59880_1999_RS119.obj-fd47efde22df961d6c2156d24415a615.mesh"]
+
+source_file="res://Asteroids/59880_1999_RS119.obj"
+dest_files=["res://.godot/imported/59880_1999_RS119.obj-fd47efde22df961d6c2156d24415a615.mesh", "res://.godot/imported/59880_1999_RS119.obj-fd47efde22df961d6c2156d24415a615.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

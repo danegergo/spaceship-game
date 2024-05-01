@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://whkyvspd5oy0"
+path="res://.godot/imported/819_Barnardiana.obj-5337d0eaec663604d537de2fe951401e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/819_Barnardiana.obj-5337d0eaec663604d537de2fe951401e.mesh"]
+
+source_file="res://Asteroids/819_Barnardiana.obj"
+dest_files=["res://.godot/imported/819_Barnardiana.obj-5337d0eaec663604d537de2fe951401e.mesh", "res://.godot/imported/819_Barnardiana.obj-5337d0eaec663604d537de2fe951401e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dirqu2jbhhowv"
+path="res://.godot/imported/35595_1998_HO116.obj-9dc09ac4c86172b870717593f64bdc76.mesh"
+
+[deps]
+
+files=["res://.godot/imported/35595_1998_HO116.obj-9dc09ac4c86172b870717593f64bdc76.mesh"]
+
+source_file="res://Asteroids/35595_1998_HO116.obj"
+dest_files=["res://.godot/imported/35595_1998_HO116.obj-9dc09ac4c86172b870717593f64bdc76.mesh", "res://.godot/imported/35595_1998_HO116.obj-9dc09ac4c86172b870717593f64bdc76.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

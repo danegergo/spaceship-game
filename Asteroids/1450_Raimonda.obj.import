@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://f0r2hx48knlm"
+path="res://.godot/imported/1450_Raimonda.obj-a505cf19a9db9d326f3fe9a201c65fbe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1450_Raimonda.obj-a505cf19a9db9d326f3fe9a201c65fbe.mesh"]
+
+source_file="res://Asteroids/1450_Raimonda.obj"
+dest_files=["res://.godot/imported/1450_Raimonda.obj-a505cf19a9db9d326f3fe9a201c65fbe.mesh", "res://.godot/imported/1450_Raimonda.obj-a505cf19a9db9d326f3fe9a201c65fbe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

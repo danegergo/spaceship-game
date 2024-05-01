@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://betk2tjwyv2m4"
+path="res://.godot/imported/890_Waltraut.obj-430532faabf62f69c7f2a3302925f28d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/890_Waltraut.obj-430532faabf62f69c7f2a3302925f28d.mesh"]
+
+source_file="res://Asteroids/890_Waltraut.obj"
+dest_files=["res://.godot/imported/890_Waltraut.obj-430532faabf62f69c7f2a3302925f28d.mesh", "res://.godot/imported/890_Waltraut.obj-430532faabf62f69c7f2a3302925f28d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

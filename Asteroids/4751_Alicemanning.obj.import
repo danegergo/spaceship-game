@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2foxy8d5542c"
+path="res://.godot/imported/4751_Alicemanning.obj-07ce36af93df7dc291d1bd5a6bb13b45.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4751_Alicemanning.obj-07ce36af93df7dc291d1bd5a6bb13b45.mesh"]
+
+source_file="res://Asteroids/4751_Alicemanning.obj"
+dest_files=["res://.godot/imported/4751_Alicemanning.obj-07ce36af93df7dc291d1bd5a6bb13b45.mesh", "res://.godot/imported/4751_Alicemanning.obj-07ce36af93df7dc291d1bd5a6bb13b45.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

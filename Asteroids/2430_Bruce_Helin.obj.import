@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://5qf8185f0sp1"
+path="res://.godot/imported/2430_Bruce_Helin.obj-c62326d0f326e4934aa749f2914604de.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2430_Bruce_Helin.obj-c62326d0f326e4934aa749f2914604de.mesh"]
+
+source_file="res://Asteroids/2430_Bruce_Helin.obj"
+dest_files=["res://.godot/imported/2430_Bruce_Helin.obj-c62326d0f326e4934aa749f2914604de.mesh", "res://.godot/imported/2430_Bruce_Helin.obj-c62326d0f326e4934aa749f2914604de.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

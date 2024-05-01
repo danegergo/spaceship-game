@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dwr0lx4kqi1xf"
+path="res://.godot/imported/1663_van_den_Bos.obj-c9dd776597003c48ca1e2d6bfec38efd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1663_van_den_Bos.obj-c9dd776597003c48ca1e2d6bfec38efd.mesh"]
+
+source_file="res://Asteroids/1663_van_den_Bos.obj"
+dest_files=["res://.godot/imported/1663_van_den_Bos.obj-c9dd776597003c48ca1e2d6bfec38efd.mesh", "res://.godot/imported/1663_van_den_Bos.obj-c9dd776597003c48ca1e2d6bfec38efd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

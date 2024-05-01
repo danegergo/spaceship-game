@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dcl76w47gxp8l"
+path="res://.godot/imported/562_Salome.obj-77969b104a3ff946ae5b8f4b7d970575.mesh"
+
+[deps]
+
+files=["res://.godot/imported/562_Salome.obj-77969b104a3ff946ae5b8f4b7d970575.mesh"]
+
+source_file="res://Asteroids/562_Salome.obj"
+dest_files=["res://.godot/imported/562_Salome.obj-77969b104a3ff946ae5b8f4b7d970575.mesh", "res://.godot/imported/562_Salome.obj-77969b104a3ff946ae5b8f4b7d970575.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

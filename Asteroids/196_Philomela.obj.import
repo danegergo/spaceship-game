@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqyga5ovohltp"
+path="res://.godot/imported/196_Philomela.obj-de3f1d8af4f38611184a62e5c73b6991.mesh"
+
+[deps]
+
+files=["res://.godot/imported/196_Philomela.obj-de3f1d8af4f38611184a62e5c73b6991.mesh"]
+
+source_file="res://Asteroids/196_Philomela.obj"
+dest_files=["res://.godot/imported/196_Philomela.obj-de3f1d8af4f38611184a62e5c73b6991.mesh", "res://.godot/imported/196_Philomela.obj-de3f1d8af4f38611184a62e5c73b6991.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

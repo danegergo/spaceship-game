@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cj4gpyfs6krbf"
+path="res://.godot/imported/52_Europa.obj-d256efb7b9fbd4445a97be00c3f1014a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/52_Europa.obj-d256efb7b9fbd4445a97be00c3f1014a.mesh"]
+
+source_file="res://Asteroids/52_Europa.obj"
+dest_files=["res://.godot/imported/52_Europa.obj-d256efb7b9fbd4445a97be00c3f1014a.mesh", "res://.godot/imported/52_Europa.obj-d256efb7b9fbd4445a97be00c3f1014a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

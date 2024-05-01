@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://kbs5rs8pomj7"
+path="res://.godot/imported/934_Thuringia.obj-1b572f58865eab1ef88520992f8b9980.mesh"
+
+[deps]
+
+files=["res://.godot/imported/934_Thuringia.obj-1b572f58865eab1ef88520992f8b9980.mesh"]
+
+source_file="res://Asteroids/934_Thuringia.obj"
+dest_files=["res://.godot/imported/934_Thuringia.obj-1b572f58865eab1ef88520992f8b9980.mesh", "res://.godot/imported/934_Thuringia.obj-1b572f58865eab1ef88520992f8b9980.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

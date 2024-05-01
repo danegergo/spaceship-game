@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://q6jb4s1xtud0"
+path="res://.godot/imported/28133_Kylebardwell.obj-f190ec51a4e17c588884e63cf870783a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/28133_Kylebardwell.obj-f190ec51a4e17c588884e63cf870783a.mesh"]
+
+source_file="res://Asteroids/28133_Kylebardwell.obj"
+dest_files=["res://.godot/imported/28133_Kylebardwell.obj-f190ec51a4e17c588884e63cf870783a.mesh", "res://.godot/imported/28133_Kylebardwell.obj-f190ec51a4e17c588884e63cf870783a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

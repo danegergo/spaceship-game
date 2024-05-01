@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bardybsxgnghk"
+path="res://.godot/imported/102390_1999_TP155.obj-2dc46496cb876df6f2c835b12d85d039.mesh"
+
+[deps]
+
+files=["res://.godot/imported/102390_1999_TP155.obj-2dc46496cb876df6f2c835b12d85d039.mesh"]
+
+source_file="res://Asteroids/102390_1999_TP155.obj"
+dest_files=["res://.godot/imported/102390_1999_TP155.obj-2dc46496cb876df6f2c835b12d85d039.mesh", "res://.godot/imported/102390_1999_TP155.obj-2dc46496cb876df6f2c835b12d85d039.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

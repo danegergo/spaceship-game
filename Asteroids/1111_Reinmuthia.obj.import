@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://csd2kigwd1q5h"
+path="res://.godot/imported/1111_Reinmuthia.obj-fee7af30a630b3c2e801751bcbe68732.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1111_Reinmuthia.obj-fee7af30a630b3c2e801751bcbe68732.mesh"]
+
+source_file="res://Asteroids/1111_Reinmuthia.obj"
+dest_files=["res://.godot/imported/1111_Reinmuthia.obj-fee7af30a630b3c2e801751bcbe68732.mesh", "res://.godot/imported/1111_Reinmuthia.obj-fee7af30a630b3c2e801751bcbe68732.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

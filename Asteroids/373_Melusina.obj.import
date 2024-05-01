@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://j6lkh404r658"
+path="res://.godot/imported/373_Melusina.obj-2341323b933738c5af2ce7adfdb3a916.mesh"
+
+[deps]
+
+files=["res://.godot/imported/373_Melusina.obj-2341323b933738c5af2ce7adfdb3a916.mesh"]
+
+source_file="res://Asteroids/373_Melusina.obj"
+dest_files=["res://.godot/imported/373_Melusina.obj-2341323b933738c5af2ce7adfdb3a916.mesh", "res://.godot/imported/373_Melusina.obj-2341323b933738c5af2ce7adfdb3a916.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://brg4y204yjhqp"
+path="res://.godot/imported/918_Itha.obj-3c17bb0f26e0f48eb15edbd5b40a5e4f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/918_Itha.obj-3c17bb0f26e0f48eb15edbd5b40a5e4f.mesh"]
+
+source_file="res://Asteroids/918_Itha.obj"
+dest_files=["res://.godot/imported/918_Itha.obj-3c17bb0f26e0f48eb15edbd5b40a5e4f.mesh", "res://.godot/imported/918_Itha.obj-3c17bb0f26e0f48eb15edbd5b40a5e4f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

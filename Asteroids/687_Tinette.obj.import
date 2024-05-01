@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://co6d4u3h5ny5h"
+path="res://.godot/imported/687_Tinette.obj-7d79c6c90926f7e5cb5a8a57e09bbc2e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/687_Tinette.obj-7d79c6c90926f7e5cb5a8a57e09bbc2e.mesh"]
+
+source_file="res://Asteroids/687_Tinette.obj"
+dest_files=["res://.godot/imported/687_Tinette.obj-7d79c6c90926f7e5cb5a8a57e09bbc2e.mesh", "res://.godot/imported/687_Tinette.obj-7d79c6c90926f7e5cb5a8a57e09bbc2e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

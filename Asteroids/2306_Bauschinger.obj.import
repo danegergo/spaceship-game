@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b3wa535rt2rtu"
+path="res://.godot/imported/2306_Bauschinger.obj-070ef3f27e20e2e1d7053f74a17f1917.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2306_Bauschinger.obj-070ef3f27e20e2e1d7053f74a17f1917.mesh"]
+
+source_file="res://Asteroids/2306_Bauschinger.obj"
+dest_files=["res://.godot/imported/2306_Bauschinger.obj-070ef3f27e20e2e1d7053f74a17f1917.mesh", "res://.godot/imported/2306_Bauschinger.obj-070ef3f27e20e2e1d7053f74a17f1917.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

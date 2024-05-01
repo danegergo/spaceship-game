@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bu230nqhk3ubm"
+path="res://.godot/imported/578_Happelia.obj-20a803163b2a8931d23851f25301103c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/578_Happelia.obj-20a803163b2a8931d23851f25301103c.mesh"]
+
+source_file="res://Asteroids/578_Happelia.obj"
+dest_files=["res://.godot/imported/578_Happelia.obj-20a803163b2a8931d23851f25301103c.mesh", "res://.godot/imported/578_Happelia.obj-20a803163b2a8931d23851f25301103c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

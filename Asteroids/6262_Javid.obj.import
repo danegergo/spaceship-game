@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://11nw7x3jsl2u"
+path="res://.godot/imported/6262_Javid.obj-6a11877bfae220d0092b59b4db5ae0ba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6262_Javid.obj-6a11877bfae220d0092b59b4db5ae0ba.mesh"]
+
+source_file="res://Asteroids/6262_Javid.obj"
+dest_files=["res://.godot/imported/6262_Javid.obj-6a11877bfae220d0092b59b4db5ae0ba.mesh", "res://.godot/imported/6262_Javid.obj-6a11877bfae220d0092b59b4db5ae0ba.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

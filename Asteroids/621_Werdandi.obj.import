@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bh582x56nxtoy"
+path="res://.godot/imported/621_Werdandi.obj-7c66bd2b003bb58b6650f93cb0b85eca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/621_Werdandi.obj-7c66bd2b003bb58b6650f93cb0b85eca.mesh"]
+
+source_file="res://Asteroids/621_Werdandi.obj"
+dest_files=["res://.godot/imported/621_Werdandi.obj-7c66bd2b003bb58b6650f93cb0b85eca.mesh", "res://.godot/imported/621_Werdandi.obj-7c66bd2b003bb58b6650f93cb0b85eca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ciyi2wrqfgyru"
+path="res://.godot/imported/17983_Buhrmester.obj-07ee18ca4a8c26f3a0f41c696d774ddd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/17983_Buhrmester.obj-07ee18ca4a8c26f3a0f41c696d774ddd.mesh"]
+
+source_file="res://Asteroids/17983_Buhrmester.obj"
+dest_files=["res://.godot/imported/17983_Buhrmester.obj-07ee18ca4a8c26f3a0f41c696d774ddd.mesh", "res://.godot/imported/17983_Buhrmester.obj-07ee18ca4a8c26f3a0f41c696d774ddd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

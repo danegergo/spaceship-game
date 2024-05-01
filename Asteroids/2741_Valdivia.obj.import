@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://djyp0tjykhiad"
+path="res://.godot/imported/2741_Valdivia.obj-6fc58a2f13cfae06157bc91fee9b9deb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2741_Valdivia.obj-6fc58a2f13cfae06157bc91fee9b9deb.mesh"]
+
+source_file="res://Asteroids/2741_Valdivia.obj"
+dest_files=["res://.godot/imported/2741_Valdivia.obj-6fc58a2f13cfae06157bc91fee9b9deb.mesh", "res://.godot/imported/2741_Valdivia.obj-6fc58a2f13cfae06157bc91fee9b9deb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b7cel201nnbep"
+path="res://.godot/imported/247_Eukrate.obj-3e1ef70d239392d0fc64f0997bffea5e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/247_Eukrate.obj-3e1ef70d239392d0fc64f0997bffea5e.mesh"]
+
+source_file="res://Asteroids/247_Eukrate.obj"
+dest_files=["res://.godot/imported/247_Eukrate.obj-3e1ef70d239392d0fc64f0997bffea5e.mesh", "res://.godot/imported/247_Eukrate.obj-3e1ef70d239392d0fc64f0997bffea5e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

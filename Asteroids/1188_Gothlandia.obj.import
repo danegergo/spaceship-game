@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b5f2pmhxn2028"
+path="res://.godot/imported/1188_Gothlandia.obj-f4c01aedbdf6b528ed03cbf5ee512d08.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1188_Gothlandia.obj-f4c01aedbdf6b528ed03cbf5ee512d08.mesh"]
+
+source_file="res://Asteroids/1188_Gothlandia.obj"
+dest_files=["res://.godot/imported/1188_Gothlandia.obj-f4c01aedbdf6b528ed03cbf5ee512d08.mesh", "res://.godot/imported/1188_Gothlandia.obj-f4c01aedbdf6b528ed03cbf5ee512d08.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dp3qp5ubsc2y3"
+path="res://.godot/imported/2677_Joan.obj-ad68a6a24c60cb021e2d96f4af8215b7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2677_Joan.obj-ad68a6a24c60cb021e2d96f4af8215b7.mesh"]
+
+source_file="res://Asteroids/2677_Joan.obj"
+dest_files=["res://.godot/imported/2677_Joan.obj-ad68a6a24c60cb021e2d96f4af8215b7.mesh", "res://.godot/imported/2677_Joan.obj-ad68a6a24c60cb021e2d96f4af8215b7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

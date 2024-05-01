@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b8qq7egtam2ik"
+path="res://.godot/imported/6510_Tarry.obj-ed9d97a096c77de1d06e846e3d0452bd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6510_Tarry.obj-ed9d97a096c77de1d06e846e3d0452bd.mesh"]
+
+source_file="res://Asteroids/6510_Tarry.obj"
+dest_files=["res://.godot/imported/6510_Tarry.obj-ed9d97a096c77de1d06e846e3d0452bd.mesh", "res://.godot/imported/6510_Tarry.obj-ed9d97a096c77de1d06e846e3d0452bd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://f8t2pj4hyjci"
+path="res://.godot/imported/7289_Kamegamori.obj-5522e9af12e1db49409b234e55df7ed8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/7289_Kamegamori.obj-5522e9af12e1db49409b234e55df7ed8.mesh"]
+
+source_file="res://Asteroids/7289_Kamegamori.obj"
+dest_files=["res://.godot/imported/7289_Kamegamori.obj-5522e9af12e1db49409b234e55df7ed8.mesh", "res://.godot/imported/7289_Kamegamori.obj-5522e9af12e1db49409b234e55df7ed8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

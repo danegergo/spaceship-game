@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bvhx8mqd0d28"
+path="res://.godot/imported/11214_1999_HP8.obj-db3ae745824132b79486a6c54490de55.mesh"
+
+[deps]
+
+files=["res://.godot/imported/11214_1999_HP8.obj-db3ae745824132b79486a6c54490de55.mesh"]
+
+source_file="res://Asteroids/11214_1999_HP8.obj"
+dest_files=["res://.godot/imported/11214_1999_HP8.obj-db3ae745824132b79486a6c54490de55.mesh", "res://.godot/imported/11214_1999_HP8.obj-db3ae745824132b79486a6c54490de55.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

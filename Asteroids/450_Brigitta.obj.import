@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://0uhvspf05nkc"
+path="res://.godot/imported/450_Brigitta.obj-c12b2caa17a80ac2998f0b35b4ba1575.mesh"
+
+[deps]
+
+files=["res://.godot/imported/450_Brigitta.obj-c12b2caa17a80ac2998f0b35b4ba1575.mesh"]
+
+source_file="res://Asteroids/450_Brigitta.obj"
+dest_files=["res://.godot/imported/450_Brigitta.obj-c12b2caa17a80ac2998f0b35b4ba1575.mesh", "res://.godot/imported/450_Brigitta.obj-c12b2caa17a80ac2998f0b35b4ba1575.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

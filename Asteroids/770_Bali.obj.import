@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmt4mq6q3ot5n"
+path="res://.godot/imported/770_Bali.obj-a95c3f4ac5cebe2cd57d72e63f6d14ca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/770_Bali.obj-a95c3f4ac5cebe2cd57d72e63f6d14ca.mesh"]
+
+source_file="res://Asteroids/770_Bali.obj"
+dest_files=["res://.godot/imported/770_Bali.obj-a95c3f4ac5cebe2cd57d72e63f6d14ca.mesh", "res://.godot/imported/770_Bali.obj-a95c3f4ac5cebe2cd57d72e63f6d14ca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

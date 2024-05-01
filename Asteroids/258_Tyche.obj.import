@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cc00c7wtxe3qj"
+path="res://.godot/imported/258_Tyche.obj-249c7ab73c24c7e885e327e39da04464.mesh"
+
+[deps]
+
+files=["res://.godot/imported/258_Tyche.obj-249c7ab73c24c7e885e327e39da04464.mesh"]
+
+source_file="res://Asteroids/258_Tyche.obj"
+dest_files=["res://.godot/imported/258_Tyche.obj-249c7ab73c24c7e885e327e39da04464.mesh", "res://.godot/imported/258_Tyche.obj-249c7ab73c24c7e885e327e39da04464.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

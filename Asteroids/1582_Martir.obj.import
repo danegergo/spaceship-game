@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://icxn4tmum2iw"
+path="res://.godot/imported/1582_Martir.obj-6ef94d3264e781b7612745e3fb52bcca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1582_Martir.obj-6ef94d3264e781b7612745e3fb52bcca.mesh"]
+
+source_file="res://Asteroids/1582_Martir.obj"
+dest_files=["res://.godot/imported/1582_Martir.obj-6ef94d3264e781b7612745e3fb52bcca.mesh", "res://.godot/imported/1582_Martir.obj-6ef94d3264e781b7612745e3fb52bcca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bkem1jo3j1063"
+path="res://.godot/imported/403_Cyane.obj-38e31dde185d549db285078d7345006c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/403_Cyane.obj-38e31dde185d549db285078d7345006c.mesh"]
+
+source_file="res://Asteroids/403_Cyane.obj"
+dest_files=["res://.godot/imported/403_Cyane.obj-38e31dde185d549db285078d7345006c.mesh", "res://.godot/imported/403_Cyane.obj-38e31dde185d549db285078d7345006c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

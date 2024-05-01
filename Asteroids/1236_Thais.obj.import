@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqqkqia8qb73n"
+path="res://.godot/imported/1236_Thais.obj-4e67dbd91bf601970fb88a701a749a2e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1236_Thais.obj-4e67dbd91bf601970fb88a701a749a2e.mesh"]
+
+source_file="res://Asteroids/1236_Thais.obj"
+dest_files=["res://.godot/imported/1236_Thais.obj-4e67dbd91bf601970fb88a701a749a2e.mesh", "res://.godot/imported/1236_Thais.obj-4e67dbd91bf601970fb88a701a749a2e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

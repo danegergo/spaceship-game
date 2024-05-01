@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://yjcayx2smagr"
+path="res://.godot/imported/119_Althaea.obj-90aa759238a39b21f95ade1a04719a88.mesh"
+
+[deps]
+
+files=["res://.godot/imported/119_Althaea.obj-90aa759238a39b21f95ade1a04719a88.mesh"]
+
+source_file="res://Asteroids/119_Althaea.obj"
+dest_files=["res://.godot/imported/119_Althaea.obj-90aa759238a39b21f95ade1a04719a88.mesh", "res://.godot/imported/119_Althaea.obj-90aa759238a39b21f95ade1a04719a88.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

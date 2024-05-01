@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://binwv5m6haj0o"
+path="res://.godot/imported/14627_Emilkowalski.obj-be0035cd83a4fad808e17582768d09bc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/14627_Emilkowalski.obj-be0035cd83a4fad808e17582768d09bc.mesh"]
+
+source_file="res://Asteroids/14627_Emilkowalski.obj"
+dest_files=["res://.godot/imported/14627_Emilkowalski.obj-be0035cd83a4fad808e17582768d09bc.mesh", "res://.godot/imported/14627_Emilkowalski.obj-be0035cd83a4fad808e17582768d09bc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

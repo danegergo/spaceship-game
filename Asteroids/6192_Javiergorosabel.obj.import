@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d1nf80q8ogr3p"
+path="res://.godot/imported/6192_Javiergorosabel.obj-1d7d98eeb43f5cf1bacddc76b4a7b48d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/6192_Javiergorosabel.obj-1d7d98eeb43f5cf1bacddc76b4a7b48d.mesh"]
+
+source_file="res://Asteroids/6192_Javiergorosabel.obj"
+dest_files=["res://.godot/imported/6192_Javiergorosabel.obj-1d7d98eeb43f5cf1bacddc76b4a7b48d.mesh", "res://.godot/imported/6192_Javiergorosabel.obj-1d7d98eeb43f5cf1bacddc76b4a7b48d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2ulu4x2gcraa"
+path="res://.godot/imported/4448_Phildavis.obj-2e619145446c33ad3714e6875317d9cb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4448_Phildavis.obj-2e619145446c33ad3714e6875317d9cb.mesh"]
+
+source_file="res://Asteroids/4448_Phildavis.obj"
+dest_files=["res://.godot/imported/4448_Phildavis.obj-2e619145446c33ad3714e6875317d9cb.mesh", "res://.godot/imported/4448_Phildavis.obj-2e619145446c33ad3714e6875317d9cb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

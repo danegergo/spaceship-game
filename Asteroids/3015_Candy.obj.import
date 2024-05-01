@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cmfa3gsirbdtg"
+path="res://.godot/imported/3015_Candy.obj-74b50c982f6682e231cfe1f9263086ab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3015_Candy.obj-74b50c982f6682e231cfe1f9263086ab.mesh"]
+
+source_file="res://Asteroids/3015_Candy.obj"
+dest_files=["res://.godot/imported/3015_Candy.obj-74b50c982f6682e231cfe1f9263086ab.mesh", "res://.godot/imported/3015_Candy.obj-74b50c982f6682e231cfe1f9263086ab.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

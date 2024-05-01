@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxpevqoqh7ui3"
+path="res://.godot/imported/93_Minerva.obj-80b8b3c9e3be45546b77ef202ebf7352.mesh"
+
+[deps]
+
+files=["res://.godot/imported/93_Minerva.obj-80b8b3c9e3be45546b77ef202ebf7352.mesh"]
+
+source_file="res://Asteroids/93_Minerva.obj"
+dest_files=["res://.godot/imported/93_Minerva.obj-80b8b3c9e3be45546b77ef202ebf7352.mesh", "res://.godot/imported/93_Minerva.obj-80b8b3c9e3be45546b77ef202ebf7352.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

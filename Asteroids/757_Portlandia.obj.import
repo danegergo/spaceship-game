@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c7k7y5ceb8t6d"
+path="res://.godot/imported/757_Portlandia.obj-4c47e2233e76865c3d1592357ad96ae4.mesh"
+
+[deps]
+
+files=["res://.godot/imported/757_Portlandia.obj-4c47e2233e76865c3d1592357ad96ae4.mesh"]
+
+source_file="res://Asteroids/757_Portlandia.obj"
+dest_files=["res://.godot/imported/757_Portlandia.obj-4c47e2233e76865c3d1592357ad96ae4.mesh", "res://.godot/imported/757_Portlandia.obj-4c47e2233e76865c3d1592357ad96ae4.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

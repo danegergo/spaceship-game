@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bo0v6yyto1m3f"
+path="res://.godot/imported/15276_Diebel.obj-0958e628a56361c47a8204cffce4d87e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/15276_Diebel.obj-0958e628a56361c47a8204cffce4d87e.mesh"]
+
+source_file="res://Asteroids/15276_Diebel.obj"
+dest_files=["res://.godot/imported/15276_Diebel.obj-0958e628a56361c47a8204cffce4d87e.mesh", "res://.godot/imported/15276_Diebel.obj-0958e628a56361c47a8204cffce4d87e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

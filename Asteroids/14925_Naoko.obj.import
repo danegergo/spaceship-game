@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cgmv0n1ur0b8k"
+path="res://.godot/imported/14925_Naoko.obj-079e0201d8f533db0810e1d9a6d2efc9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/14925_Naoko.obj-079e0201d8f533db0810e1d9a6d2efc9.mesh"]
+
+source_file="res://Asteroids/14925_Naoko.obj"
+dest_files=["res://.godot/imported/14925_Naoko.obj-079e0201d8f533db0810e1d9a6d2efc9.mesh", "res://.godot/imported/14925_Naoko.obj-079e0201d8f533db0810e1d9a6d2efc9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

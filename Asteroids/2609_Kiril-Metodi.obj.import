@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cfa7jjxalj72w"
+path="res://.godot/imported/2609_Kiril-Metodi.obj-fc14d672b3dd93750e1368b2e2cfabce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2609_Kiril-Metodi.obj-fc14d672b3dd93750e1368b2e2cfabce.mesh"]
+
+source_file="res://Asteroids/2609_Kiril-Metodi.obj"
+dest_files=["res://.godot/imported/2609_Kiril-Metodi.obj-fc14d672b3dd93750e1368b2e2cfabce.mesh", "res://.godot/imported/2609_Kiril-Metodi.obj-fc14d672b3dd93750e1368b2e2cfabce.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

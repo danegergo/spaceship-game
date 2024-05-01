@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7ry2qxtflmef"
+path="res://.godot/imported/1069_Planckia.obj-93d81cad9cd1db3397e690f1cd00bb7d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1069_Planckia.obj-93d81cad9cd1db3397e690f1cd00bb7d.mesh"]
+
+source_file="res://Asteroids/1069_Planckia.obj"
+dest_files=["res://.godot/imported/1069_Planckia.obj-93d81cad9cd1db3397e690f1cd00bb7d.mesh", "res://.godot/imported/1069_Planckia.obj-93d81cad9cd1db3397e690f1cd00bb7d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

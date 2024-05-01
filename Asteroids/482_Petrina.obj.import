@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bf0qryhbwo0o7"
+path="res://.godot/imported/482_Petrina.obj-a1a4c0cca8e0ac0192026ac4eaa7e648.mesh"
+
+[deps]
+
+files=["res://.godot/imported/482_Petrina.obj-a1a4c0cca8e0ac0192026ac4eaa7e648.mesh"]
+
+source_file="res://Asteroids/482_Petrina.obj"
+dest_files=["res://.godot/imported/482_Petrina.obj-a1a4c0cca8e0ac0192026ac4eaa7e648.mesh", "res://.godot/imported/482_Petrina.obj-a1a4c0cca8e0ac0192026ac4eaa7e648.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

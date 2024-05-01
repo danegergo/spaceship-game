@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dkynjff1re74r"
+path="res://.godot/imported/271_Penthesilea.obj-5a008d09635c74ddc469dd48c9d8ccaf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/271_Penthesilea.obj-5a008d09635c74ddc469dd48c9d8ccaf.mesh"]
+
+source_file="res://Asteroids/271_Penthesilea.obj"
+dest_files=["res://.godot/imported/271_Penthesilea.obj-5a008d09635c74ddc469dd48c9d8ccaf.mesh", "res://.godot/imported/271_Penthesilea.obj-5a008d09635c74ddc469dd48c9d8ccaf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

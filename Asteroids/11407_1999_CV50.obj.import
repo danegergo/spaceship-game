@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dok5adrrndnhs"
+path="res://.godot/imported/11407_1999_CV50.obj-039d65a8cd1bfe82022286279bf2e220.mesh"
+
+[deps]
+
+files=["res://.godot/imported/11407_1999_CV50.obj-039d65a8cd1bfe82022286279bf2e220.mesh"]
+
+source_file="res://Asteroids/11407_1999_CV50.obj"
+dest_files=["res://.godot/imported/11407_1999_CV50.obj-039d65a8cd1bfe82022286279bf2e220.mesh", "res://.godot/imported/11407_1999_CV50.obj-039d65a8cd1bfe82022286279bf2e220.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

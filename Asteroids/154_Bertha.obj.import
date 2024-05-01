@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4wv2m6c5byw3"
+path="res://.godot/imported/154_Bertha.obj-9f58167a3c3eff543c899db43525112d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/154_Bertha.obj-9f58167a3c3eff543c899db43525112d.mesh"]
+
+source_file="res://Asteroids/154_Bertha.obj"
+dest_files=["res://.godot/imported/154_Bertha.obj-9f58167a3c3eff543c899db43525112d.mesh", "res://.godot/imported/154_Bertha.obj-9f58167a3c3eff543c899db43525112d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

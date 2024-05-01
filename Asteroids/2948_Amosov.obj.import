@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cjchmy7m5xn2l"
+path="res://.godot/imported/2948_Amosov.obj-b93cd96d2c44499700828b41774fa12e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2948_Amosov.obj-b93cd96d2c44499700828b41774fa12e.mesh"]
+
+source_file="res://Asteroids/2948_Amosov.obj"
+dest_files=["res://.godot/imported/2948_Amosov.obj-b93cd96d2c44499700828b41774fa12e.mesh", "res://.godot/imported/2948_Amosov.obj-b93cd96d2c44499700828b41774fa12e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

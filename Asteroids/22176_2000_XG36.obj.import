@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vbb0boxqmsmu"
+path="res://.godot/imported/22176_2000_XG36.obj-2a3e0bc0b7f44cb6d8e3055f4407967e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/22176_2000_XG36.obj-2a3e0bc0b7f44cb6d8e3055f4407967e.mesh"]
+
+source_file="res://Asteroids/22176_2000_XG36.obj"
+dest_files=["res://.godot/imported/22176_2000_XG36.obj-2a3e0bc0b7f44cb6d8e3055f4407967e.mesh", "res://.godot/imported/22176_2000_XG36.obj-2a3e0bc0b7f44cb6d8e3055f4407967e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

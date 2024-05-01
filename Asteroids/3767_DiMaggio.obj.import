@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cxx2l4v2qaroi"
+path="res://.godot/imported/3767_DiMaggio.obj-7179031f54a7f350eb1c4143ec49bb21.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3767_DiMaggio.obj-7179031f54a7f350eb1c4143ec49bb21.mesh"]
+
+source_file="res://Asteroids/3767_DiMaggio.obj"
+dest_files=["res://.godot/imported/3767_DiMaggio.obj-7179031f54a7f350eb1c4143ec49bb21.mesh", "res://.godot/imported/3767_DiMaggio.obj-7179031f54a7f350eb1c4143ec49bb21.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

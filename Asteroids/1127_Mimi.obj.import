@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cngt0f28jv7yf"
+path="res://.godot/imported/1127_Mimi.obj-a4d5eb81d3d2ddb8a8e2af56a8b68ada.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1127_Mimi.obj-a4d5eb81d3d2ddb8a8e2af56a8b68ada.mesh"]
+
+source_file="res://Asteroids/1127_Mimi.obj"
+dest_files=["res://.godot/imported/1127_Mimi.obj-a4d5eb81d3d2ddb8a8e2af56a8b68ada.mesh", "res://.godot/imported/1127_Mimi.obj-a4d5eb81d3d2ddb8a8e2af56a8b68ada.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

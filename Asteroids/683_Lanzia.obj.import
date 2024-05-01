@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cfu481w5m6803"
+path="res://.godot/imported/683_Lanzia.obj-e90ff88a4cfded3b72359ae3ab48f2bb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/683_Lanzia.obj-e90ff88a4cfded3b72359ae3ab48f2bb.mesh"]
+
+source_file="res://Asteroids/683_Lanzia.obj"
+dest_files=["res://.godot/imported/683_Lanzia.obj-e90ff88a4cfded3b72359ae3ab48f2bb.mesh", "res://.godot/imported/683_Lanzia.obj-e90ff88a4cfded3b72359ae3ab48f2bb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

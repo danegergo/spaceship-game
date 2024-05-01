@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://8ilovly5rnau"
+path="res://.godot/imported/1820_Lohmann.obj-e4a8f175323051cf4cdd9f4a42eac8bd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1820_Lohmann.obj-e4a8f175323051cf4cdd9f4a42eac8bd.mesh"]
+
+source_file="res://Asteroids/1820_Lohmann.obj"
+dest_files=["res://.godot/imported/1820_Lohmann.obj-e4a8f175323051cf4cdd9f4a42eac8bd.mesh", "res://.godot/imported/1820_Lohmann.obj-e4a8f175323051cf4cdd9f4a42eac8bd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

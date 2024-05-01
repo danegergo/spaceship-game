@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://62ifcck3saob"
+path="res://.godot/imported/382_Dodona.obj-8d0135523c374da5085c6faa487be520.mesh"
+
+[deps]
+
+files=["res://.godot/imported/382_Dodona.obj-8d0135523c374da5085c6faa487be520.mesh"]
+
+source_file="res://Asteroids/382_Dodona.obj"
+dest_files=["res://.godot/imported/382_Dodona.obj-8d0135523c374da5085c6faa487be520.mesh", "res://.godot/imported/382_Dodona.obj-8d0135523c374da5085c6faa487be520.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

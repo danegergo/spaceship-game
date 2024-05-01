@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ltxq8o7627mc"
+path="res://.godot/imported/7333_Bec-Borsenberger.obj-cd5d8b8232c914db991e43b18b16c1fc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/7333_Bec-Borsenberger.obj-cd5d8b8232c914db991e43b18b16c1fc.mesh"]
+
+source_file="res://Asteroids/7333_Bec-Borsenberger.obj"
+dest_files=["res://.godot/imported/7333_Bec-Borsenberger.obj-cd5d8b8232c914db991e43b18b16c1fc.mesh", "res://.godot/imported/7333_Bec-Borsenberger.obj-cd5d8b8232c914db991e43b18b16c1fc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://lbkey84dtkfb"
+path="res://.godot/imported/1930_Lucifer.obj-0874df0cb81283f05a4902c86df17083.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1930_Lucifer.obj-0874df0cb81283f05a4902c86df17083.mesh"]
+
+source_file="res://Asteroids/1930_Lucifer.obj"
+dest_files=["res://.godot/imported/1930_Lucifer.obj-0874df0cb81283f05a4902c86df17083.mesh", "res://.godot/imported/1930_Lucifer.obj-0874df0cb81283f05a4902c86df17083.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

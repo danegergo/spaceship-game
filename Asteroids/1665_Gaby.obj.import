@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://4oh51qiqklm4"
+path="res://.godot/imported/1665_Gaby.obj-475f8c22cd8f8d512716046e48c08d76.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1665_Gaby.obj-475f8c22cd8f8d512716046e48c08d76.mesh"]
+
+source_file="res://Asteroids/1665_Gaby.obj"
+dest_files=["res://.godot/imported/1665_Gaby.obj-475f8c22cd8f8d512716046e48c08d76.mesh", "res://.godot/imported/1665_Gaby.obj-475f8c22cd8f8d512716046e48c08d76.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

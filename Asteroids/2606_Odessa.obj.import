@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c440y3sotko8t"
+path="res://.godot/imported/2606_Odessa.obj-34f5596e1ba900fbee5d78913bbd3459.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2606_Odessa.obj-34f5596e1ba900fbee5d78913bbd3459.mesh"]
+
+source_file="res://Asteroids/2606_Odessa.obj"
+dest_files=["res://.godot/imported/2606_Odessa.obj-34f5596e1ba900fbee5d78913bbd3459.mesh", "res://.godot/imported/2606_Odessa.obj-34f5596e1ba900fbee5d78913bbd3459.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

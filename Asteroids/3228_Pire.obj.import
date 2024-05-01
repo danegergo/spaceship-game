@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c7ajg555x8swo"
+path="res://.godot/imported/3228_Pire.obj-9955e0cc600e0c4c5a941c4249f379e7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3228_Pire.obj-9955e0cc600e0c4c5a941c4249f379e7.mesh"]
+
+source_file="res://Asteroids/3228_Pire.obj"
+dest_files=["res://.godot/imported/3228_Pire.obj-9955e0cc600e0c4c5a941c4249f379e7.mesh", "res://.godot/imported/3228_Pire.obj-9955e0cc600e0c4c5a941c4249f379e7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

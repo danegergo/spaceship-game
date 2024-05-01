@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c4hmks22tr25f"
+path="res://.godot/imported/9983_Rickfienberg.obj-cc9ce369655432c7e500334d3e5f4255.mesh"
+
+[deps]
+
+files=["res://.godot/imported/9983_Rickfienberg.obj-cc9ce369655432c7e500334d3e5f4255.mesh"]
+
+source_file="res://Asteroids/9983_Rickfienberg.obj"
+dest_files=["res://.godot/imported/9983_Rickfienberg.obj-cc9ce369655432c7e500334d3e5f4255.mesh", "res://.godot/imported/9983_Rickfienberg.obj-cc9ce369655432c7e500334d3e5f4255.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://2id73wssvd11"
+path="res://.godot/imported/281_Lucretia.obj-541f165fa836edc56ee0113c986e979f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/281_Lucretia.obj-541f165fa836edc56ee0113c986e979f.mesh"]
+
+source_file="res://Asteroids/281_Lucretia.obj"
+dest_files=["res://.godot/imported/281_Lucretia.obj-541f165fa836edc56ee0113c986e979f.mesh", "res://.godot/imported/281_Lucretia.obj-541f165fa836edc56ee0113c986e979f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

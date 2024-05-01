@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cecq5t81oyfqj"
+path="res://.godot/imported/1623_Vivian.obj-4e146a1a748d8a33978cf7a1e67d26ed.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1623_Vivian.obj-4e146a1a748d8a33978cf7a1e67d26ed.mesh"]
+
+source_file="res://Asteroids/1623_Vivian.obj"
+dest_files=["res://.godot/imported/1623_Vivian.obj-4e146a1a748d8a33978cf7a1e67d26ed.mesh", "res://.godot/imported/1623_Vivian.obj-4e146a1a748d8a33978cf7a1e67d26ed.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

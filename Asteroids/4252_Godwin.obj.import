@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://djktp5wwm3vux"
+path="res://.godot/imported/4252_Godwin.obj-579da39ae63735b4b5eb40406753e744.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4252_Godwin.obj-579da39ae63735b4b5eb40406753e744.mesh"]
+
+source_file="res://Asteroids/4252_Godwin.obj"
+dest_files=["res://.godot/imported/4252_Godwin.obj-579da39ae63735b4b5eb40406753e744.mesh", "res://.godot/imported/4252_Godwin.obj-579da39ae63735b4b5eb40406753e744.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://shjh8j28jwi6"
+path="res://.godot/imported/775_Lumiere.obj-7dfead2a18dd1d22d7d037fe92a7317e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/775_Lumiere.obj-7dfead2a18dd1d22d7d037fe92a7317e.mesh"]
+
+source_file="res://Asteroids/775_Lumiere.obj"
+dest_files=["res://.godot/imported/775_Lumiere.obj-7dfead2a18dd1d22d7d037fe92a7317e.mesh", "res://.godot/imported/775_Lumiere.obj-7dfead2a18dd1d22d7d037fe92a7317e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

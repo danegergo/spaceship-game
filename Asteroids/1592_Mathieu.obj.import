@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c0yw1jg8miycm"
+path="res://.godot/imported/1592_Mathieu.obj-31df21d21f467dec6393227afc6adf2a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1592_Mathieu.obj-31df21d21f467dec6393227afc6adf2a.mesh"]
+
+source_file="res://Asteroids/1592_Mathieu.obj"
+dest_files=["res://.godot/imported/1592_Mathieu.obj-31df21d21f467dec6393227afc6adf2a.mesh", "res://.godot/imported/1592_Mathieu.obj-31df21d21f467dec6393227afc6adf2a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

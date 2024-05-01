@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bgnc7riow0sk1"
+path="res://.godot/imported/40478_1999_RT54.obj-3716f55cb26dd43ae9123a0c5c256747.mesh"
+
+[deps]
+
+files=["res://.godot/imported/40478_1999_RT54.obj-3716f55cb26dd43ae9123a0c5c256747.mesh"]
+
+source_file="res://Asteroids/40478_1999_RT54.obj"
+dest_files=["res://.godot/imported/40478_1999_RT54.obj-3716f55cb26dd43ae9123a0c5c256747.mesh", "res://.godot/imported/40478_1999_RT54.obj-3716f55cb26dd43ae9123a0c5c256747.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

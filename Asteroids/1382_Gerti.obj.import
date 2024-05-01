@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chfpj15j8bnkk"
+path="res://.godot/imported/1382_Gerti.obj-ab8263bc18b0e6528d0384c506f7acda.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1382_Gerti.obj-ab8263bc18b0e6528d0384c506f7acda.mesh"]
+
+source_file="res://Asteroids/1382_Gerti.obj"
+dest_files=["res://.godot/imported/1382_Gerti.obj-ab8263bc18b0e6528d0384c506f7acda.mesh", "res://.godot/imported/1382_Gerti.obj-ab8263bc18b0e6528d0384c506f7acda.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

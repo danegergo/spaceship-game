@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cmld030p1jbpw"
+path="res://.godot/imported/272_Antonia.obj-529f26a3ffdc86cc92afca8992bc2a28.mesh"
+
+[deps]
+
+files=["res://.godot/imported/272_Antonia.obj-529f26a3ffdc86cc92afca8992bc2a28.mesh"]
+
+source_file="res://Asteroids/272_Antonia.obj"
+dest_files=["res://.godot/imported/272_Antonia.obj-529f26a3ffdc86cc92afca8992bc2a28.mesh", "res://.godot/imported/272_Antonia.obj-529f26a3ffdc86cc92afca8992bc2a28.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

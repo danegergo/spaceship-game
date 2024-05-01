@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccicy385ctkrs"
+path="res://.godot/imported/573_Recha.obj-186d2a6022bdf6c92aaff1ac875935cf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/573_Recha.obj-186d2a6022bdf6c92aaff1ac875935cf.mesh"]
+
+source_file="res://Asteroids/573_Recha.obj"
+dest_files=["res://.godot/imported/573_Recha.obj-186d2a6022bdf6c92aaff1ac875935cf.mesh", "res://.godot/imported/573_Recha.obj-186d2a6022bdf6c92aaff1ac875935cf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

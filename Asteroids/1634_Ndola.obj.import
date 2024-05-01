@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b52os8b7ltgl6"
+path="res://.godot/imported/1634_Ndola.obj-200a216fef7c907358d550f66a928def.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1634_Ndola.obj-200a216fef7c907358d550f66a928def.mesh"]
+
+source_file="res://Asteroids/1634_Ndola.obj"
+dest_files=["res://.godot/imported/1634_Ndola.obj-200a216fef7c907358d550f66a928def.mesh", "res://.godot/imported/1634_Ndola.obj-200a216fef7c907358d550f66a928def.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

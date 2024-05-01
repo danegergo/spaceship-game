@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cwp7cwdignhw1"
+path="res://.godot/imported/2700_Baikonur.obj-78bf37392f2a2ed75c36d45b3db62581.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2700_Baikonur.obj-78bf37392f2a2ed75c36d45b3db62581.mesh"]
+
+source_file="res://Asteroids/2700_Baikonur.obj"
+dest_files=["res://.godot/imported/2700_Baikonur.obj-78bf37392f2a2ed75c36d45b3db62581.mesh", "res://.godot/imported/2700_Baikonur.obj-78bf37392f2a2ed75c36d45b3db62581.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

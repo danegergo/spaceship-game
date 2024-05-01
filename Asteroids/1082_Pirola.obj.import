@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cjk4n3bwxhobd"
+path="res://.godot/imported/1082_Pirola.obj-eaf6111a34d4f4945ca2236713d6968c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1082_Pirola.obj-eaf6111a34d4f4945ca2236713d6968c.mesh"]
+
+source_file="res://Asteroids/1082_Pirola.obj"
+dest_files=["res://.godot/imported/1082_Pirola.obj-eaf6111a34d4f4945ca2236713d6968c.mesh", "res://.godot/imported/1082_Pirola.obj-eaf6111a34d4f4945ca2236713d6968c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

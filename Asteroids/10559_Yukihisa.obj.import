@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://by35m6k4dk3ka"
+path="res://.godot/imported/10559_Yukihisa.obj-8b9dc4b41c965fbce2560f40b82c397e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/10559_Yukihisa.obj-8b9dc4b41c965fbce2560f40b82c397e.mesh"]
+
+source_file="res://Asteroids/10559_Yukihisa.obj"
+dest_files=["res://.godot/imported/10559_Yukihisa.obj-8b9dc4b41c965fbce2560f40b82c397e.mesh", "res://.godot/imported/10559_Yukihisa.obj-8b9dc4b41c965fbce2560f40b82c397e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

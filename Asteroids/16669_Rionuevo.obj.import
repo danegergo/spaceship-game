@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://iwlc1p3t4g43"
+path="res://.godot/imported/16669_Rionuevo.obj-48c3d2811eb358c23e3541fa18394ba0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/16669_Rionuevo.obj-48c3d2811eb358c23e3541fa18394ba0.mesh"]
+
+source_file="res://Asteroids/16669_Rionuevo.obj"
+dest_files=["res://.godot/imported/16669_Rionuevo.obj-48c3d2811eb358c23e3541fa18394ba0.mesh", "res://.godot/imported/16669_Rionuevo.obj-48c3d2811eb358c23e3541fa18394ba0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

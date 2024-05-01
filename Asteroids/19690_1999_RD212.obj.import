@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dubaj85qvg3io"
+path="res://.godot/imported/19690_1999_RD212.obj-6f74a1804191a5f24815e3a3405c0aae.mesh"
+
+[deps]
+
+files=["res://.godot/imported/19690_1999_RD212.obj-6f74a1804191a5f24815e3a3405c0aae.mesh"]
+
+source_file="res://Asteroids/19690_1999_RD212.obj"
+dest_files=["res://.godot/imported/19690_1999_RD212.obj-6f74a1804191a5f24815e3a3405c0aae.mesh", "res://.godot/imported/19690_1999_RD212.obj-6f74a1804191a5f24815e3a3405c0aae.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

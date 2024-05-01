@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dlxoc012vfvs8"
+path="res://.godot/imported/2985_Shakespeare.obj-919c7866ec3de8c9e96937577dd90652.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2985_Shakespeare.obj-919c7866ec3de8c9e96937577dd90652.mesh"]
+
+source_file="res://Asteroids/2985_Shakespeare.obj"
+dest_files=["res://.godot/imported/2985_Shakespeare.obj-919c7866ec3de8c9e96937577dd90652.mesh", "res://.godot/imported/2985_Shakespeare.obj-919c7866ec3de8c9e96937577dd90652.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

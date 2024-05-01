@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://by517f4qn4pfo"
+path="res://.godot/imported/41_Daphne.obj-cbb7efb8e9810fdd1707ba34741e47de.mesh"
+
+[deps]
+
+files=["res://.godot/imported/41_Daphne.obj-cbb7efb8e9810fdd1707ba34741e47de.mesh"]
+
+source_file="res://Asteroids/41_Daphne.obj"
+dest_files=["res://.godot/imported/41_Daphne.obj-cbb7efb8e9810fdd1707ba34741e47de.mesh", "res://.godot/imported/41_Daphne.obj-cbb7efb8e9810fdd1707ba34741e47de.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

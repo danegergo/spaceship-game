@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://mfnn37j6dp5y"
+path="res://.godot/imported/1388_Aphrodite.obj-025be29443bc9aba2c5c1e7ae662c529.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1388_Aphrodite.obj-025be29443bc9aba2c5c1e7ae662c529.mesh"]
+
+source_file="res://Asteroids/1388_Aphrodite.obj"
+dest_files=["res://.godot/imported/1388_Aphrodite.obj-025be29443bc9aba2c5c1e7ae662c529.mesh", "res://.godot/imported/1388_Aphrodite.obj-025be29443bc9aba2c5c1e7ae662c529.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

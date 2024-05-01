@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6xbqsa7fnptb"
+path="res://.godot/imported/193_Ambrosia.obj-391dda12cfaa0dcdc59a4c44dd4eaa29.mesh"
+
+[deps]
+
+files=["res://.godot/imported/193_Ambrosia.obj-391dda12cfaa0dcdc59a4c44dd4eaa29.mesh"]
+
+source_file="res://Asteroids/193_Ambrosia.obj"
+dest_files=["res://.godot/imported/193_Ambrosia.obj-391dda12cfaa0dcdc59a4c44dd4eaa29.mesh", "res://.godot/imported/193_Ambrosia.obj-391dda12cfaa0dcdc59a4c44dd4eaa29.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

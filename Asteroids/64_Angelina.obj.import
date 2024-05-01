@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c0e3bjmd6m5un"
+path="res://.godot/imported/64_Angelina.obj-e3fc47921c0e9783994c5f2d71b4b5d1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/64_Angelina.obj-e3fc47921c0e9783994c5f2d71b4b5d1.mesh"]
+
+source_file="res://Asteroids/64_Angelina.obj"
+dest_files=["res://.godot/imported/64_Angelina.obj-e3fc47921c0e9783994c5f2d71b4b5d1.mesh", "res://.godot/imported/64_Angelina.obj-e3fc47921c0e9783994c5f2d71b4b5d1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

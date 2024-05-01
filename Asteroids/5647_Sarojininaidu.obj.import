@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqlc0xbso1hqm"
+path="res://.godot/imported/5647_Sarojininaidu.obj-9a33bc7ceab8f5921a677a4158b1610a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/5647_Sarojininaidu.obj-9a33bc7ceab8f5921a677a4158b1610a.mesh"]
+
+source_file="res://Asteroids/5647_Sarojininaidu.obj"
+dest_files=["res://.godot/imported/5647_Sarojininaidu.obj-9a33bc7ceab8f5921a677a4158b1610a.mesh", "res://.godot/imported/5647_Sarojininaidu.obj-9a33bc7ceab8f5921a677a4158b1610a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

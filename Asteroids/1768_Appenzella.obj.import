@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://j15oqx1xmeo4"
+path="res://.godot/imported/1768_Appenzella.obj-e8b6e5057b8bbdcfd3eb2ce4a2227548.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1768_Appenzella.obj-e8b6e5057b8bbdcfd3eb2ce4a2227548.mesh"]
+
+source_file="res://Asteroids/1768_Appenzella.obj"
+dest_files=["res://.godot/imported/1768_Appenzella.obj-e8b6e5057b8bbdcfd3eb2ce4a2227548.mesh", "res://.godot/imported/1768_Appenzella.obj-e8b6e5057b8bbdcfd3eb2ce4a2227548.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

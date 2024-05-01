@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://g56dyy4s3pfv"
+path="res://.godot/imported/3668_Ilfpetrov.obj-0d4fc430623ea677be15b39dd77b56d9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3668_Ilfpetrov.obj-0d4fc430623ea677be15b39dd77b56d9.mesh"]
+
+source_file="res://Asteroids/3668_Ilfpetrov.obj"
+dest_files=["res://.godot/imported/3668_Ilfpetrov.obj-0d4fc430623ea677be15b39dd77b56d9.mesh", "res://.godot/imported/3668_Ilfpetrov.obj-0d4fc430623ea677be15b39dd77b56d9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

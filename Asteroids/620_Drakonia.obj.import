@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bc30bltg02v3v"
+path="res://.godot/imported/620_Drakonia.obj-7c754ee4b1f671593e1f834f9017060b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/620_Drakonia.obj-7c754ee4b1f671593e1f834f9017060b.mesh"]
+
+source_file="res://Asteroids/620_Drakonia.obj"
+dest_files=["res://.godot/imported/620_Drakonia.obj-7c754ee4b1f671593e1f834f9017060b.mesh", "res://.godot/imported/620_Drakonia.obj-7c754ee4b1f671593e1f834f9017060b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

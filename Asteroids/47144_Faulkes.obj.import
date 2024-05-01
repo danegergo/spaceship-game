@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cjdkvb6bmhjma"
+path="res://.godot/imported/47144_Faulkes.obj-2ff07a79808d60a7a635716e0526962d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/47144_Faulkes.obj-2ff07a79808d60a7a635716e0526962d.mesh"]
+
+source_file="res://Asteroids/47144_Faulkes.obj"
+dest_files=["res://.godot/imported/47144_Faulkes.obj-2ff07a79808d60a7a635716e0526962d.mesh", "res://.godot/imported/47144_Faulkes.obj-2ff07a79808d60a7a635716e0526962d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

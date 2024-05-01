@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccwyx1gis7v13"
+path="res://.godot/imported/212_Medea.obj-6eebddb6e9aff51bef6668aefc6f7740.mesh"
+
+[deps]
+
+files=["res://.godot/imported/212_Medea.obj-6eebddb6e9aff51bef6668aefc6f7740.mesh"]
+
+source_file="res://Asteroids/212_Medea.obj"
+dest_files=["res://.godot/imported/212_Medea.obj-6eebddb6e9aff51bef6668aefc6f7740.mesh", "res://.godot/imported/212_Medea.obj-6eebddb6e9aff51bef6668aefc6f7740.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dg5tgrp46ipwl"
+path="res://.godot/imported/56_Melete.obj-9fbd43043f444df2bdb136837be6772c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/56_Melete.obj-9fbd43043f444df2bdb136837be6772c.mesh"]
+
+source_file="res://Asteroids/56_Melete.obj"
+dest_files=["res://.godot/imported/56_Melete.obj-9fbd43043f444df2bdb136837be6772c.mesh", "res://.godot/imported/56_Melete.obj-9fbd43043f444df2bdb136837be6772c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

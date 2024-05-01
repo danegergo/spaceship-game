@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c7xrlitw5byr6"
+path="res://.godot/imported/130_Elektra.obj-e3003217a5e913fe2fbd33955b98e75d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/130_Elektra.obj-e3003217a5e913fe2fbd33955b98e75d.mesh"]
+
+source_file="res://Asteroids/130_Elektra.obj"
+dest_files=["res://.godot/imported/130_Elektra.obj-e3003217a5e913fe2fbd33955b98e75d.mesh", "res://.godot/imported/130_Elektra.obj-e3003217a5e913fe2fbd33955b98e75d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

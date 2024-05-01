@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://by54kbhhswba8"
+path="res://.godot/imported/9542_Eryan.obj-2e7b3fed444adf1a433aa67c29182abf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/9542_Eryan.obj-2e7b3fed444adf1a433aa67c29182abf.mesh"]
+
+source_file="res://Asteroids/9542_Eryan.obj"
+dest_files=["res://.godot/imported/9542_Eryan.obj-2e7b3fed444adf1a433aa67c29182abf.mesh", "res://.godot/imported/9542_Eryan.obj-2e7b3fed444adf1a433aa67c29182abf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

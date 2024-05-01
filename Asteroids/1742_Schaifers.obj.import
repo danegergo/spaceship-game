@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bd243wdk8mcte"
+path="res://.godot/imported/1742_Schaifers.obj-f65628181f65b3104089a98fbdb4f98d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1742_Schaifers.obj-f65628181f65b3104089a98fbdb4f98d.mesh"]
+
+source_file="res://Asteroids/1742_Schaifers.obj"
+dest_files=["res://.godot/imported/1742_Schaifers.obj-f65628181f65b3104089a98fbdb4f98d.mesh", "res://.godot/imported/1742_Schaifers.obj-f65628181f65b3104089a98fbdb4f98d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

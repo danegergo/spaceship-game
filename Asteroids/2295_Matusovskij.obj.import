@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dabq34hrq6jk3"
+path="res://.godot/imported/2295_Matusovskij.obj-589ff9330176029bc16c48a990101a22.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2295_Matusovskij.obj-589ff9330176029bc16c48a990101a22.mesh"]
+
+source_file="res://Asteroids/2295_Matusovskij.obj"
+dest_files=["res://.godot/imported/2295_Matusovskij.obj-589ff9330176029bc16c48a990101a22.mesh", "res://.godot/imported/2295_Matusovskij.obj-589ff9330176029bc16c48a990101a22.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

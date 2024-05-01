@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://his2j1d4uhlh"
+path="res://.godot/imported/1580_Betulia.obj-29a7a9906d61838bc4b3f4c4327b85d1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1580_Betulia.obj-29a7a9906d61838bc4b3f4c4327b85d1.mesh"]
+
+source_file="res://Asteroids/1580_Betulia.obj"
+dest_files=["res://.godot/imported/1580_Betulia.obj-29a7a9906d61838bc4b3f4c4327b85d1.mesh", "res://.godot/imported/1580_Betulia.obj-29a7a9906d61838bc4b3f4c4327b85d1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

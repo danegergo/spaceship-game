@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bwqa5pf6jqanp"
+path="res://.godot/imported/1933_Tinchen.obj-e734b0de564f26e98778c90df595c959.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1933_Tinchen.obj-e734b0de564f26e98778c90df595c959.mesh"]
+
+source_file="res://Asteroids/1933_Tinchen.obj"
+dest_files=["res://.godot/imported/1933_Tinchen.obj-e734b0de564f26e98778c90df595c959.mesh", "res://.godot/imported/1933_Tinchen.obj-e734b0de564f26e98778c90df595c959.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

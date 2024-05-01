@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dnmy7wv5u5065"
+path="res://.godot/imported/14031_Rozyo.obj-416ef1f0816585c92945817403c8ef8b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/14031_Rozyo.obj-416ef1f0816585c92945817403c8ef8b.mesh"]
+
+source_file="res://Asteroids/14031_Rozyo.obj"
+dest_files=["res://.godot/imported/14031_Rozyo.obj-416ef1f0816585c92945817403c8ef8b.mesh", "res://.godot/imported/14031_Rozyo.obj-416ef1f0816585c92945817403c8ef8b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

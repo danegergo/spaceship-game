@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cjiilsahu0gb7"
+path="res://.godot/imported/497_Iva.obj-31ac8adf29da5f28a7b9dc3a4587710c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/497_Iva.obj-31ac8adf29da5f28a7b9dc3a4587710c.mesh"]
+
+source_file="res://Asteroids/497_Iva.obj"
+dest_files=["res://.godot/imported/497_Iva.obj-31ac8adf29da5f28a7b9dc3a4587710c.mesh", "res://.godot/imported/497_Iva.obj-31ac8adf29da5f28a7b9dc3a4587710c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

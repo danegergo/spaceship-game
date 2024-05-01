@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dv5xc2fjtt7yx"
+path="res://.godot/imported/12220_Semenchur.obj-15906d46a05b2f7a606e75ee0cc67f02.mesh"
+
+[deps]
+
+files=["res://.godot/imported/12220_Semenchur.obj-15906d46a05b2f7a606e75ee0cc67f02.mesh"]
+
+source_file="res://Asteroids/12220_Semenchur.obj"
+dest_files=["res://.godot/imported/12220_Semenchur.obj-15906d46a05b2f7a606e75ee0cc67f02.mesh", "res://.godot/imported/12220_Semenchur.obj-15906d46a05b2f7a606e75ee0cc67f02.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

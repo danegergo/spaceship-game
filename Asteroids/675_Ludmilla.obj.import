@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cmjcwseby1jgj"
+path="res://.godot/imported/675_Ludmilla.obj-8cd207c42ea23cc1fde3c3cd00edfd2d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/675_Ludmilla.obj-8cd207c42ea23cc1fde3c3cd00edfd2d.mesh"]
+
+source_file="res://Asteroids/675_Ludmilla.obj"
+dest_files=["res://.godot/imported/675_Ludmilla.obj-8cd207c42ea23cc1fde3c3cd00edfd2d.mesh", "res://.godot/imported/675_Ludmilla.obj-8cd207c42ea23cc1fde3c3cd00edfd2d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

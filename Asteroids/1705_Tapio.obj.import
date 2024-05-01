@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dxkno5d00gan8"
+path="res://.godot/imported/1705_Tapio.obj-6195b7519087c44f3b3c35b9d93cfbba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1705_Tapio.obj-6195b7519087c44f3b3c35b9d93cfbba.mesh"]
+
+source_file="res://Asteroids/1705_Tapio.obj"
+dest_files=["res://.godot/imported/1705_Tapio.obj-6195b7519087c44f3b3c35b9d93cfbba.mesh", "res://.godot/imported/1705_Tapio.obj-6195b7519087c44f3b3c35b9d93cfbba.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

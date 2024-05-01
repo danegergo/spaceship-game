@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bs66yvch76r1"
+path="res://.godot/imported/800_Kressmannia.obj-ea51a8b5322d8b652ef42cfa0674ceeb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/800_Kressmannia.obj-ea51a8b5322d8b652ef42cfa0674ceeb.mesh"]
+
+source_file="res://Asteroids/800_Kressmannia.obj"
+dest_files=["res://.godot/imported/800_Kressmannia.obj-ea51a8b5322d8b652ef42cfa0674ceeb.mesh", "res://.godot/imported/800_Kressmannia.obj-ea51a8b5322d8b652ef42cfa0674ceeb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

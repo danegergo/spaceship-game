@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dbiq77g4imy0s"
+path="res://.godot/imported/1424_Sundmania.obj-0599688fa24a56673f3db960250aefcb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1424_Sundmania.obj-0599688fa24a56673f3db960250aefcb.mesh"]
+
+source_file="res://Asteroids/1424_Sundmania.obj"
+dest_files=["res://.godot/imported/1424_Sundmania.obj-0599688fa24a56673f3db960250aefcb.mesh", "res://.godot/imported/1424_Sundmania.obj-0599688fa24a56673f3db960250aefcb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

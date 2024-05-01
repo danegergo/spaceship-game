@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cs4lb5we0oc1y"
+path="res://.godot/imported/10281_Libourel.obj-d5ddf2b04990bb918616f4bcf0a5143c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/10281_Libourel.obj-d5ddf2b04990bb918616f4bcf0a5143c.mesh"]
+
+source_file="res://Asteroids/10281_Libourel.obj"
+dest_files=["res://.godot/imported/10281_Libourel.obj-d5ddf2b04990bb918616f4bcf0a5143c.mesh", "res://.godot/imported/10281_Libourel.obj-d5ddf2b04990bb918616f4bcf0a5143c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

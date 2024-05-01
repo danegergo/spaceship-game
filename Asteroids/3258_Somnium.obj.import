@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cx8fi3tvskwsm"
+path="res://.godot/imported/3258_Somnium.obj-c3b58e22816663b1209a136759f75d82.mesh"
+
+[deps]
+
+files=["res://.godot/imported/3258_Somnium.obj-c3b58e22816663b1209a136759f75d82.mesh"]
+
+source_file="res://Asteroids/3258_Somnium.obj"
+dest_files=["res://.godot/imported/3258_Somnium.obj-c3b58e22816663b1209a136759f75d82.mesh", "res://.godot/imported/3258_Somnium.obj-c3b58e22816663b1209a136759f75d82.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

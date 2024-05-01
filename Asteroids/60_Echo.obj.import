@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bk6gsto5lgs6f"
+path="res://.godot/imported/60_Echo.obj-e355d8f20d8a388cb92e9d4d7e3f3dcc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/60_Echo.obj-e355d8f20d8a388cb92e9d4d7e3f3dcc.mesh"]
+
+source_file="res://Asteroids/60_Echo.obj"
+dest_files=["res://.godot/imported/60_Echo.obj-e355d8f20d8a388cb92e9d4d7e3f3dcc.mesh", "res://.godot/imported/60_Echo.obj-e355d8f20d8a388cb92e9d4d7e3f3dcc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

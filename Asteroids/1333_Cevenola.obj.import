@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://1egdi0ajk7ob"
+path="res://.godot/imported/1333_Cevenola.obj-a384bd6a52cd1ef9b138344f73ddce31.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1333_Cevenola.obj-a384bd6a52cd1ef9b138344f73ddce31.mesh"]
+
+source_file="res://Asteroids/1333_Cevenola.obj"
+dest_files=["res://.godot/imported/1333_Cevenola.obj-a384bd6a52cd1ef9b138344f73ddce31.mesh", "res://.godot/imported/1333_Cevenola.obj-a384bd6a52cd1ef9b138344f73ddce31.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

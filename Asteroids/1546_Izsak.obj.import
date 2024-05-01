@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cspt3u8lhsrdm"
+path="res://.godot/imported/1546_Izsak.obj-52a4ec6781c68e84e1e343d03a99a2e7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1546_Izsak.obj-52a4ec6781c68e84e1e343d03a99a2e7.mesh"]
+
+source_file="res://Asteroids/1546_Izsak.obj"
+dest_files=["res://.godot/imported/1546_Izsak.obj-52a4ec6781c68e84e1e343d03a99a2e7.mesh", "res://.godot/imported/1546_Izsak.obj-52a4ec6781c68e84e1e343d03a99a2e7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

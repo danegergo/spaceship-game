@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhhoag6ojqd27"
+path="res://.godot/imported/33412_Arjunsubra.obj-a6794df22aa4fb973eff6ebd18e40532.mesh"
+
+[deps]
+
+files=["res://.godot/imported/33412_Arjunsubra.obj-a6794df22aa4fb973eff6ebd18e40532.mesh"]
+
+source_file="res://Asteroids/33412_Arjunsubra.obj"
+dest_files=["res://.godot/imported/33412_Arjunsubra.obj-a6794df22aa4fb973eff6ebd18e40532.mesh", "res://.godot/imported/33412_Arjunsubra.obj-a6794df22aa4fb973eff6ebd18e40532.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6lfhvcpjxace"
+path="res://.godot/imported/1263_Varsavia.obj-15b14ddcbc4bbfd837fb16052c7ddd39.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1263_Varsavia.obj-15b14ddcbc4bbfd837fb16052c7ddd39.mesh"]
+
+source_file="res://Asteroids/1263_Varsavia.obj"
+dest_files=["res://.godot/imported/1263_Varsavia.obj-15b14ddcbc4bbfd837fb16052c7ddd39.mesh", "res://.godot/imported/1263_Varsavia.obj-15b14ddcbc4bbfd837fb16052c7ddd39.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

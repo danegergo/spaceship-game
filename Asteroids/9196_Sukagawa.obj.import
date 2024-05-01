@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://by5imyltws7vb"
+path="res://.godot/imported/9196_Sukagawa.obj-688d10a78e09109645197c82d469e409.mesh"
+
+[deps]
+
+files=["res://.godot/imported/9196_Sukagawa.obj-688d10a78e09109645197c82d469e409.mesh"]
+
+source_file="res://Asteroids/9196_Sukagawa.obj"
+dest_files=["res://.godot/imported/9196_Sukagawa.obj-688d10a78e09109645197c82d469e409.mesh", "res://.godot/imported/9196_Sukagawa.obj-688d10a78e09109645197c82d469e409.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

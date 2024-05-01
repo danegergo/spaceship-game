@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://kqm3eo7os5ry"
+path="res://.godot/imported/2957_Tatsuo.obj-8f37d18d7b870871b1c35cc77505f213.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2957_Tatsuo.obj-8f37d18d7b870871b1c35cc77505f213.mesh"]
+
+source_file="res://Asteroids/2957_Tatsuo.obj"
+dest_files=["res://.godot/imported/2957_Tatsuo.obj-8f37d18d7b870871b1c35cc77505f213.mesh", "res://.godot/imported/2957_Tatsuo.obj-8f37d18d7b870871b1c35cc77505f213.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

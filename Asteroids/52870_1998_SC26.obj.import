@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cbafuf73mljyc"
+path="res://.godot/imported/52870_1998_SC26.obj-dbf43b994bda57226e2b0686ccab8956.mesh"
+
+[deps]
+
+files=["res://.godot/imported/52870_1998_SC26.obj-dbf43b994bda57226e2b0686ccab8956.mesh"]
+
+source_file="res://Asteroids/52870_1998_SC26.obj"
+dest_files=["res://.godot/imported/52870_1998_SC26.obj-dbf43b994bda57226e2b0686ccab8956.mesh", "res://.godot/imported/52870_1998_SC26.obj-dbf43b994bda57226e2b0686ccab8956.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

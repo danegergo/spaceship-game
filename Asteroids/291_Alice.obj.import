@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cq57ryq1c1sun"
+path="res://.godot/imported/291_Alice.obj-5abf4b470510aa7940c83b48e636ed66.mesh"
+
+[deps]
+
+files=["res://.godot/imported/291_Alice.obj-5abf4b470510aa7940c83b48e636ed66.mesh"]
+
+source_file="res://Asteroids/291_Alice.obj"
+dest_files=["res://.godot/imported/291_Alice.obj-5abf4b470510aa7940c83b48e636ed66.mesh", "res://.godot/imported/291_Alice.obj-5abf4b470510aa7940c83b48e636ed66.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

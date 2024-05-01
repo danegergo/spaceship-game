@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c65wtbccc5to4"
+path="res://.godot/imported/32776_Nriag.obj-e632bf9485e6bb9cad4b915326f01fed.mesh"
+
+[deps]
+
+files=["res://.godot/imported/32776_Nriag.obj-e632bf9485e6bb9cad4b915326f01fed.mesh"]
+
+source_file="res://Asteroids/32776_Nriag.obj"
+dest_files=["res://.godot/imported/32776_Nriag.obj-e632bf9485e6bb9cad4b915326f01fed.mesh", "res://.godot/imported/32776_Nriag.obj-e632bf9485e6bb9cad4b915326f01fed.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

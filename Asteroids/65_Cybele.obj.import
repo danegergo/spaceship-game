@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bshje871n6bn0"
+path="res://.godot/imported/65_Cybele.obj-2e05658cdca12613beed51d1c88520ce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/65_Cybele.obj-2e05658cdca12613beed51d1c88520ce.mesh"]
+
+source_file="res://Asteroids/65_Cybele.obj"
+dest_files=["res://.godot/imported/65_Cybele.obj-2e05658cdca12613beed51d1c88520ce.mesh", "res://.godot/imported/65_Cybele.obj-2e05658cdca12613beed51d1c88520ce.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

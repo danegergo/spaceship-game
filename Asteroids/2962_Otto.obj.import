@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://blbt2nit52hbh"
+path="res://.godot/imported/2962_Otto.obj-f92508852581cba87ed59a480ff648e8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2962_Otto.obj-f92508852581cba87ed59a480ff648e8.mesh"]
+
+source_file="res://Asteroids/2962_Otto.obj"
+dest_files=["res://.godot/imported/2962_Otto.obj-f92508852581cba87ed59a480ff648e8.mesh", "res://.godot/imported/2962_Otto.obj-f92508852581cba87ed59a480ff648e8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
