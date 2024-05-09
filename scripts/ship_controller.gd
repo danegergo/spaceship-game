@@ -28,8 +28,19 @@ func _physics_process(delta):
 		velocity.x = move_toward(velocity.x, 0, XY_SPEED)
 		velocity.y = move_toward(velocity.y, 0, XY_SPEED)
 		velocity.z = move_toward(velocity.z, 0, forward_speed)
+		
+	tilt_ship()
 
 	if forward_speed < max_speed:
 		forward_speed += forward_speed_increment
 	
 	move_and_slide()
+	
+func tilt_ship():
+	if !first_person_camera.current:
+		if velocity.x < 0:
+			rotation.z = deg_to_rad(30)
+		elif velocity.x > 0:
+			rotation.z = deg_to_rad(-30)
+		else:
+			rotation.z = 0

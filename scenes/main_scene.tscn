@@ -18,6 +18,8 @@ sky = SubResource("Sky_7p2qo")
 
 [node name="Player" parent="." instance=ExtResource("2_kmaxy")]
 unique_name_in_owner = true
+forward_speed_increment = 1.0
+max_speed = 2200
 
 [node name="Skybox" type="WorldEnvironment" parent="."]
 environment = SubResource("Environment_mv8gi")

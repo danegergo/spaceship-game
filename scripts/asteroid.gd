@@ -12,7 +12,6 @@ func _ready():
 
 func _process(delta):
 	if player and (position.z <= player.position.z - DESTROY_DISTANCE):
-		print('asd')
 		queue_free()
 
 func set_mesh_and_collider(new_mesh: ArrayMesh):
