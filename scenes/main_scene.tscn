@@ -1,7 +1,6 @@
-[gd_scene load_steps=8 format=3 uid="uid://cdqrvyax3d1mr"]
+[gd_scene load_steps=7 format=3 uid="uid://cdqrvyax3d1mr"]
 
-[ext_resource type="PackedScene" uid="uid://0k8gadwxcbtv" path="res://assets/spaceship/space_fighter.glb" id="1_c8rd4"]
-[ext_resource type="Script" path="res://scripts/game_controller.gd" id="1_iqhj3"]
+[ext_resource type="Script" path="res://scripts/game_manager.gd" id="1_iqhj3"]
 [ext_resource type="PackedScene" uid="uid://bgthjj5j82xsc" path="res://scenes/player.tscn" id="2_kmaxy"]
 [ext_resource type="Texture2D" uid="uid://06b1r3bxgvll" path="res://assets/skybox/panorama_image.png" id="3_l0mfr"]
 
@@ -16,15 +15,9 @@ background_mode = 2
 sky = SubResource("Sky_7p2qo")
 
 [node name="Node3D" type="Node3D"]
-script = ExtResource("1_iqhj3")
-asteroid_per_frame = 6
-asteroid_spawn_dist_z = 10000
-max_asteroid_spawn_dist_xy = 2265
-
-[node name="Sketchfab_Scene" parent="." instance=ExtResource("1_c8rd4")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 27.222, 7.68295, 548.811)
 
 [node name="Player" parent="." instance=ExtResource("2_kmaxy")]
+unique_name_in_owner = true
 
 [node name="Skybox" type="WorldEnvironment" parent="."]
 environment = SubResource("Environment_mv8gi")
@@ -32,3 +25,10 @@ environment = SubResource("Environment_mv8gi")
 [node name="DirectionalLight3D (Sun)" type="DirectionalLight3D" parent="."]
 transform = Transform3D(0.752271, -0.33418, -0.567814, 0.0185778, -0.850719, 0.525293, -0.658592, -0.405711, -0.633762, -2997.23, 2273.27, -3108.46)
 shadow_enabled = true
+
+[node name="GameManager" type="Node" parent="."]
+script = ExtResource("1_iqhj3")
+asteroid_per_frame = 4
+asteroid_spawn_dist_z = 10000
+max_asteroid_spawn_dist_xy = 7500
+min_asteroid_size = 2.0
