@@ -12,8 +12,16 @@ const XY_SPEED = 1000
 
 var forward_speed = 100.0
 
+@onready var third_person_camera: ThirdPersonCamera = $ThirdPersonCamera
+@onready var first_person_camera: Camera3D = $FirstPersonCamera
+
 @export_range(0.0, 3.0) var forward_speed_increment := 0.5
 @export var max_speed := 600
+
+func _process(delta):
+	if Input.is_action_just_pressed(\"switch_camera\"):
+		first_person_camera.current = !first_person_camera.current
+		third_person_camera.current = !third_person_camera.current
 
 func _physics_process(delta):
 	var input_dir = Input.get_vector(\"move_right\", \"move_left\", \"move_down\", \"move_up\")
@@ -54,4 +62,8 @@ distance_from_pivot = 8.0
 z_camera_speed = 0.13
 current = true
 spring_arm_collision_mask = 277
+far = 20000.0
+
+[node name="FirstPersonCamera" type="Camera3D" parent="."]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 3.64531, 12.5253)
 far = 20000.0
