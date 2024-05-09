@@ -8,7 +8,7 @@ const DESTROY_DISTANCE = 250
 var player: CharacterBody3D
 
 func _ready():
-	player = get_parent().get_node("Player")
+	player = get_parent().get_node("Player").get_node("CharacterBody3D")
 
 func _process(delta):
 	if player and (position.z <= player.position.z - DESTROY_DISTANCE):

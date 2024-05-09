@@ -18,8 +18,6 @@ sky = SubResource("Sky_7p2qo")
 
 [node name="Player" parent="." instance=ExtResource("2_kmaxy")]
 unique_name_in_owner = true
-forward_speed_increment = 1.0
-max_speed = 2200
 
 [node name="Skybox" type="WorldEnvironment" parent="."]
 environment = SubResource("Environment_mv8gi")
@@ -30,7 +28,7 @@ shadow_enabled = true
 
 [node name="GameManager" type="Node" parent="."]
 script = ExtResource("1_iqhj3")
-asteroid_per_frame = 4
+asteroid_per_frame = 8
 asteroid_spawn_dist_z = 10000
 max_asteroid_spawn_dist_xy = 7500
 min_asteroid_size = 2.0

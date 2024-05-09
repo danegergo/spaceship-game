@@ -7,7 +7,7 @@ const ASTEROIDS_DIR = "res://assets/asteroids"
 @export_range(200, 20000) var max_asteroid_spawn_dist_xy := 500
 @export var min_asteroid_size := 1.5
 
-@onready var player: CharacterBody3D = %Player
+@onready var player: CharacterBody3D = %Player.get_node("CharacterBody3D")
 @onready var scene: Node3D = $".."
 
 var ASTEROID = preload("res://scenes/asteroid.tscn")
