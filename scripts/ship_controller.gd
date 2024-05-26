@@ -33,7 +33,6 @@ func _physics_process(delta):
 	input_dir = Input.get_vector("move_right", "move_left", "move_down", "move_up")
 	var direction = (transform.basis * Vector3(input_dir.x, input_dir.y, 0)).normalized()
 	
-	print(direction.y)
 	if direction:
 		velocity.x = direction.x * XY_SPEED
 		velocity.y = direction.y * XY_SPEED
