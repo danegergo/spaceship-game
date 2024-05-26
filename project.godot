@@ -48,4 +48,5 @@ switch_camera={
 
 [rendering]
 
+renderer/rendering_method.mobile="forward_plus"
 anti_aliasing/quality/use_taa=true
