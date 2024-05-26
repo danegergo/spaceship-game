@@ -31,16 +31,16 @@ func _process(delta):
 
 func _physics_process(delta):
 	input_dir = Input.get_vector("move_right", "move_left", "move_down", "move_up")
-	var direction = (transform.basis * Vector3(input_dir.x, input_dir.y, 1)).normalized()
+	var direction = (transform.basis * Vector3(input_dir.x, input_dir.y, 0)).normalized()
 	
+	print(direction.y)
 	if direction:
 		velocity.x = direction.x * XY_SPEED
 		velocity.y = direction.y * XY_SPEED
-		velocity.z = direction.z * forward_speed
 	else:
 		velocity.x = move_toward(velocity.x, 0, XY_SPEED)
 		velocity.y = move_toward(velocity.y, 0, XY_SPEED)
-		velocity.z = move_toward(velocity.z, 0, forward_speed)
+	velocity.z = forward_speed
 		
 	tilt_ship(input_dir)
 	move_and_slide()

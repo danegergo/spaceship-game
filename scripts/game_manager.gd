@@ -11,6 +11,8 @@ const ASTEROID_SCENE = preload("res://scenes/asteroid.tscn")
 @onready var player: CharacterBody3D = %Player
 @onready var scene: Node3D = $".."
 @onready var game_over_screen: Control = %GameOverScreen
+@onready var score_label: Label = %Score
+@onready var speed_label: Label = %Speed
 
 var asteroid_meshes: Array[ArrayMesh] = []
 var threads: Array[Thread] = []
@@ -39,6 +41,9 @@ func _ready():
 func _process(delta):
 	for i in asteroid_per_frame:
 		spawn_new_asteroid()
+	score_label.text = "Distance: " + String.num(player.position.z / 100, 0)
+	speed_label.text = "Speed: " + String.num(player.velocity.z / 100, 2)
+	
 		
 func load_meshes_thread(start_index, end_index):
 	for i in range(start_index, end_index):

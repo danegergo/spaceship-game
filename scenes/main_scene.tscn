@@ -1,4 +1,4 @@
-[gd_scene load_steps=8 format=3 uid="uid://cdqrvyax3d1mr"]
+[gd_scene load_steps=10 format=3 uid="uid://cdqrvyax3d1mr"]
 
 [ext_resource type="Script" path="res://scripts/game_manager.gd" id="1_iqhj3"]
 [ext_resource type="PackedScene" uid="uid://bgthjj5j82xsc" path="res://scenes/player.tscn" id="2_kmaxy"]
@@ -19,9 +19,20 @@ font_size = 82
 outline_size = 7
 outline_color = Color(0, 0, 0, 1)
 
-[node name="Node3D" type="Node3D"]
+[sub_resource type="LabelSettings" id="LabelSettings_hu8g3"]
+font_size = 28
+outline_size = 7
+outline_color = Color(0, 0, 0, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_67sc6"]
+font_size = 28
+outline_size = 7
+outline_color = Color(0, 0, 0, 1)
+
+[node name="MainScene" type="Node3D"]
 
 [node name="Player" parent="." instance=ExtResource("2_kmaxy")]
+max_speed = 3500
 
 [node name="Skybox" type="WorldEnvironment" parent="."]
 environment = SubResource("Environment_mv8gi")
@@ -83,6 +94,24 @@ offset_right = -0.142029
 offset_bottom = 0.154968
 theme_override_font_sizes/font_size = 30
 text = "Restart"
+
+[node name="UI" type="Node" parent="."]
+
+[node name="Score" type="Label" parent="UI"]
+unique_name_in_owner = true
+offset_left = 24.0
+offset_top = 22.0
+offset_right = 64.0
+offset_bottom = 64.0
+label_settings = SubResource("LabelSettings_hu8g3")
+
+[node name="Speed" type="Label" parent="UI"]
+unique_name_in_owner = true
+offset_left = 24.0
+offset_top = 69.0
+offset_right = 64.0
+offset_bottom = 111.0
+label_settings = SubResource("LabelSettings_67sc6")
 
 [connection signal="body_entered" from="Player" to="GameManager" method="_on_player_collision"]
 [connection signal="pressed" from="GameOverScreen/Button" to="GameManager" method="_on_game_over_pressed"]
