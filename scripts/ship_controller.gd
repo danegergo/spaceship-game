@@ -3,15 +3,18 @@ extends CharacterBody3D
 
 const XY_SPEED = 1000
 const CAMERA_TURN_SPEED = 0.03
+const MAX_TURN_DEGREE = 25
 
 @export_range(0.0, 3.0) var forward_speed_increment := 0.5
 @export var max_speed := 600
 
-@onready var third_person_camera: Camera3D = $"../ThirdPersonCamera"
+@onready var third_person_camera: Camera3D = $ThirdPersonCamera
 @onready var first_person_camera: Camera3D = $FirstPersonCamera
 
 var forward_speed = 100.0
 var input_dir
+
+signal body_entered(body: Node)
 
 func _process(delta):
 	if Input.is_action_just_pressed("switch_camera"):
@@ -20,6 +23,11 @@ func _process(delta):
 			third_person_camera.make_current()
 		else:
 			first_person_camera.make_current()
+			
+	var collision: KinematicCollision3D = get_last_slide_collision()
+	if (collision):
+		body_entered.emit(collision.get_collider())
+			
 
 func _physics_process(delta):
 	input_dir = Input.get_vector("move_right", "move_left", "move_down", "move_up")
@@ -35,16 +43,15 @@ func _physics_process(delta):
 		velocity.z = move_toward(velocity.z, 0, forward_speed)
 		
 	tilt_ship(input_dir)
-
+	move_and_slide()
+	
 	if forward_speed < max_speed:
 		forward_speed += forward_speed_increment
 	
-	move_and_slide()
-	
 func tilt_ship(input_dir: Vector2):
 	if input_dir.x < 0:
-		rotation = rotation.lerp(Vector3(rotation.x, rotation.y, deg_to_rad(30)), CAMERA_TURN_SPEED)
+		rotation = rotation.lerp(Vector3(rotation.x, rotation.y, deg_to_rad(MAX_TURN_DEGREE)), CAMERA_TURN_SPEED)
 	elif input_dir.x > 0:
-		rotation = rotation.lerp(Vector3(rotation.x, rotation.y, deg_to_rad(-30)), CAMERA_TURN_SPEED)
+		rotation = rotation.lerp(Vector3(rotation.x, rotation.y, deg_to_rad(-MAX_TURN_DEGREE)), CAMERA_TURN_SPEED)
 	else:
 		rotation = rotation.lerp(Vector3(rotation.x, rotation.y, deg_to_rad(0)), CAMERA_TURN_SPEED)

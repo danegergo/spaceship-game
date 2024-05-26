@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://dd82nolnufgcj"]
+
+[ext_resource type="Script" path="res://scripts/game_manager.gd" id="1_scyaa"]
+
+[node name="GameManager" type="Node"]
+script = ExtResource("1_scyaa")
+asteroid_per_frame = 8
+asteroid_spawn_dist_z = 10000
+max_asteroid_spawn_dist_xy = 7500
+min_asteroid_size = 2.0

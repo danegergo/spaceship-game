@@ -39,7 +39,6 @@ min_asteroid_size = 2.0
 
 [node name="GameOverScreen" type="Control" parent="."]
 unique_name_in_owner = true
-process_mode = 3
 visible = false
 layout_mode = 3
 anchor_left = 0.502

@@ -4,11 +4,10 @@ const DESTROY_DISTANCE = 250
 
 @onready var collider = $CollisionShape3D
 @onready var meshInstance = $MeshInstance3D
-
-var player: CharacterBody3D
+var player: Player
 
 func _ready():
-	player = get_parent().get_node("Player").get_node("CharacterBody3D")
+	player = get_parent().get_node("Player")
 
 func _process(delta):
 	if player and (position.z <= player.position.z - DESTROY_DISTANCE):

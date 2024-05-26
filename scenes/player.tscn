@@ -8,22 +8,20 @@
 radius = 9.42555
 height = 29.4809
 
-[node name="Player" type="Node3D"]
-
-[node name="CharacterBody3D" type="CharacterBody3D" parent="."]
+[node name="Player" type="CharacterBody3D"]
 unique_name_in_owner = true
 motion_mode = 1
 script = ExtResource("1_15oe4")
 forward_speed_increment = 2.353
 max_speed = 2000
 
-[node name="CollisionShape3D" type="CollisionShape3D" parent="CharacterBody3D"]
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
 transform = Transform3D(0.999865, -0.0117446, -0.0115794, 0.0117446, 0.0141018, 0.999832, -0.0115794, -0.999832, 0.0142379, 0.0557486, 0, 4.74593)
 shape = SubResource("CapsuleShape3D_s1eij")
 
-[node name="SpaceshipModel" parent="CharacterBody3D" instance=ExtResource("1_usne6")]
+[node name="SpaceshipModel" parent="." instance=ExtResource("1_usne6")]
 
-[node name="FirstPersonCamera" type="Camera3D" parent="CharacterBody3D"]
+[node name="FirstPersonCamera" type="Camera3D" parent="."]
 transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 3.64531, 12.5253)
 far = 20000.0
 

@@ -8,8 +8,9 @@ const ASTEROID_SCENE = preload("res://scenes/asteroid.tscn")
 @export_range(200, 20000) var max_asteroid_spawn_dist_xy := 500
 @export var min_asteroid_size := 1.5
 
-@onready var player: CharacterBody3D = %Player.get_node("CharacterBody3D")
+@onready var player: CharacterBody3D = %Player
 @onready var scene: Node3D = $".."
+@onready var game_over_screen: Control = %GameOverScreen
 
 var asteroid_meshes: Array[ArrayMesh] = []
 var threads: Array[Thread] = []
@@ -51,8 +52,14 @@ func spawn_new_asteroid():
 	var asteroid_distance_pos_x = randi_range(player.position.x - max_asteroid_spawn_dist_xy, player.position.x + max_asteroid_spawn_dist_xy)
 	var asteroid_distance_pos_y = randi_range(player.position.y - max_asteroid_spawn_dist_xy, player.position.y + max_asteroid_spawn_dist_xy)
 	new_asteroid.position = Vector3(asteroid_distance_pos_x, asteroid_distance_pos_y, player.position.z + asteroid_spawn_dist_z)
+	
 	scene.add_child(new_asteroid)
-	
 	new_asteroid.set_mesh_and_collider(asteroid_meshes.pick_random())
-	
-	
+
+func _on_player_collision(body: Node):
+	get_tree().paused = true;
+	game_over_screen.visible = true;
+
+func _on_game_over_pressed():
+	get_tree().paused = false;
+	get_tree().reload_current_scene()
