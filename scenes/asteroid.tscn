@@ -8,7 +8,6 @@ radius = 0.7
 
 [node name="Asteroid" type="RigidBody3D"]
 sleeping = true
-freeze = true
 script = ExtResource("1_2qtu7")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="."]

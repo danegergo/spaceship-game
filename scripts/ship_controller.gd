@@ -10,6 +10,7 @@ const MAX_TURN_DEGREE = 25
 
 @onready var third_person_camera: Camera3D = $ThirdPersonCamera
 @onready var first_person_camera: Camera3D = $FirstPersonCamera
+@onready var push_area: Area3D = $PushArea
 
 var forward_speed = 100.0
 var stopped = false
@@ -26,6 +27,9 @@ func _process(delta):
 			third_person_camera.make_current()
 		else:
 			first_person_camera.make_current()
+			
+	if Input.is_action_just_pressed("push"):
+		print(push_area.get_overlapping_bodies())
 			
 	var collision: KinematicCollision3D = get_last_slide_collision()
 	if (collision):

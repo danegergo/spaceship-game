@@ -64,11 +64,9 @@ func spawn_new_asteroid():
 
 func _on_player_collision(body: Node):
 	player.stopped = true
-	player.velocity = Vector3.ZERO
 	if player.first_person_camera.current:
 		player.third_person_camera.make_current()
 		
-	
 	var explosion = EXPLOSION_SCENE.instantiate()
 	explosion.position = player.position + Vector3(0, 5, 0)
 	scene.add_child(explosion)

@@ -1,4 +1,4 @@
-[gd_scene load_steps=5 format=3 uid="uid://bgthjj5j82xsc"]
+[gd_scene load_steps=6 format=3 uid="uid://bgthjj5j82xsc"]
 
 [ext_resource type="Script" path="res://scripts/ship_controller.gd" id="1_15oe4"]
 [ext_resource type="PackedScene" uid="uid://0k8gadwxcbtv" path="res://assets/spaceship/space_fighter.glb" id="1_usne6"]
@@ -7,6 +7,10 @@
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_s1eij"]
 radius = 9.42555
 height = 29.4809
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_iswy1"]
+height = 216.949
+radius = 110.567
 
 [node name="Player" type="CharacterBody3D"]
 unique_name_in_owner = true
@@ -30,3 +34,9 @@ transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 13.
 current = true
 far = 20000.0
 script = ExtResource("4_jr4qr")
+
+[node name="PushArea" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="PushArea"]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 103.88)
+shape = SubResource("CylinderShape3D_iswy1")
