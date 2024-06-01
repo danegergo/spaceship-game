@@ -12,13 +12,16 @@ const MAX_TURN_DEGREE = 25
 @onready var first_person_camera: Camera3D = $FirstPersonCamera
 
 var forward_speed = 100.0
+var stopped = false
 var input_dir
 
 signal body_entered(body: Node)
 
 func _process(delta):
+	if stopped: 
+		return
+	
 	if Input.is_action_just_pressed("switch_camera"):
-		print(first_person_camera.current)
 		if first_person_camera.current:
 			third_person_camera.make_current()
 		else:
@@ -30,6 +33,9 @@ func _process(delta):
 			
 
 func _physics_process(delta):
+	if stopped: 
+		return
+		
 	input_dir = Input.get_vector("move_right", "move_left", "move_down", "move_up")
 	var direction = (transform.basis * Vector3(input_dir.x, input_dir.y, 0)).normalized()
 	

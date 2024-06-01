@@ -2,6 +2,7 @@ extends Node
 
 const ASTEROIDS_DIR = "res://assets/asteroids"
 const ASTEROID_SCENE = preload("res://scenes/asteroid.tscn")
+const EXPLOSION_SCENE = preload("res://scenes/explosion.tscn")
 
 @export_range(1, 10) var asteroid_per_frame := 2
 @export_range(100, 20000) var asteroid_spawn_dist_z := 1000
@@ -62,6 +63,20 @@ func spawn_new_asteroid():
 	new_asteroid.set_mesh_and_collider(asteroid_meshes.pick_random())
 
 func _on_player_collision(body: Node):
+	player.stopped = true
+	player.velocity = Vector3.ZERO
+	if player.first_person_camera.current:
+		player.third_person_camera.make_current()
+		
+	
+	var explosion = EXPLOSION_SCENE.instantiate()
+	explosion.position = player.position + Vector3(0, 5, 0)
+	scene.add_child(explosion)
+	
+	await get_tree().create_timer(1.0).timeout
+	player.visible = false
+	await get_tree().create_timer(3.0).timeout
+	
 	get_tree().paused = true;
 	game_over_screen.visible = true;
 
