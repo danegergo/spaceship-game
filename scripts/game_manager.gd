@@ -4,10 +4,10 @@ const ASTEROIDS_DIR = "res://assets/asteroids"
 const ASTEROID_SCENE = preload("res://scenes/asteroid.tscn")
 const EXPLOSION_SCENE = preload("res://scenes/explosion.tscn")
 
-@export_range(1, 10) var asteroid_per_frame := 2
+@export_range(1, 30) var asteroid_per_frame := 2
 @export_range(100, 20000) var asteroid_spawn_dist_z := 1000
 @export_range(200, 20000) var max_asteroid_spawn_dist_xy := 500
-@export var min_asteroid_size := 1.5
+@export var min_asteroid_size := 1.7
 
 @onready var player: CharacterBody3D = %Player
 @onready var scene: Node3D = $".."
@@ -49,7 +49,7 @@ func _process(delta):
 func load_meshes_thread(start_index, end_index):
 	for i in range(start_index, end_index):
 		if mesh_files[i].ends_with(".obj"):
-			var asteroid_mesh = load(ASTEROIDS_DIR + "/" + mesh_files[i])
+			var asteroid_mesh: ArrayMesh = load(ASTEROIDS_DIR + "/" + mesh_files[i])
 			if asteroid_mesh and asteroid_mesh.get_aabb().get_longest_axis_size() > min_asteroid_size: 
 				asteroid_meshes.append(asteroid_mesh)
 		

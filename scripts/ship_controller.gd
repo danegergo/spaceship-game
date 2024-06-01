@@ -7,10 +7,13 @@ const MAX_TURN_DEGREE = 25
 
 @export_range(0.0, 3.0) var forward_speed_increment := 0.5
 @export var max_speed := 600
+@export var push_force := 2000
+@export var push_cooldown_time := 4
 
 @onready var third_person_camera: Camera3D = $ThirdPersonCamera
 @onready var first_person_camera: Camera3D = $FirstPersonCamera
 @onready var push_area: Area3D = $PushArea
+@onready var push_cooldown_progress_bar: ProgressBar = %PushCooldownProgressBar
 
 var forward_speed = 100.0
 var stopped = false
@@ -21,21 +24,24 @@ signal body_entered(body: Node)
 func _process(delta):
 	if stopped: 
 		return
-	
+
 	if Input.is_action_just_pressed("switch_camera"):
 		if first_person_camera.current:
 			third_person_camera.make_current()
 		else:
 			first_person_camera.make_current()
 			
-	if Input.is_action_just_pressed("push"):
-		print(push_area.get_overlapping_bodies())
+	if Input.is_action_just_pressed("push") and push_cooldown_progress_bar.value >= 100:
+		push_cooldown_progress_bar.start(push_cooldown_time)
+		var force = push_force * (forward_speed / max_speed) 
+		for body: RigidBody3D in push_area.get_overlapping_bodies():
+			var push_direction = (body.position - position).normalized()
+			body.apply_impulse(push_direction * Vector3(force, force, force))
 			
 	var collision: KinematicCollision3D = get_last_slide_collision()
 	if (collision):
 		body_entered.emit(collision.get_collider())
 			
-
 func _physics_process(delta):
 	if stopped: 
 		return
@@ -64,3 +70,4 @@ func tilt_ship(input_dir: Vector2):
 		rotation = rotation.lerp(Vector3(rotation.x, rotation.y, deg_to_rad(-MAX_TURN_DEGREE)), CAMERA_TURN_SPEED)
 	else:
 		rotation = rotation.lerp(Vector3(rotation.x, rotation.y, deg_to_rad(0)), CAMERA_TURN_SPEED)
+		

@@ -12,7 +12,7 @@ func _ready():
 	player = get_parent().get_node("Player")
 	var force_x = randi_range(MIN_FORCE, MAX_FORCE)
 	var force_y = randi_range(MIN_FORCE, MAX_FORCE)
-	var force_z = randi_range(MIN_FORCE, MAX_FORCE)
+	var force_z = randi_range(-MIN_FORCE, -MAX_FORCE)
 	apply_impulse(Vector3(force_x, force_y, force_z))
 
 func _process(delta):
