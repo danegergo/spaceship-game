@@ -15,7 +15,7 @@ const MAX_TURN_DEGREE = 25
 @onready var push_area: Area3D = $PushArea
 @onready var push_cooldown_progress_bar: ProgressBar = %PushCooldownProgressBar
 
-var forward_speed = 100.0
+var forward_speed = 1400.0
 var stopped = false
 var input_dir
 
@@ -61,7 +61,7 @@ func _physics_process(delta):
 	move_and_slide()
 	
 	if forward_speed < max_speed:
-		forward_speed += forward_speed_increment
+		forward_speed = min(forward_speed + forward_speed_increment, max_speed)
 	
 func tilt_ship(input_dir: Vector2):
 	if input_dir.x < 0:

@@ -20,6 +20,7 @@ var threads: Array[Thread] = []
 var mesh_files: PackedStringArray
 var time_elapsed = 0
 var time_of_last_asteroid = 0
+var spawning_active = false
 
 func _ready():
 	var thread_count = OS.get_processor_count()
@@ -42,10 +43,10 @@ func _ready():
 func _process(delta):
 	for i in asteroid_per_frame:
 		spawn_new_asteroid()
+		
 	score_label.text = "Distance: " + String.num(player.position.z / 100, 0)
 	speed_label.text = "Speed: " + String.num(player.velocity.z / 100, 2)
 	
-		
 func load_meshes_thread(start_index, end_index):
 	for i in range(start_index, end_index):
 		if mesh_files[i].ends_with(".obj"):

@@ -123,8 +123,8 @@ script = SubResource("GDScript_yxs4d")
 [node name="Debris" type="GPUParticles3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1, 0)
 emitting = false
-amount = 48
-lifetime = 1.5
+amount = 54
+lifetime = 2.0
 one_shot = true
 explosiveness = 1.0
 fixed_fps = 60
@@ -133,7 +133,7 @@ draw_pass_1 = SubResource("CylinderMesh_d1esh")
 
 [node name="Smoke" type="GPUParticles3D" parent="."]
 emitting = false
-amount = 40
+amount = 44
 lifetime = 4.0
 one_shot = true
 explosiveness = 1.0
@@ -143,7 +143,7 @@ draw_pass_1 = SubResource("SphereMesh_dwyii")
 
 [node name="Fire" type="GPUParticles3D" parent="."]
 emitting = false
-amount = 48
+amount = 52
 lifetime = 2.5
 one_shot = true
 explosiveness = 1.0
