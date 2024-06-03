@@ -48,7 +48,7 @@ func _ready():
 	dist_timer.start()
 		
 func _process(delta):
-	for i in asteroid_per_frame:
+	for i in ceil((player.forward_speed / player.max_speed) * asteroid_per_frame):
 		spawn_new_asteroid()
 		
 	score_label.text = "Distance: " + String.num(player.position.z / 100, 0)
@@ -67,7 +67,7 @@ func spawn_new_asteroid():
 	new_asteroid.position = Vector3(
 		asteroid_distance_pos_x,
 	 	asteroid_distance_pos_y, 
-		player.position.z + asteroid_spawn_dist_z - ((dist_timer.time_left / DISTANCE_COUNTDOWN) * asteroid_spawn_dist_z - 4000 if dist_timer.time_left else 0)
+		player.position.z + asteroid_spawn_dist_z - ((dist_timer.time_left / DISTANCE_COUNTDOWN) * (asteroid_spawn_dist_z - 2000) - 2000 if dist_timer.time_left else 0)
 	)
 	
 	scene.add_child(new_asteroid)

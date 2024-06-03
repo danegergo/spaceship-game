@@ -15,7 +15,7 @@ radius = 2980.85
 unique_name_in_owner = true
 motion_mode = 1
 script = ExtResource("1_15oe4")
-forward_speed_increment = 2.353
+forward_speed_increment = 2.0
 max_speed = 2000
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
