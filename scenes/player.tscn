@@ -9,7 +9,7 @@ radius = 9.42555
 height = 29.4809
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_eh1q1"]
-radius = 1907.71
+radius = 2980.85
 
 [node name="Player" type="CharacterBody3D"]
 unique_name_in_owner = true
@@ -37,5 +37,5 @@ script = ExtResource("4_jr4qr")
 [node name="PushArea" type="Area3D" parent="."]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="PushArea"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1997.69)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 3012.62)
 shape = SubResource("SphereShape3D_eh1q1")

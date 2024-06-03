@@ -2,7 +2,7 @@ extends Node
 
 const ASTEROIDS_DIR = "res://assets/asteroids"
 const ASTEROID_SCENE = preload("res://scenes/asteroid.tscn")
-const EXPLOSION_SCENE = preload("res://scenes/explosion.tscn")
+const DISTANCE_COUNTDOWN = 3
 
 @export_range(1, 30) var asteroid_per_frame := 2
 @export_range(100, 20000) var asteroid_spawn_dist_z := 1000
@@ -21,6 +21,7 @@ var mesh_files: PackedStringArray
 var time_elapsed = 0
 var time_of_last_asteroid = 0
 var spawning_active = false
+var dist_timer: Timer
 
 func _ready():
 	var thread_count = OS.get_processor_count()
@@ -40,6 +41,12 @@ func _ready():
 	else:
 		print("An error occurred when trying to load asteroid meshes.")
 		
+	dist_timer = Timer.new()
+	dist_timer.wait_time = DISTANCE_COUNTDOWN
+	dist_timer.one_shot = true
+	add_child(dist_timer)
+	dist_timer.start()
+		
 func _process(delta):
 	for i in asteroid_per_frame:
 		spawn_new_asteroid()
@@ -51,14 +58,17 @@ func load_meshes_thread(start_index, end_index):
 	for i in range(start_index, end_index):
 		if mesh_files[i].ends_with(".obj"):
 			var asteroid_mesh: ArrayMesh = load(ASTEROIDS_DIR + "/" + mesh_files[i])
-			if asteroid_mesh and asteroid_mesh.get_aabb().get_longest_axis_size() > min_asteroid_size: 
-				asteroid_meshes.append(asteroid_mesh)
+			asteroid_meshes.append(asteroid_mesh)
 		
 func spawn_new_asteroid():
 	var new_asteroid = ASTEROID_SCENE.instantiate()
 	var asteroid_distance_pos_x = randi_range(player.position.x - max_asteroid_spawn_dist_xy, player.position.x + max_asteroid_spawn_dist_xy)
 	var asteroid_distance_pos_y = randi_range(player.position.y - max_asteroid_spawn_dist_xy, player.position.y + max_asteroid_spawn_dist_xy)
-	new_asteroid.position = Vector3(asteroid_distance_pos_x, asteroid_distance_pos_y, player.position.z + asteroid_spawn_dist_z)
+	new_asteroid.position = Vector3(
+		asteroid_distance_pos_x,
+	 	asteroid_distance_pos_y, 
+		player.position.z + asteroid_spawn_dist_z - ((dist_timer.time_left / DISTANCE_COUNTDOWN) * asteroid_spawn_dist_z - 4000 if dist_timer.time_left else 0)
+	)
 	
 	scene.add_child(new_asteroid)
 	new_asteroid.set_mesh_and_collider(asteroid_meshes.pick_random())
@@ -68,12 +78,7 @@ func _on_player_collision(body: Node):
 	if player.first_person_camera.current:
 		player.third_person_camera.make_current()
 		
-	var explosion = EXPLOSION_SCENE.instantiate()
-	explosion.position = player.position + Vector3(0, 5, 0)
-	scene.add_child(explosion)
-	
-	await get_tree().create_timer(1.0).timeout
-	player.visible = false
+	player.destroy()
 	await get_tree().create_timer(3.0).timeout
 	
 	get_tree().paused = true;

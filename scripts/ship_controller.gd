@@ -2,6 +2,7 @@ class_name Player
 extends CharacterBody3D
 
 const PULSE_EFFECT = preload("res://scenes/pulse_effect.tscn")
+const EXPLOSION_SCENE = preload("res://scenes/explosion.tscn")
 const XY_SPEED = 1000
 const CAMERA_TURN_SPEED = 0.03
 const MAX_TURN_DEGREE = 25
@@ -76,3 +77,11 @@ func use_push():
 		var push_direction = (body.position - position).normalized()
 		body.apply_impulse(push_direction * Vector3(push_force, push_force, push_force))
 	push_cooldown_progress_bar.start(push_cooldown_time)
+
+func destroy():
+	var explosion = EXPLOSION_SCENE.instantiate()
+	add_child(explosion)
+	explosion.position += Vector3(0, 5, 0)
+
+	await get_tree().create_timer(1.0).timeout
+	visible = false
