@@ -1,0 +1,41 @@
+[gd_scene load_steps=6 format=3 uid="uid://31v3mkdj3dk0"]
+
+[ext_resource type="ArrayMesh" uid="uid://2si6pljs0x7l" path="res://assets/ring.obj.res" id="1_bebp0"]
+
+[sub_resource type="Curve" id="Curve_6fxp1"]
+_data = [Vector2(0, 0.00805688), 0.0, 0.0, 0, 0, Vector2(1, 1), 0.0, 0.0, 0, 0]
+point_count = 2
+
+[sub_resource type="CurveTexture" id="CurveTexture_lmcjg"]
+curve = SubResource("Curve_6fxp1")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_x5so4"]
+direction = Vector3(0, 1, 0)
+gravity = Vector3(0, 0, 0)
+scale_min = 1000.0
+scale_max = 1000.0
+scale_curve = SubResource("CurveTexture_lmcjg")
+turbulence_noise_strength = 20.0
+
+[sub_resource type="GDScript" id="GDScript_swyub"]
+script/source = "extends GPUParticles3D
+
+func _ready():
+	emitting = true;
+	await get_tree().create_timer(lifetime).connect('timeout', func(): queue_free())
+
+"
+
+[node name="PulseEffect" type="GPUParticles3D"]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 296.79)
+cast_shadow = 0
+extra_cull_margin = 1080.9
+emitting = false
+amount = 1
+one_shot = true
+fixed_fps = 60
+local_coords = true
+trail_lifetime = 4.58
+process_material = SubResource("ParticleProcessMaterial_x5so4")
+draw_pass_1 = ExtResource("1_bebp0")
+script = SubResource("GDScript_swyub")

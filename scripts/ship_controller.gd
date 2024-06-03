@@ -1,9 +1,11 @@
 class_name Player
 extends CharacterBody3D
 
+const PULSE_EFFECT = preload("res://scenes/pulse_effect.tscn")
 const XY_SPEED = 1000
 const CAMERA_TURN_SPEED = 0.03
 const MAX_TURN_DEGREE = 25
+const INITIAL_SPEED = 1400
 
 @export_range(0.0, 3.0) var forward_speed_increment := 0.5
 @export var max_speed := 600
@@ -15,7 +17,7 @@ const MAX_TURN_DEGREE = 25
 @onready var push_area: Area3D = $PushArea
 @onready var push_cooldown_progress_bar: ProgressBar = %PushCooldownProgressBar
 
-var forward_speed = 1400.0
+var forward_speed = INITIAL_SPEED
 var stopped = false
 var input_dir
 
@@ -32,11 +34,7 @@ func _process(delta):
 			first_person_camera.make_current()
 			
 	if Input.is_action_just_pressed("push") and push_cooldown_progress_bar.value >= 100:
-		push_cooldown_progress_bar.start(push_cooldown_time)
-		var force = push_force * (forward_speed / max_speed) 
-		for body: RigidBody3D in push_area.get_overlapping_bodies():
-			var push_direction = (body.position - position).normalized()
-			body.apply_impulse(push_direction * Vector3(force, force, force))
+		use_push()
 			
 	var collision: KinematicCollision3D = get_last_slide_collision()
 	if (collision):
@@ -71,3 +69,10 @@ func tilt_ship(input_dir: Vector2):
 	else:
 		rotation = rotation.lerp(Vector3(rotation.x, rotation.y, deg_to_rad(0)), CAMERA_TURN_SPEED)
 		
+func use_push():
+	add_child(PULSE_EFFECT.instantiate())
+	await get_tree().create_timer(0.3).timeout
+	for body: RigidBody3D in push_area.get_overlapping_bodies():
+		var push_direction = (body.position - position).normalized()
+		body.apply_impulse(push_direction * Vector3(push_force, push_force, push_force))
+	push_cooldown_progress_bar.start(push_cooldown_time)

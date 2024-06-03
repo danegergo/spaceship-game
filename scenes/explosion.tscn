@@ -11,13 +11,14 @@ script/source = "extends Node3D
 @onready var explosion_sound: AudioStreamPlayer3D = $ExplosionSound
 
 func _ready():
+	var animation_life_time = max(debris.lifetime, smoke.lifetime, fire.lifetime)
+	
 	debris.emitting = true
 	smoke.emitting = true
 	fire.emitting = true
 	explosion_sound.play()
-	await get_tree().create_timer(4.0).timeout
-	queue_free() 
 	
+	await get_tree().create_timer(animation_life_time).connect('timeout', func(): queue_free())
 "
 
 [sub_resource type="Curve" id="Curve_nilkn"]
