@@ -1,0 +1,43 @@
+[gd_scene load_steps=6 format=3 uid="uid://bfv27umw6ujp8"]
+
+[sub_resource type="Curve" id="Curve_gsenu"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(0.496278, 0.919905), 0.0, 0.0, 0, 0, Vector2(1, 1), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="CurveTexture" id="CurveTexture_ee55w"]
+curve = SubResource("Curve_gsenu")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_op8hw"]
+gravity = Vector3(0, 0, 0)
+scale_curve = SubResource("CurveTexture_ee55w")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_xavv1"]
+transparency = 1
+albedo_color = Color(0, 1, 1, 0.227451)
+emission_enabled = true
+emission = Color(0.21998, 0.612395, 0.956606, 1)
+clearcoat_enabled = true
+disable_receive_shadows = true
+grow_amount = 0.62
+
+[sub_resource type="SphereMesh" id="SphereMesh_orwc3"]
+material = SubResource("StandardMaterial3D_xavv1")
+height = 1.441
+is_hemisphere = true
+
+[node name="ThrusterParticle" type="Node3D"]
+
+[node name="GPUParticles3D" type="GPUParticles3D" parent="."]
+gi_mode = 0
+gi_lightmap_scale = 3
+amount = 1
+fixed_fps = 60
+local_coords = true
+process_material = SubResource("ParticleProcessMaterial_op8hw")
+draw_pass_1 = SubResource("SphereMesh_orwc3")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.1751, 0)
+light_color = Color(0.219608, 0.611765, 0.956863, 1)
+light_energy = 4.474
+light_size = 20.0

@@ -75,10 +75,6 @@ shadow_enabled = true
 
 [node name="GameManager" type="Node" parent="."]
 script = ExtResource("1_iqhj3")
-asteroid_per_frame = 15
-asteroid_spawn_dist_z = 10000
-max_asteroid_spawn_dist_xy = 8000
-min_asteroid_size = 2.0
 
 [node name="GameOverScreen" type="Control" parent="."]
 unique_name_in_owner = true

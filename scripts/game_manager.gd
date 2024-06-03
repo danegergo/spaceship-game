@@ -4,10 +4,9 @@ const ASTEROIDS_DIR = "res://assets/asteroids"
 const ASTEROID_SCENE = preload("res://scenes/asteroid.tscn")
 const DISTANCE_COUNTDOWN = 3
 
-@export_range(1, 30) var asteroid_per_frame := 2
-@export_range(100, 20000) var asteroid_spawn_dist_z := 1000
-@export_range(200, 20000) var max_asteroid_spawn_dist_xy := 500
-@export var min_asteroid_size := 1.7
+@export_range(1, 30) var max_asteroid_per_frame := 15
+@export_range(100, 20000) var asteroid_spawn_dist_z := 10000
+@export_range(200, 20000) var max_asteroid_spawn_dist_xy := 8000
 
 @onready var player: CharacterBody3D = %Player
 @onready var scene: Node3D = $".."
@@ -48,7 +47,7 @@ func _ready():
 	dist_timer.start()
 		
 func _process(delta):
-	for i in ceil((player.forward_speed / player.max_speed) * asteroid_per_frame):
+	for i in ceil((player.forward_speed / player.max_speed) * max_asteroid_per_frame):
 		spawn_new_asteroid()
 		
 	score_label.text = "Distance: " + String.num(player.position.z / 100, 0)

@@ -1,7 +1,8 @@
-[gd_scene load_steps=6 format=3 uid="uid://bgthjj5j82xsc"]
+[gd_scene load_steps=7 format=3 uid="uid://bgthjj5j82xsc"]
 
 [ext_resource type="Script" path="res://scripts/ship_controller.gd" id="1_15oe4"]
 [ext_resource type="PackedScene" uid="uid://0k8gadwxcbtv" path="res://assets/spaceship/space_fighter.glb" id="1_usne6"]
+[ext_resource type="PackedScene" uid="uid://bfv27umw6ujp8" path="res://scenes/thruster_particle.tscn" id="4_e2nvf"]
 [ext_resource type="Script" path="res://scripts/camera.gd" id="4_jr4qr"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_s1eij"]
@@ -39,3 +40,6 @@ script = ExtResource("4_jr4qr")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="PushArea"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 3012.62)
 shape = SubResource("SphereShape3D_eh1q1")
+
+[node name="ThrusterParticle" parent="." instance=ExtResource("4_e2nvf")]
+transform = Transform3D(1.9, 0, 0, 0, -8.30516e-08, 1.9, 0, -1.9, -8.30516e-08, 0, 1.04491, -9.339)
