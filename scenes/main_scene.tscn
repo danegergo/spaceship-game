@@ -1,8 +1,9 @@
-[gd_scene load_steps=12 format=3 uid="uid://cdqrvyax3d1mr"]
+[gd_scene load_steps=15 format=3 uid="uid://cdqrvyax3d1mr"]
 
 [ext_resource type="Script" path="res://scripts/game_manager.gd" id="1_iqhj3"]
 [ext_resource type="PackedScene" uid="uid://bgthjj5j82xsc" path="res://scenes/player.tscn" id="2_kmaxy"]
 [ext_resource type="Texture2D" uid="uid://06b1r3bxgvll" path="res://assets/skybox/panorama_image.png" id="3_l0mfr"]
+[ext_resource type="Texture2D" uid="uid://5i7sop5t3yq5" path="res://assets/noise.jpg" id="4_jmdok"]
 
 [sub_resource type="PanoramaSkyMaterial" id="PanoramaSkyMaterial_8jqb6"]
 panorama = ExtResource("3_l0mfr")
@@ -57,6 +58,78 @@ func progress_bar_tick():
 		return
 	value -= 100 / (time / TICK)
 "
+
+[sub_resource type="Shader" id="Shader_cov2p"]
+code = "shader_type canvas_item;
+
+
+uniform sampler2D noise: repeat_enable;
+uniform vec4 line_color: source_color;
+uniform float line_count: hint_range(0.0, 2.0, 0.05) = 0.5;
+uniform float line_density: hint_range(0.0, 1.0) = 0.5;
+uniform float line_faloff: hint_range(0.0, 1.0) = 0.25;
+uniform float mask_size: hint_range(0.0, 1.0) = 0.1;
+uniform float mask_edge: hint_range(0.0, 1.0) = 0.5;
+uniform float animation_speed: hint_range(1.0, 20.0) = 0.5;
+
+
+
+
+float inv_lerp(float from, float to, float value){
+  return (value - from) / (to - from);
+}
+
+
+
+
+vec2 polar_coordinates(vec2 uv, vec2 center, float zoom, float repeat)
+{
+	vec2 dir = uv - center;
+	float radius = length(dir) * 2.0;
+	float angle = atan(dir.y, dir.x) * 1.0/(PI * 2.0);
+	return mod(vec2(radius * zoom, angle * repeat), 1.0);
+}
+
+
+
+
+vec2 rotate_uv(vec2 uv, vec2 pivot, float rotation) {
+    float cosa = cos(rotation);
+    float sina = sin(rotation);
+    uv -= pivot;
+    return vec2(
+        cosa * uv.x - sina * uv.y,
+        cosa * uv.y + sina * uv.x 
+    ) + pivot;
+}
+
+
+
+
+void fragment(){
+	vec2 polar_uv = polar_coordinates(rotate_uv(UV, vec2(0.5), floor(fract(TIME) * animation_speed) ) , vec2(0.5), 0.01, line_count);
+	vec3 lines = texture(noise, polar_uv).rgb;
+	
+	float mask_value = length(UV - vec2(0.5));
+	float mask = inv_lerp(mask_size, mask_edge, mask_value);
+	float result = 1.0 - (mask * line_density);
+	
+	result = smoothstep(result, result + line_faloff, lines.r);
+	
+	COLOR.rgb = vec3(line_color.rgb);
+	COLOR.a = min(line_color.a, result);
+}"
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_f46kl"]
+shader = SubResource("Shader_cov2p")
+shader_parameter/line_color = Color(1, 1, 1, 1)
+shader_parameter/line_count = 1.0
+shader_parameter/line_density = 0.0
+shader_parameter/line_faloff = 0.3
+shader_parameter/mask_size = 0.4
+shader_parameter/mask_edge = 0.5
+shader_parameter/animation_speed = 20.0
+shader_parameter/noise = ExtResource("4_jmdok")
 
 [node name="MainScene" type="Node3D"]
 
@@ -157,6 +230,16 @@ theme_override_styles/fill = SubResource("StyleBoxFlat_8t0wo")
 value = 100.0
 show_percentage = false
 script = SubResource("GDScript_xambl")
+
+[node name="SpeedLines" type="Panel" parent="UI"]
+unique_name_in_owner = true
+material = SubResource("ShaderMaterial_f46kl")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
 
 [connection signal="body_entered" from="Player" to="GameManager" method="_on_player_collision"]
 [connection signal="pressed" from="GameOverScreen/Button" to="GameManager" method="_on_game_over_pressed"]

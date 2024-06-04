@@ -1,8 +1,21 @@
 [gd_scene load_steps=7 format=3 uid="uid://31v3mkdj3dk0"]
 
-[ext_resource type="Script" path="res://scenes/pulse_effect.gd" id="1_11djj"]
 [ext_resource type="ArrayMesh" uid="uid://2si6pljs0x7l" path="res://assets/ring.obj.res" id="1_bebp0"]
 [ext_resource type="AudioStream" uid="uid://do817moqe6m57" path="res://assets/audio/pulse_sound_effect.mp3" id="3_t1bii"]
+
+[sub_resource type="GDScript" id="GDScript_bql3p"]
+script/source = "extends Node3D
+
+@onready var pulse_effect: GPUParticles3D = $PulseEffect
+@onready var pulse_sound: AudioStreamPlayer3D = $PulseSound
+
+func _ready():
+	var animation_life_time = max(pulse_effect.lifetime, pulse_sound.stream.get_length())
+	
+	pulse_effect.emitting = true;
+	pulse_sound.play()
+	await get_tree().create_timer(animation_life_time).connect('timeout', func(): queue_free())
+"
 
 [sub_resource type="Curve" id="Curve_6fxp1"]
 _data = [Vector2(0, 0.00805688), 0.0, 0.0, 0, 0, Vector2(1, 1), 0.0, 0.0, 0, 0]
@@ -20,7 +33,7 @@ scale_curve = SubResource("CurveTexture_lmcjg")
 turbulence_noise_strength = 20.0
 
 [node name="Node3D" type="Node3D"]
-script = ExtResource("1_11djj")
+script = SubResource("GDScript_bql3p")
 
 [node name="PulseEffect" type="GPUParticles3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 296.79)

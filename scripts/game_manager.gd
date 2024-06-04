@@ -3,6 +3,7 @@ extends Node
 const ASTEROIDS_DIR = "res://assets/asteroids"
 const ASTEROID_SCENE = preload("res://scenes/asteroid.tscn")
 const DISTANCE_COUNTDOWN = 3
+const SPEED_LINES_MAX_DENSITY = 0.12
 
 @export_range(1, 30) var max_asteroid_per_frame := 15
 @export_range(100, 20000) var asteroid_spawn_dist_z := 10000
@@ -13,6 +14,7 @@ const DISTANCE_COUNTDOWN = 3
 @onready var game_over_screen: Control = %GameOverScreen
 @onready var score_label: Label = %Score
 @onready var speed_label: Label = %Speed
+@onready var speed_lines: Panel = %SpeedLines
 
 var asteroid_meshes: Array[ArrayMesh] = []
 var threads: Array[Thread] = []
@@ -23,7 +25,6 @@ var spawning_active = false
 var dist_timer: Timer
 
 func _ready():
-	print(asteroid_meshes.size())
 	var thread_count = OS.get_processor_count()
 	var dir = DirAccess.open(ASTEROIDS_DIR)
 	if dir:
@@ -51,6 +52,8 @@ func _process(delta):
 	for i in ceil((player.forward_speed / player.max_speed) * max_asteroid_per_frame):
 		spawn_new_asteroid()
 		
+	var speed_line_multiplier = player.forward_speed / player.max_speed if player.forward_speed / player.max_speed >= 0.5 else player.forward_speed / player.max_speed / 2
+	speed_lines.material.set_shader_parameter("line_density", SPEED_LINES_MAX_DENSITY * speed_line_multiplier);
 	score_label.text = "Distance: " + String.num(player.position.z / 100, 0)
 	speed_label.text = "Speed: " + String.num(player.velocity.z / 100, 2)
 	
@@ -79,7 +82,8 @@ func _on_player_collision(body: Node):
 		player.third_person_camera.make_current()
 		
 	player.destroy()
-	await get_tree().create_timer(3.0).timeout
+	speed_lines.visible = false
+	await get_tree().create_timer(4.0).timeout
 	
 	get_tree().paused = true;
 	game_over_screen.visible = true;

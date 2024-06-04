@@ -9,9 +9,10 @@ script/source = "extends Node3D
 @onready var smoke: GPUParticles3D = $Smoke
 @onready var fire: GPUParticles3D = $Fire
 @onready var explosion_sound: AudioStreamPlayer3D = $ExplosionSound
+var animation_life_time
 
 func _ready():
-	var animation_life_time = max(debris.lifetime, smoke.lifetime, fire.lifetime)
+	animation_life_time = max(debris.lifetime, smoke.lifetime, fire.lifetime)
 	
 	debris.emitting = true
 	smoke.emitting = true

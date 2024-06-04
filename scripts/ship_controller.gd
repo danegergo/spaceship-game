@@ -83,5 +83,5 @@ func destroy():
 	add_child(explosion)
 	explosion.position += Vector3(0, 5, 0)
 
-	await get_tree().create_timer(1.0).timeout
+	await get_tree().create_timer(explosion.animation_life_time).timeout
 	visible = false
