@@ -10,7 +10,7 @@ radius = 9.42555
 height = 29.4809
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_eh1q1"]
-radius = 2980.85
+radius = 3921.0
 
 [node name="Player" type="CharacterBody3D"]
 unique_name_in_owner = true
@@ -27,18 +27,20 @@ shape = SubResource("CapsuleShape3D_s1eij")
 
 [node name="FirstPersonCamera" type="Camera3D" parent="."]
 transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 3.64531, 12.5253)
+fov = 70.0
 far = 20000.0
 
 [node name="ThirdPersonCamera" type="Camera3D" parent="."]
 transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 13.6695, -26.1823)
 current = true
+fov = 70.0
 far = 20000.0
 script = ExtResource("4_jr4qr")
 
 [node name="PushArea" type="Area3D" parent="."]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="PushArea"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 3012.62)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 3988.74)
 shape = SubResource("SphereShape3D_eh1q1")
 
 [node name="ThrusterParticle" parent="." instance=ExtResource("4_e2nvf")]

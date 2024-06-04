@@ -26,6 +26,7 @@ func _process(delta):
 func set_mesh_and_collider(new_mesh: ArrayMesh):
 	meshInstance.mesh = new_mesh
 	var mesh_length = meshInstance.mesh.get_aabb().get_longest_axis_size()
+
 	if mesh_length < MIN_ASTEROID_SIZE:
 		var mesh_length_multiplier = MIN_ASTEROID_SIZE / mesh_length
 		meshInstance.scale = Vector3(mesh_length_multiplier, mesh_length_multiplier, mesh_length_multiplier)
@@ -33,6 +34,7 @@ func set_mesh_and_collider(new_mesh: ArrayMesh):
 	if randf() < BIG_ASTEROID_CHANCE:
 		var scale_multiplier = randf_range(3, 5)
 		meshInstance.scale *= Vector3(scale_multiplier, scale_multiplier, scale_multiplier)
+		mesh_length *= scale_multiplier
 		
 	var colliderSpehere = SphereShape3D.new()
 	colliderSpehere.radius = mesh_length / 2

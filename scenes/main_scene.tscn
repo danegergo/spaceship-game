@@ -63,7 +63,7 @@ func progress_bar_tick():
 [node name="Player" parent="." instance=ExtResource("2_kmaxy")]
 forward_speed_increment = 1.9
 max_speed = 4500
-push_force = 2200
+push_force = 2350
 push_cooldown_time = 3
 
 [node name="Skybox" type="WorldEnvironment" parent="."]

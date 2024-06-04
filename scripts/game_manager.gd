@@ -23,6 +23,7 @@ var spawning_active = false
 var dist_timer: Timer
 
 func _ready():
+	print(asteroid_meshes.size())
 	var thread_count = OS.get_processor_count()
 	var dir = DirAccess.open(ASTEROIDS_DIR)
 	if dir:
