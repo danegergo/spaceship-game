@@ -6,10 +6,12 @@ const MAX_FORCE = 700
 const TORQUE = 650
 const MIN_ASTEROID_SIZE = 200
 const BIG_ASTEROID_CHANCE = 0.025
+const MESH_LOAD_DISTANCE = 10000
 
 @onready var collider = $CollisionShape3D
 @onready var meshInstance = $MeshInstance3D
 var player: Player
+var mesh: ArrayMesh
 
 func _ready():
 	player = get_parent().get_node("Player")
@@ -20,12 +22,20 @@ func _ready():
 
 func _process(delta):
 	apply_torque(Vector3(TORQUE, 0, 0))
-	if player and (position.z <= player.position.z - DESTROY_DISTANCE):
+	if position.z <= player.position.z - DESTROY_DISTANCE:
 		queue_free()
+	elif player and position.z <= player.position.z + MESH_LOAD_DISTANCE:
+		meshInstance.mesh = mesh
+		
 
 func set_mesh_and_collider(new_mesh: ArrayMesh):
-	meshInstance.mesh = new_mesh
-	var mesh_length = meshInstance.mesh.get_aabb().get_longest_axis_size()
+	
+	
+	mesh = new_mesh
+	var mesh_length = mesh.get_aabb().get_longest_axis_size()
+	meshInstance.mesh = SphereMesh.new()
+	meshInstance.mesh.height = mesh_length
+	meshInstance.mesh.radius = mesh_length / 2
 
 	if mesh_length < MIN_ASTEROID_SIZE:
 		var mesh_length_multiplier = MIN_ASTEROID_SIZE / mesh_length

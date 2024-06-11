@@ -1,9 +1,10 @@
-[gd_scene load_steps=7 format=3 uid="uid://bgthjj5j82xsc"]
+[gd_scene load_steps=8 format=3 uid="uid://bgthjj5j82xsc"]
 
 [ext_resource type="Script" path="res://scripts/ship_controller.gd" id="1_15oe4"]
 [ext_resource type="PackedScene" uid="uid://0k8gadwxcbtv" path="res://assets/spaceship/space_fighter.glb" id="1_usne6"]
 [ext_resource type="PackedScene" uid="uid://bfv27umw6ujp8" path="res://scenes/thruster_particle.tscn" id="4_e2nvf"]
 [ext_resource type="Script" path="res://scripts/camera.gd" id="4_jr4qr"]
+[ext_resource type="AudioStream" uid="uid://e0xawwjqhfeq" path="res://assets/audio/engine_sound.ogg" id="5_vmuk2"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_s1eij"]
 radius = 9.42555
@@ -28,13 +29,13 @@ shape = SubResource("CapsuleShape3D_s1eij")
 [node name="FirstPersonCamera" type="Camera3D" parent="."]
 transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 3.64531, 12.5253)
 fov = 70.0
-far = 20000.0
+far = 40000.0
 
 [node name="ThirdPersonCamera" type="Camera3D" parent="."]
 transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 13.6695, -26.1823)
 current = true
 fov = 70.0
-far = 20000.0
+far = 40000.0
 script = ExtResource("4_jr4qr")
 
 [node name="PushArea" type="Area3D" parent="."]
@@ -45,3 +46,8 @@ shape = SubResource("SphereShape3D_eh1q1")
 
 [node name="ThrusterParticle" parent="." instance=ExtResource("4_e2nvf")]
 transform = Transform3D(1.9, 0, 0, 0, -8.30516e-08, 1.9, 0, -1.9, -8.30516e-08, 0, 1.04491, -9.339)
+
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource("5_vmuk2")
+volume_db = 4.0
+autoplay = true

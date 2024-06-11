@@ -2,11 +2,11 @@ extends Node
 
 const ASTEROIDS_DIR = "res://assets/asteroids"
 const ASTEROID_SCENE = preload("res://scenes/asteroid.tscn")
-const DISTANCE_COUNTDOWN = 3
+const DISTANCE_COUNTDOWN = 6
 const SPEED_LINES_MAX_DENSITY = 0.12
 
 @export_range(1, 30) var max_asteroid_per_frame := 15
-@export_range(100, 20000) var asteroid_spawn_dist_z := 10000
+@export_range(100, 100000) var asteroid_spawn_dist_z := 10000
 @export_range(200, 20000) var max_asteroid_spawn_dist_xy := 8000
 
 @onready var player: CharacterBody3D = %Player
@@ -47,6 +47,11 @@ func _ready():
 	dist_timer.one_shot = true
 	add_child(dist_timer)
 	dist_timer.start()
+	
+	await get_tree().create_timer(0.1).timeout
+	
+	for i in 2500: 
+		spawn_new_asteroid(true)
 		
 func _process(delta):
 	for i in ceil((player.forward_speed / player.max_speed) * max_asteroid_per_frame):
@@ -63,14 +68,14 @@ func load_meshes_thread(start_index, end_index):
 			var asteroid_mesh: ArrayMesh = load(ASTEROIDS_DIR + "/" + mesh_files[i])
 			asteroid_meshes.append(asteroid_mesh)
 		
-func spawn_new_asteroid():
+func spawn_new_asteroid(initial = false):
 	var new_asteroid = ASTEROID_SCENE.instantiate()
 	var asteroid_distance_pos_x = randi_range(player.position.x - max_asteroid_spawn_dist_xy, player.position.x + max_asteroid_spawn_dist_xy)
 	var asteroid_distance_pos_y = randi_range(player.position.y - max_asteroid_spawn_dist_xy, player.position.y + max_asteroid_spawn_dist_xy)
 	new_asteroid.position = Vector3(
 		asteroid_distance_pos_x,
 	 	asteroid_distance_pos_y, 
-		player.position.z + asteroid_spawn_dist_z - ((dist_timer.time_left / DISTANCE_COUNTDOWN) * (asteroid_spawn_dist_z - 2000) - 2000 if dist_timer.time_left else 0)
+		player.position.z + 1000 + randi_range(player.position.z + 1000, player.position.z + 1000 + asteroid_spawn_dist_z) if initial else player.position.z + asteroid_spawn_dist_z
 	)
 	
 	scene.add_child(new_asteroid)

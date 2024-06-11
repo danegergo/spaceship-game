@@ -124,9 +124,9 @@ void fragment(){
 shader = SubResource("Shader_cov2p")
 shader_parameter/line_color = Color(1, 1, 1, 1)
 shader_parameter/line_count = 1.0
-shader_parameter/line_density = 0.0
-shader_parameter/line_faloff = 0.3
-shader_parameter/mask_size = 0.4
+shader_parameter/line_density = 0.12
+shader_parameter/line_faloff = 0.25
+shader_parameter/mask_size = 0.35
 shader_parameter/mask_edge = 0.5
 shader_parameter/animation_speed = 20.0
 shader_parameter/noise = ExtResource("4_jmdok")
@@ -148,6 +148,8 @@ shadow_enabled = true
 
 [node name="GameManager" type="Node" parent="."]
 script = ExtResource("1_iqhj3")
+max_asteroid_per_frame = 14
+asteroid_spawn_dist_z = 30000
 
 [node name="GameOverScreen" type="Control" parent="."]
 unique_name_in_owner = true
